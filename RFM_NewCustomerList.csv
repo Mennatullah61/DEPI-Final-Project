@@ -1,0 +1,1001 @@
+name,age,gender,past_3_years_bike_related_purchases,categorized_job_title,job_industry_category,wealth_segment,owns_car,tenure,postcode,state,property_valuation,Rank,Value,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20
+Chickie Brister,60.0,Male,86,Administrative Roles,Manufacturing,Mass Customer,Yes,14,4500,Queensland,6,1,1.71875,1.04,1.3,1.625,1.3812499999999999,1
+Morly Genery,47.0,Male,69,Engineering & Technical Roles,Property,Mass Customer,No,16,2113,New South Wales,11,1,1.71875,0.85,0.85,1.0625,0.903125,1
+Ardelis Forrester,43.0,Female,10,Management & Leadership Roles,Financial Services,Affluent Customer,No,10,3505,Victoria,5,1,1.71875,0.56,0.56,0.56,0.56,1
+Lucine Stutt,38.0,Female,64,Marketing & Media,Manufacturing,Affluent Customer,Yes,5,4814,Queensland,1,4,1.703125,0.51,0.6375,0.6375,0.6375,4
+Melinda Hadlee,52.0,Female,34,Finance & Accounting,Financial Services,Affluent Customer,No,19,2093,New South Wales,9,4,1.703125,1.0,1.0,1.25,1.25,4
+Druci Brandli,66.0,Female,39,Administrative Roles,Entertainment,High Net Worth,Yes,22,4075,Queensland,7,6,1.671875,0.75,0.9375,0.9375,0.9375,6
+Rutledge Hallt,41.0,Male,23,Finance & Accounting,Financial Services,Mass Customer,No,8,2620,New South Wales,7,6,1.671875,0.99,0.99,0.99,0.8415,6
+Nancie Vian,45.0,Female,74,Administrative Roles,Retail,Mass Customer,Yes,10,4814,Queensland,5,8,1.65625,0.91,1.1375,1.1375,0.9668749999999999,8
+Duff Karlowicz,45.0,Male,50,Healthcare & Therapy,Manufacturing,Mass Customer,Yes,5,2200,New South Wales,10,8,1.65625,0.8,1.0,1.25,1.0625,8
+Barthel Docket,32.0,Male,72,Administrative Roles,IT,Mass Customer,Yes,17,4151,Queensland,5,10,1.640625,0.63,0.7875,0.7875,0.6693749999999999,10
+Rockwell Matson,23.0,Male,94,IT & Software Roles,Retail,High Net Worth,No,3,4573,Queensland,6,10,1.640625,0.86,0.86,1.075,1.075,10
+Wheeler Winward,18.0,Male,48,Science & Research,Manufacturing,Mass Customer,No,10,3216,Victoria,8,12,1.625,1.09,1.09,1.09,0.9265,12
+Olag  ,27.0,Male,60,Administrative Roles,Telecommunications,Mass Customer,No,9,2032,New South Wales,11,13,1.609375,0.95,0.95,1.1875,1.009375,13
+Melba Spellacy,41.0,Female,38,Management & Leadership Roles,Health,Mass Customer,No,4,2232,New South Wales,10,14,1.59375,0.7,0.7,0.875,0.74375,14
+Mandie Feares,53.0,Female,32,Healthcare & Therapy,Health,Mass Customer,No,10,4053,Queensland,8,14,1.59375,0.96,0.96,0.96,0.816,14
+Dukie Swire,63.0,Male,88,unknown,Manufacturing,Affluent Customer,Yes,5,2500,New South Wales,8,16,1.5625,0.63,0.7875,0.984375,0.984375,16
+Marcelia Monkleigh,24.0,Female,61,Education & Teaching,Manufacturing,Mass Customer,Yes,4,4051,Queensland,6,17,1.546875,1.09,1.3625,1.3625,1.158125,17
+Winnifred Beswetherick,41.0,Female,83,Finance & Accounting,Financial Services,Mass Customer,No,14,3040,Victoria,10,17,1.546875,0.55,0.55,0.6875,0.584375,17
+Odilia Quick,79.0,Female,65,Administrative Roles,Manufacturing,Affluent Customer,Yes,11,2222,New South Wales,11,19,1.53125,0.72,0.8999999999999999,1.125,1.125,19
+Karly Willavize,63.0,Female,2,Finance & Accounting,Manufacturing,High Net Worth,No,12,2190,New South Wales,10,19,1.53125,0.86,0.86,1.075,1.075,19
+Teddie Burchill,49.0,Male,11,IT & Software Roles,Manufacturing,Mass Customer,Yes,13,2161,New South Wales,9,21,1.515625,0.91,1.1375,1.421875,1.20859375,21
+Gaston Dallaghan,24.0,Male,44,Finance & Accounting,Financial Services,Mass Customer,Yes,8,2783,New South Wales,7,21,1.515625,0.58,0.725,0.725,0.61625,21
+Otis Ottey,19.0,Male,26,Engineering & Technical Roles,Unknown,Mass Customer,No,3,4744,Queensland,4,23,1.5,0.92,0.92,0.92,0.782,23
+Tabbatha Averill,40.0,Female,5,Healthcare & Therapy,Unknown,Affluent Customer,Yes,13,2257,New South Wales,8,23,1.5,0.58,0.725,0.725,0.725,23
+Brena Schnitter,35.0,Female,78,Marketing & Media,Manufacturing,Mass Customer,No,4,4703,Queensland,5,25,1.484375,1.02,1.02,1.02,0.867,25
+Rourke Gillbard,72.0,Male,11,unknown,Property,Mass Customer,No,17,4817,Queensland,4,26,1.46875,0.85,0.85,0.85,0.7224999999999999,26
+Dyane Burwell,65.0,Female,19,Engineering & Technical Roles,Retail,Mass Customer,Yes,7,2640,New South Wales,2,26,1.46875,1.07,1.3375000000000001,1.3375000000000001,1.136875,26
+Claudine Barstowk,51.0,Female,71,Healthcare & Therapy,Property,High Net Worth,Yes,5,4000,Queensland,11,26,1.46875,0.81,1.0125000000000002,1.2656250000000002,1.2656250000000002,26
+Blinnie Roze,57.0,Female,84,Science & Research,Entertainment,High Net Worth,No,11,4171,Queensland,7,26,1.46875,0.78,0.78,0.9750000000000001,0.9750000000000001,26
+Rhona De Freyne,57.0,Female,45,unknown,Health,High Net Worth,No,8,3056,Victoria,10,30,1.4609375,0.41,0.41,0.5125,0.5125,30
+Sharron Claibourn,37.0,Female,62,unknown,Financial Services,High Net Worth,Yes,17,2280,New South Wales,8,30,1.4609375,1.05,1.3125,1.3125,1.3125,30
+Brien Heaton,66.0,Male,70,Healthcare & Therapy,Health,Mass Customer,Yes,12,2470,New South Wales,2,32,1.453125,0.46,0.5750000000000001,0.5750000000000001,0.48875,32
+Sybilla MacCart,30.0,Female,88,Administrative Roles,Financial Services,Mass Customer,Yes,7,2620,New South Wales,7,32,1.453125,0.71,0.8875,1.109375,0.94296875,32
+Mikel McNess,36.0,Male,71,Healthcare & Therapy,Unknown,Mass Customer,No,9,4122,Queensland,9,32,1.453125,0.83,0.83,1.0374999999999999,0.8818749999999999,32
+Maisie Maddox,40.0,Female,27,Administrative Roles,Financial Services,Affluent Customer,No,20,3226,Victoria,9,32,1.453125,0.5,0.5,0.625,0.625,32
+Arleen Casbolt,42.0,Female,48,Engineering & Technical Roles,Financial Services,Affluent Customer,Yes,13,4817,Queensland,1,36,1.44765625,0.93,1.1625,1.1625,1.1625,36
+Farlie Petford,49.0,Male,76,Administrative Roles,Unknown,High Net Worth,No,13,2017,New South Wales,10,36,1.44765625,0.86,0.86,1.075,1.075,36
+Mitchell MacCague,38.0,Male,58,unknown,Manufacturing,Mass Customer,No,15,3190,Victoria,8,38,1.4375,0.57,0.57,0.57,0.48449999999999993,38
+Garik Whitwell,62.0,Male,44,unknown,Property,Mass Customer,Yes,13,3280,Victoria,2,38,1.4375,0.85,1.0625,1.0625,0.903125,38
+Antonin Britt,24.0,Male,64,unknown,Manufacturing,Affluent Customer,Yes,8,2160,New South Wales,9,40,1.434375,1.06,1.3250000000000002,1.6562500000000002,1.6562500000000002,40
+Vinny Incogna,64.0,Female,73,unknown,Health,High Net Worth,No,10,2756,New South Wales,8,40,1.434375,1.01,1.01,1.01,1.01,40
+Colene Fishleigh,32.0,Female,24,Engineering & Technical Roles,Financial Services,Mass Customer,No,3,3149,Victoria,10,42,1.421875,1.02,1.02,1.275,1.08375,42
+Neile Argent,71.0,Female,79,unknown,Retail,Mass Customer,No,8,2024,New South Wales,10,42,1.421875,1.03,1.03,1.2875,1.094375,42
+Corinna Suggey,51.0,Female,52,Engineering & Technical Roles,Unknown,Affluent Customer,No,9,2761,New South Wales,8,44,1.42109375,0.72,0.72,0.72,0.72,44
+Brooke Arling,56.0,Male,76,unknown,Unknown,High Net Worth,No,6,3027,Victoria,5,44,1.42109375,0.41,0.41,0.41,0.41,44
+Gipsy Ewestace,61.0,Female,29,Management & Leadership Roles,Retail,High Net Worth,Yes,5,2034,New South Wales,12,46,1.4078125,0.87,1.0875,1.359375,1.359375,46
+Sheena Kybbye,61.0,Female,14,Administrative Roles,Financial Services,Affluent Customer,Yes,19,4852,Queensland,1,46,1.4078125,0.69,0.8624999999999999,0.8624999999999999,0.8624999999999999,46
+Jobina Gobourn,23.0,Female,85,Management & Leadership Roles,Unknown,High Net Worth,Yes,14,4305,Queensland,4,46,1.4078125,0.92,1.1500000000000001,1.4375000000000002,1.4375000000000002,46
+Gale Disbrow,40.0,Female,59,Management & Leadership Roles,Financial Services,Mass Customer,Yes,17,3741,Victoria,7,46,1.4078125,0.82,1.025,1.025,0.8712499999999999,46
+Thaxter Kingsbury,67.0,Male,12,Engineering & Technical Roles,Argiculture,Mass Customer,No,20,2067,New South Wales,12,50,1.40625,0.4,0.4,0.5,0.425,50
+Heinrick Shilstone,39.0,Male,60,unknown,Manufacturing,Affluent Customer,No,10,3174,Victoria,8,50,1.40625,0.51,0.51,0.51,0.51,50
+Taylor Steuhlmeyer,18.0,Male,62,Administrative Roles,Financial Services,Affluent Customer,Yes,5,4017,Queensland,8,52,1.39453125,0.97,1.2125,1.2125,1.2125,52
+Griswold Kelsall,24.0,Male,55,Marketing & Media,Health,High Net Worth,Yes,11,3805,Victoria,7,52,1.39453125,0.48,0.6,0.6,0.6,52
+Odessa Mc Andrew,36.0,Female,97,unknown,Property,Mass Customer,No,8,2232,New South Wales,10,54,1.38125,0.95,0.95,1.1875,1.009375,54
+Lavena Seekings,22.0,Female,87,Administrative Roles,Retail,Mass Customer,No,16,3166,Victoria,10,54,1.38125,0.77,0.77,0.9625,0.818125,54
+Martelle Tuppeny,36.0,Female,52,Administrative Roles,Manufacturing,Mass Customer,No,9,2226,New South Wales,10,54,1.38125,1.03,1.03,1.2875,1.094375,54
+Briant Ladley,38.0,Male,75,Administrative Roles,Argiculture,Mass Customer,No,12,2750,New South Wales,8,57,1.375,0.58,0.58,0.58,0.49299999999999994,57
+Marylou Kirkup,45.0,Female,51,Management & Leadership Roles,Unknown,Mass Customer,No,14,3196,Victoria,9,57,1.375,0.7,0.7,0.875,0.74375,57
+Whittaker  ,51.0,Male,64,Administrative Roles,Unknown,Mass Customer,Yes,8,3156,Victoria,5,57,1.375,1.09,1.3625,1.3625,1.158125,57
+Normy Goodinge,46.240081383519836,U,5,Education & Teaching,IT,Mass Customer,No,4,3810,Victoria,5,57,1.375,0.83,0.83,0.83,0.7054999999999999,57
+Lorrie Antonelli,34.0,Male,47,Management & Leadership Roles,Financial Services,High Net Worth,Yes,17,2257,New South Wales,7,57,1.375,1.02,1.275,1.275,1.275,57
+Jedediah Kedie,46.0,Male,31,IT & Software Roles,Argiculture,Mass Customer,Yes,9,2763,New South Wales,9,62,1.36796875,0.47,0.5874999999999999,0.7343749999999999,0.6242187499999999,62
+Kaine Smallcombe,75.0,Male,59,Finance & Accounting,Financial Services,High Net Worth,No,11,2072,New South Wales,10,62,1.36796875,0.78,0.78,0.9750000000000001,0.9750000000000001,62
+Loise Iltchev,50.0,Female,70,Engineering & Technical Roles,Manufacturing,High Net Worth,Yes,17,4504,Queensland,6,62,1.36796875,0.4,0.5,0.5,0.5,62
+Cristen Maroney,18.0,Female,22,Finance & Accounting,IT,High Net Worth,Yes,7,4214,Queensland,7,65,1.3625,1.0,1.25,1.25,1.25,65
+Dorothy Barnardo,34.0,Female,58,Administrative Roles,Retail,High Net Worth,No,12,2168,New South Wales,8,65,1.3625,0.53,0.53,0.53,0.53,65
+Rosmunda Duxbarry,21.0,Female,69,Administrative Roles,Property,Affluent Customer,Yes,5,4208,Queensland,11,65,1.3625,0.46,0.5750000000000001,0.7187500000000001,0.7187500000000001,65
+Rozamond Riha,33.0,Female,54,Marketing & Media,Manufacturing,Affluent Customer,Yes,16,4078,Queensland,7,68,1.3546875,0.94,1.1749999999999998,1.1749999999999998,1.1749999999999998,68
+Gunner Petti,18.0,Male,62,Administrative Roles,Financial Services,High Net Worth,Yes,3,4036,Queensland,5,68,1.3546875,0.59,0.7374999999999999,0.7374999999999999,0.7374999999999999,68
+Vivienne Crayden,29.0,Female,82,Education & Teaching,Unknown,High Net Worth,Yes,6,4173,Queensland,7,68,1.3546875,0.87,1.0875,1.359375,1.359375,68
+Sherilyn Canero,21.0,Female,11,Healthcare & Therapy,Health,High Net Worth,Yes,13,2484,New South Wales,7,68,1.3546875,0.65,0.8125,0.8125,0.8125,68
+Bessie Roscow,23.0,Female,78,Engineering & Technical Roles,Financial Services,Mass Customer,No,9,2121,New South Wales,10,72,1.35,0.79,0.79,0.9875,0.839375,72
+Kevina Ferandez,18.0,Female,73,Administrative Roles,Financial Services,High Net Worth,No,15,4068,Queensland,9,72,1.35,0.75,0.75,0.9375,0.9375,72
+Yancy Clementet,49.0,Male,5,Engineering & Technical Roles,Unknown,High Net Worth,No,15,2147,New South Wales,9,72,1.35,0.82,0.82,1.025,1.025,72
+Mabelle Wellbelove,59.0,Female,76,unknown,Financial Services,Affluent Customer,Yes,19,2219,New South Wales,9,72,1.35,0.86,1.075,1.34375,1.34375,72
+Hasheem Groucock,43.0,Male,98,Finance & Accounting,Manufacturing,High Net Worth,Yes,10,2034,New South Wales,12,72,1.35,0.75,0.9375,1.171875,1.171875,72
+Tobias Woodhams,56.0,Male,0,Science & Research,Health,Mass Customer,No,17,2759,New South Wales,9,77,1.34140625,0.53,0.53,0.6625000000000001,0.5631250000000001,77
+Glennis Flintoff,61.0,Female,36,Healthcare & Therapy,Health,Affluent Customer,Yes,13,3030,Victoria,7,78,1.3375,0.96,1.2,1.2,1.2,78
+Chanda Mensler,45.0,Female,15,IT & Software Roles,Manufacturing,Mass Customer,Yes,13,2212,New South Wales,10,78,1.3375,0.98,1.225,1.53125,1.3015625,78
+Katheryn Kinner,44.0,Female,15,IT & Software Roles,Entertainment,High Net Worth,No,6,2518,New South Wales,6,78,1.3375,0.56,0.56,0.56,0.56,78
+Sumner Carrivick,22.0,Male,53,IT & Software Roles,Manufacturing,Mass Customer,No,15,2097,New South Wales,12,78,1.3375,0.66,0.66,0.8250000000000001,0.70125,78
+Valerie Pickover,52.0,Female,34,Marketing & Media,Financial Services,Mass Customer,No,9,2756,New South Wales,8,78,1.3375,0.5,0.5,0.5,0.425,78
+Esther Rooson,36.0,Female,14,unknown,Financial Services,Mass Customer,No,5,2046,New South Wales,9,78,1.3375,0.59,0.59,0.7374999999999999,0.626875,78
+Gardie Crellim,42.0,Male,58,Science & Research,Manufacturing,High Net Worth,No,8,3161,Victoria,12,84,1.328125,1.02,1.02,1.275,1.275,84
+Sean O'Loughlin,56.0,Male,48,IT & Software Roles,Manufacturing,High Net Worth,Yes,16,2576,New South Wales,10,85,1.325,0.67,0.8375,1.046875,1.046875,85
+Pietra Buckleigh,68.0,Female,9,Engineering & Technical Roles,Unknown,High Net Worth,No,13,2024,New South Wales,10,85,1.325,1.07,1.07,1.3375000000000001,1.3375000000000001,85
+Marysa Rouchy,18.0,Female,8,Administrative Roles,Entertainment,Affluent Customer,No,5,2026,New South Wales,9,85,1.325,0.78,0.78,0.9750000000000001,0.9750000000000001,85
+Kahaleel  ,75.0,Male,5,Engineering & Technical Roles,Unknown,High Net Worth,No,13,2035,New South Wales,12,88,1.31484375,0.69,0.69,0.8624999999999999,0.8624999999999999,88
+Ossie Midden,67.0,Male,49,Administrative Roles,Manufacturing,Mass Customer,Yes,14,2479,New South Wales,9,89,1.3125,0.91,1.1375,1.421875,1.20859375,89
+Sid Carlone,46.0,Male,24,Engineering & Technical Roles,Health,Affluent Customer,No,16,4670,Queensland,2,89,1.3125,0.41,0.41,0.41,0.41,89
+Ludovico Juster,25.0,Male,93,Science & Research,Unknown,Affluent Customer,No,15,2125,New South Wales,10,89,1.3125,0.73,0.73,0.9125,0.9125,89
+Patricia Everix,39.0,Female,34,Management & Leadership Roles,Health,Mass Customer,No,19,2263,New South Wales,7,89,1.3125,0.86,0.86,0.86,0.731,89
+Andromache Bonafacino,40.0,Female,84,unknown,Retail,Mass Customer,No,11,2015,New South Wales,9,89,1.3125,0.6,0.6,0.75,0.6375,89
+Levy Abramamov,65.0,Male,94,Education & Teaching,Unknown,Affluent Customer,Yes,14,4037,Queensland,8,89,1.3125,0.88,1.1,1.375,1.375,89
+Nobe McAughtry,39.0,Male,25,unknown,Unknown,Mass Customer,No,12,4510,Queensland,5,89,1.3125,0.53,0.53,0.53,0.4505,89
+Jehu Prestedge,18.0,Male,91,unknown,Manufacturing,High Net Worth,Yes,8,2138,New South Wales,12,96,1.3,0.4,0.5,0.625,0.625,96
+Symon Mawne,74.0,Male,18,Administrative Roles,Property,Mass Customer,Yes,15,3350,Victoria,4,96,1.3,0.41,0.5125,0.5125,0.43562499999999993,96
+Karlik Penchen,23.0,Male,60,Healthcare & Therapy,Retail,Mass Customer,No,11,4017,Queensland,6,96,1.3,0.73,0.73,0.73,0.6204999999999999,96
+Bengt Bilson,45.0,Male,26,Engineering & Technical Roles,Manufacturing,High Net Worth,No,11,2232,New South Wales,10,99,1.296875,0.89,0.89,1.1125,1.1125,99
+Evangelin Boc,17.0,Female,30,Engineering & Technical Roles,Manufacturing,High Net Worth,Yes,14,3173,Victoria,8,99,1.296875,1.07,1.3375000000000001,1.3375000000000001,1.3375000000000001,99
+Hanny Treven,26.0,Female,84,Education & Teaching,Retail,Mass Customer,No,3,4118,Queensland,4,99,1.296875,0.43,0.43,0.5375,0.456875,99
+Gina Mallon,23.0,Female,56,Healthcare & Therapy,Health,Mass Customer,No,12,4670,Queensland,2,102,1.28828125,0.99,0.99,0.99,0.8415,102
+Reynold Elman,78.0,Male,19,Administrative Roles,Manufacturing,Mass Customer,No,9,2390,New South Wales,2,102,1.28828125,0.72,0.72,0.72,0.612,102
+Flossy Concannon,37.0,Female,64,Administrative Roles,Financial Services,Affluent Customer,No,8,3919,Victoria,2,104,1.2875,0.5,0.5,0.5,0.5,104
+Cristen Wiltshire,56.0,Female,59,Management & Leadership Roles,Financial Services,High Net Worth,Yes,15,3047,Victoria,6,104,1.2875,0.66,0.8250000000000001,0.8250000000000001,0.8250000000000001,104
+Griffith Escot,71.0,Male,50,Finance & Accounting,IT,Mass Customer,Yes,16,4116,Queensland,3,104,1.2875,1.0,1.25,1.25,1.0625,104
+Jamie Jiruca,54.0,Female,21,Administrative Roles,Argiculture,Mass Customer,No,18,2230,New South Wales,9,104,1.2875,0.72,0.72,0.8999999999999999,0.7649999999999999,104
+Lyon Brittan,45.0,Male,14,Marketing & Media,Retail,High Net Worth,No,19,3153,Victoria,8,104,1.2875,0.74,0.74,0.74,0.74,104
+Aridatha Sephton,56.0,Female,95,Administrative Roles,Unknown,Mass Customer,No,5,2340,New South Wales,1,104,1.2875,0.43,0.43,0.5375,0.456875,104
+Michal Bryan,48.0,Female,1,unknown,Manufacturing,Mass Customer,Yes,16,4000,Queensland,8,104,1.2875,0.47,0.5874999999999999,0.5874999999999999,0.4993749999999999,104
+Franciska Stigell,49.0,Female,95,Science & Research,Health,Mass Customer,Yes,7,3802,Victoria,7,111,1.28125,0.56,0.7000000000000001,0.8750000000000001,0.74375,111
+Jordan Clampe,78.0,Male,37,Science & Research,Financial Services,Mass Customer,Yes,11,4207,Queensland,5,111,1.28125,0.58,0.725,0.725,0.61625,111
+David Napoleon,56.0,Male,72,Engineering & Technical Roles,Unknown,High Net Worth,No,14,2223,New South Wales,11,111,1.28125,0.74,0.74,0.925,0.925,111
+Meriel Tapp,22.0,Female,0,Management & Leadership Roles,IT,Mass Customer,No,5,3280,Victoria,2,114,1.275,1.04,1.04,1.04,0.884,114
+Dolley Starmont,40.0,Female,53,Science & Research,Manufacturing,Affluent Customer,No,18,4129,Queensland,6,114,1.275,1.05,1.05,1.05,1.05,114
+Frederik Milan,20.0,Male,45,unknown,Health,Mass Customer,No,5,2546,New South Wales,5,114,1.275,0.77,0.77,0.77,0.6545,114
+Rollo Louedey,71.0,Male,64,Administrative Roles,Telecommunications,Affluent Customer,Yes,17,2089,New South Wales,9,114,1.275,0.52,0.65,0.8125,0.8125,114
+Jerrine Cosbey,39.0,Female,21,Marketing & Media,Financial Services,High Net Worth,Yes,6,3094,Victoria,9,114,1.275,0.64,0.8,1.0,1.0,114
+Roddy Rubinshtein,30.0,Male,37,Healthcare & Therapy,Retail,Mass Customer,Yes,4,4510,Queensland,7,114,1.275,0.68,0.8500000000000001,0.8500000000000001,0.7225,114
+Viki Coutts,65.0,Female,2,Engineering & Technical Roles,Property,Mass Customer,Yes,7,2287,New South Wales,4,120,1.2625,0.95,1.1875,1.1875,1.009375,120
+Ashby Bispham,36.0,Male,71,IT & Software Roles,Retail,Affluent Customer,No,4,2145,New South Wales,8,120,1.2625,0.68,0.68,0.68,0.68,120
+Alexander Broadbent,20.0,Male,57,IT & Software Roles,Unknown,Mass Customer,No,9,2209,New South Wales,10,120,1.2625,0.76,0.76,0.95,0.8075,120
+Teddy Lagadu,48.0,Female,86,Engineering & Technical Roles,Unknown,High Net Worth,No,6,2759,New South Wales,8,120,1.2625,0.56,0.56,0.7000000000000001,0.7000000000000001,120
+Peria Rantoull,42.0,Female,3,Finance & Accounting,Financial Services,Mass Customer,No,4,4500,Queensland,4,120,1.2625,1.02,1.02,1.02,0.867,120
+Ludvig Andren,76.0,Male,44,Administrative Roles,Unknown,High Net Worth,Yes,15,4306,Queensland,5,125,1.26171875,1.03,1.2875,1.2875,1.2875,125
+Elsworth Abbitt,61.0,Male,71,unknown,Health,Mass Customer,Yes,6,3500,Victoria,3,125,1.26171875,0.78,0.9750000000000001,0.9750000000000001,0.8287500000000001,125
+Rebeca Aggas,64.0,Female,66,Marketing & Media,Health,Affluent Customer,No,21,3818,Victoria,1,127,1.25,1.05,1.05,1.05,1.05,127
+Ricki Dobrowski,42.0,Male,13,Engineering & Technical Roles,Manufacturing,Mass Customer,Yes,9,2835,New South Wales,1,127,1.25,0.47,0.5874999999999999,0.5874999999999999,0.4993749999999999,127
+Georgetta Lovett,77.0,Female,42,Marketing & Media,Retail,Mass Customer,No,12,4405,Queensland,1,127,1.25,1.0,1.0,1.0,0.85,127
+Bambi Cogger,27.0,Female,51,Engineering & Technical Roles,Retail,Affluent Customer,Yes,5,2560,New South Wales,7,127,1.25,0.53,0.6625000000000001,0.6625000000000001,0.6625000000000001,127
+Aurie Rhead,55.0,Female,78,Engineering & Technical Roles,Manufacturing,Affluent Customer,Yes,5,2650,New South Wales,2,127,1.25,0.44,0.55,0.55,0.55,127
+Farris Skettles,52.0,Male,38,Administrative Roles,Unknown,Mass Customer,Yes,13,3240,Victoria,7,132,1.2484375,0.42,0.525,0.525,0.44625,132
+Sharline Abyss,57.0,Female,11,unknown,Unknown,Mass Customer,Yes,15,4011,Queensland,4,133,1.2375,0.88,1.1,1.1,0.935,133
+Nowell Preddy,32.0,Male,29,unknown,Manufacturing,Mass Customer,No,9,2173,New South Wales,9,133,1.2375,1.06,1.06,1.3250000000000002,1.1262500000000002,133
+Lacy Drance,39.0,Female,27,Marketing & Media,Manufacturing,Affluent Customer,Yes,14,2750,New South Wales,8,133,1.2375,0.92,1.1500000000000001,1.1500000000000001,1.1500000000000001,133
+Padraig Snel,47.0,Male,89,Administrative Roles,Unknown,Mass Customer,No,19,2114,New South Wales,7,133,1.2375,0.56,0.56,0.7000000000000001,0.5950000000000001,133
+Malorie Votier,27.0,Female,90,Marketing & Media,Manufacturing,Affluent Customer,No,4,4509,Queensland,5,133,1.2375,0.54,0.54,0.675,0.675,133
+Shepperd Ricards,50.0,Male,28,Marketing & Media,Health,Mass Customer,Yes,16,2284,New South Wales,4,133,1.2375,0.95,1.1875,1.1875,1.009375,133
+Daryl Pauncefort,38.0,Female,12,Marketing & Media,Financial Services,Mass Customer,Yes,12,2380,New South Wales,3,133,1.2375,0.65,0.8125,0.8125,0.6906249999999999,133
+Norina Blakeway,37.0,Female,60,IT & Software Roles,Property,Mass Customer,Yes,3,3081,Victoria,8,133,1.2375,0.79,0.9875,0.9875,0.839375,133
+My Chaston,51.0,Male,92,IT & Software Roles,Manufacturing,Affluent Customer,Yes,16,3765,Victoria,9,133,1.2375,1.08,1.35,1.6875,1.6875,133
+Isak Bergstram,16.0,Male,14,Healthcare & Therapy,Health,Affluent Customer,Yes,15,2176,New South Wales,9,142,1.23515625,0.68,0.8500000000000001,1.0625,1.0625,142
+Grannie Cracker,68.0,Male,28,Management & Leadership Roles,Retail,Mass Customer,Yes,20,4217,Queensland,8,142,1.23515625,1.01,1.2625,1.2625,1.0731249999999999,142
+Welby Lourenco,42.0,Male,6,Management & Leadership Roles,Financial Services,High Net Worth,Yes,17,2138,New South Wales,9,144,1.234375,0.55,0.6875,0.859375,0.859375,144
+Glenn Casbourne,36.0,Female,4,Marketing & Media,Manufacturing,Mass Customer,No,6,4207,Queensland,1,144,1.234375,0.84,0.84,0.84,0.714,144
+Nadiya Balasini,67.0,Female,40,Marketing & Media,Financial Services,Mass Customer,No,15,2164,New South Wales,9,146,1.225,0.7,0.7,0.875,0.74375,146
+Tyne Coate,52.0,Female,82,IT & Software Roles,Manufacturing,Mass Customer,No,17,2218,New South Wales,8,146,1.225,0.66,0.66,0.8250000000000001,0.70125,146
+Christie Anders,48.0,Male,38,Management & Leadership Roles,Retail,Mass Customer,No,16,2153,New South Wales,10,146,1.225,0.6,0.6,0.75,0.6375,146
+Agnella Capener,48.0,Female,58,Education & Teaching,Health,High Net Worth,No,19,3977,Victoria,6,146,1.225,0.76,0.76,0.76,0.76,146
+Bernardine Delmonti,46.0,Female,39,unknown,Property,Mass Customer,No,17,2540,New South Wales,8,146,1.225,0.87,0.87,0.87,0.7394999999999999,146
+Daisy Spowart,50.0,Female,60,Administrative Roles,Health,Affluent Customer,Yes,4,4570,Queensland,3,146,1.225,1.05,1.3125,1.3125,1.3125,146
+Denys Minshall,56.0,Female,30,Science & Research,Manufacturing,Affluent Customer,Yes,14,2324,New South Wales,8,152,1.221875,0.86,1.075,1.075,1.075,152
+Archibald Blessed,48.0,Male,61,Management & Leadership Roles,Financial Services,Mass Customer,Yes,18,2016,New South Wales,11,153,1.21875,0.7,0.875,1.09375,0.9296875,153
+Feodor Englishby,56.0,Male,54,Administrative Roles,Health,Mass Customer,No,11,3201,Victoria,5,154,1.203125,0.52,0.52,0.52,0.442,154
+Skippie Yearsley,61.0,Male,6,Finance & Accounting,Financial Services,Mass Customer,No,9,4350,Queensland,5,155,1.2,0.53,0.53,0.53,0.4505,155
+Bill  ,54.0,Female,74,Administrative Roles,Property,Mass Customer,Yes,19,2170,New South Wales,9,155,1.2,1.09,1.3625,1.703125,1.4476562499999999,155
+Tessa Friese,41.0,Female,89,Healthcare & Therapy,Financial Services,Mass Customer,No,21,4212,Queensland,9,157,1.1953125,0.42,0.42,0.525,0.44625,157
+Roseanne Caruth,60.0,Female,16,IT & Software Roles,Health,Mass Customer,No,7,2763,New South Wales,9,158,1.1875,0.41,0.41,0.5125,0.43562499999999993,158
+Tedra Goodbanne,39.0,Female,4,Engineering & Technical Roles,Unknown,Mass Customer,Yes,6,3934,Victoria,9,158,1.1875,0.66,0.8250000000000001,1.03125,0.8765625,158
+Roberto Harme,66.0,Male,27,Science & Research,Unknown,High Net Worth,No,10,2564,New South Wales,9,158,1.1875,1.08,1.08,1.35,1.35,158
+Nichole Leisman,31.0,Male,37,Science & Research,Property,Affluent Customer,No,4,2068,New South Wales,12,158,1.1875,1.05,1.05,1.3125,1.3125,158
+Amil Ennor,22.0,Female,23,Healthcare & Therapy,Health,Mass Customer,Yes,10,3109,Victoria,11,158,1.1875,0.64,0.8,1.0,0.85,158
+Shawna Hinrichsen,48.0,Female,60,Administrative Roles,Manufacturing,Affluent Customer,Yes,9,2326,New South Wales,2,163,1.18203125,0.92,1.1500000000000001,1.1500000000000001,1.1500000000000001,163
+Fonsie Levane,66.0,Male,96,Marketing & Media,Unknown,High Net Worth,Yes,19,4011,Queensland,3,163,1.18203125,0.87,1.0875,1.359375,1.359375,163
+Emilie Brody,38.0,Female,3,Management & Leadership Roles,Unknown,Mass Customer,Yes,3,2073,New South Wales,11,163,1.18203125,0.48,0.6,0.75,0.6375,163
+Robert Corkill,41.0,Male,55,Healthcare & Therapy,Health,Mass Customer,No,4,2227,New South Wales,10,166,1.175,0.95,0.95,1.1875,1.009375,166
+Elvira Kurten,44.0,Female,65,Administrative Roles,Financial Services,High Net Worth,No,12,2471,New South Wales,3,166,1.175,0.56,0.56,0.56,0.56,166
+Juliana Mitchenson,29.0,Female,55,Science & Research,Manufacturing,Mass Customer,Yes,8,4350,Queensland,4,166,1.175,0.73,0.9125,0.9125,0.775625,166
+Regine Bownes,65.0,Female,99,Management & Leadership Roles,Retail,Affluent Customer,No,15,3752,Victoria,9,166,1.175,0.65,0.65,0.8125,0.8125,166
+Abner Fraschetti,31.0,Male,33,Science & Research,Argiculture,Affluent Customer,No,13,3805,Victoria,7,166,1.175,0.47,0.47,0.47,0.47,166
+Alvira Coulman,62.0,Female,42,Marketing & Media,Unknown,Affluent Customer,No,14,2205,New South Wales,9,166,1.175,1.06,1.06,1.3250000000000002,1.3250000000000002,166
+Sawyer Sponton,61.0,Male,36,IT & Software Roles,Property,Mass Customer,Yes,10,2126,New South Wales,11,166,1.175,0.96,1.2,1.5,1.275,166
+Feodor Vickers,28.0,Male,60,Management & Leadership Roles,Financial Services,Mass Customer,Yes,4,2209,New South Wales,6,173,1.171875,0.79,0.9875,0.9875,0.839375,173
+Paten Cayet,22.0,Male,56,Administrative Roles,Manufacturing,Affluent Customer,Yes,16,3850,Victoria,1,174,1.16875,0.41,0.5125,0.5125,0.5125,174
+Loria Tappington,62.0,Female,72,Administrative Roles,Property,Mass Customer,No,5,3038,Victoria,8,174,1.16875,1.1,1.1,1.1,0.935,174
+Tanya Kiefer,25.0,Female,54,Healthcare & Therapy,Telecommunications,High Net Worth,No,7,2146,New South Wales,9,174,1.16875,0.74,0.74,0.925,0.925,174
+Devonne Alderwick,78.0,Female,79,Science & Research,Unknown,High Net Worth,Yes,9,3122,Victoria,7,177,1.1625,0.61,0.7625,0.7625,0.7625,177
+Omero McDonand,65.0,Male,51,IT & Software Roles,Manufacturing,Mass Customer,No,16,2066,New South Wales,9,177,1.1625,0.62,0.62,0.775,0.65875,177
+Iain Haversham,67.0,Male,92,Marketing & Media,Retail,Mass Customer,Yes,13,2120,New South Wales,10,177,1.1625,0.68,0.8500000000000001,1.0625,0.903125,177
+Keriann Newham,42.0,Female,71,Administrative Roles,Financial Services,Mass Customer,No,5,4179,Queensland,9,177,1.1625,0.96,0.96,1.2,1.02,177
+Conroy Rappaport,53.0,Male,39,Administrative Roles,Health,High Net Worth,No,9,2148,New South Wales,9,181,1.158125,0.41,0.41,0.5125,0.5125,181
+Dorian Rustman,43.0,Male,78,Marketing & Media,Manufacturing,Mass Customer,No,18,4352,Queensland,7,181,1.158125,0.77,0.77,0.77,0.6545,181
+Quillan Guinane,71.0,Male,36,Marketing & Media,Unknown,High Net Worth,Yes,21,2177,New South Wales,8,181,1.158125,0.73,0.9125,0.9125,0.9125,181
+Harlin Mazin,43.0,Male,34,IT & Software Roles,Manufacturing,Mass Customer,Yes,13,2454,New South Wales,7,181,1.158125,0.51,0.6375,0.6375,0.541875,181
+Eustacia Dornan,32.0,Female,68,Marketing & Media,Property,Mass Customer,No,5,3806,Victoria,9,181,1.158125,0.61,0.61,0.7625,0.648125,181
+Maury Galego,25.0,Male,65,Marketing & Media,Health,High Net Worth,Yes,3,3032,Victoria,10,181,1.158125,0.97,1.2125,1.515625,1.515625,181
+Reggie Kernar,46.0,Female,26,Marketing & Media,Financial Services,High Net Worth,No,17,2228,New South Wales,10,181,1.158125,0.44,0.44,0.55,0.55,181
+Brigitte Whellams,44.0,Female,67,Administrative Roles,Unknown,Mass Customer,Yes,17,2766,New South Wales,8,188,1.15625,0.83,1.0374999999999999,1.0374999999999999,0.8818749999999999,188
+Kinna Kollasch,31.0,Female,7,Healthcare & Therapy,Property,High Net Worth,No,9,4060,Queensland,10,188,1.15625,0.6,0.6,0.75,0.75,188
+Maurizio Comi,21.0,Male,74,Management & Leadership Roles,IT,Affluent Customer,No,10,2766,New South Wales,9,190,1.15546875,0.47,0.47,0.5874999999999999,0.5874999999999999,190
+Elbertina Fendley,25.0,Female,32,Administrative Roles,Property,Affluent Customer,No,8,2117,New South Wales,11,191,1.15,0.54,0.54,0.675,0.675,191
+Franklin Wohler,79.0,Male,55,Healthcare & Therapy,Health,Mass Customer,Yes,7,2250,New South Wales,8,191,1.15,0.88,1.1,1.1,0.935,191
+Allyson Petchell,47.0,Female,16,Administrative Roles,Telecommunications,High Net Worth,No,10,2170,New South Wales,8,191,1.15,0.75,0.75,0.75,0.75,191
+Ermentrude Heindle,48.0,Female,47,Engineering & Technical Roles,Argiculture,Mass Customer,No,7,2226,New South Wales,10,191,1.15,0.44,0.44,0.55,0.4675,191
+Alanna Lerway,74.0,Female,26,Healthcare & Therapy,Health,Mass Customer,Yes,11,3195,Victoria,12,195,1.1475,0.73,0.9125,1.140625,0.96953125,195
+Vincent Jopke,45.0,Male,6,Administrative Roles,Property,Affluent Customer,No,16,3687,Victoria,3,195,1.1475,0.66,0.66,0.66,0.66,195
+Mandie Jeffryes,36.0,Female,60,Management & Leadership Roles,Unknown,High Net Worth,No,7,4109,Queensland,9,195,1.1475,0.87,0.87,1.0875,1.0875,195
+Collete Dory,27.0,Female,66,Administrative Roles,Unknown,High Net Worth,No,2,2210,New South Wales,9,195,1.1475,0.79,0.79,0.9875,0.9875,195
+Leonid Dorricott,24.0,Male,44,Science & Research,Unknown,Affluent Customer,No,3,2448,New South Wales,3,195,1.1475,0.45,0.45,0.45,0.45,195
+Charlena Berney,52.0,Female,55,Engineering & Technical Roles,Manufacturing,High Net Worth,Yes,12,4207,Queensland,4,195,1.1475,0.74,0.925,0.925,0.925,195
+Alfonso Massel,77.0,Male,70,unknown,Unknown,Mass Customer,Yes,13,3977,Victoria,7,201,1.1421875,0.61,0.7625,0.7625,0.648125,201
+Engracia Dobbs,58.0,Female,84,unknown,Health,Mass Customer,No,15,2250,New South Wales,8,202,1.140625,1.0,1.0,1.25,1.0625,202
+Glyn  ,72.0,Male,47,Administrative Roles,Manufacturing,Affluent Customer,Yes,21,2300,New South Wales,9,202,1.140625,0.71,0.8875,1.109375,1.109375,202
+Rosemonde Cartwight,65.0,Female,44,IT & Software Roles,Retail,Mass Customer,Yes,7,4605,Queensland,1,202,1.140625,0.99,1.2375,1.2375,1.0518750000000001,202
+Alano Satchel,19.0,Male,2,Administrative Roles,Unknown,Mass Customer,No,2,2429,New South Wales,7,202,1.140625,1.09,1.09,1.09,0.9265,202
+Corrine Baribal,69.0,Female,19,Marketing & Media,Unknown,Affluent Customer,Yes,12,2170,New South Wales,8,206,1.1375,0.58,0.725,0.725,0.725,206
+Benoit Harniman,41.0,Male,31,Administrative Roles,Telecommunications,Affluent Customer,No,9,4018,Queensland,7,206,1.1375,0.56,0.56,0.56,0.56,206
+Jeanne Darte,62.0,Female,70,unknown,Unknown,Mass Customer,Yes,11,2756,New South Wales,7,206,1.1375,0.54,0.675,0.675,0.57375,206
+Jenelle Fearnill,60.0,Female,12,Marketing & Media,Health,High Net Worth,No,19,2144,New South Wales,9,206,1.1375,1.01,1.01,1.2625,1.2625,206
+Tannie Gambrell,50.0,Male,92,Finance & Accounting,Financial Services,Affluent Customer,No,4,4710,Queensland,4,206,1.1375,0.64,0.64,0.8,0.8,206
+Mick Macewan,50.0,Male,32,Management & Leadership Roles,Financial Services,Mass Customer,No,16,2032,New South Wales,10,206,1.1375,0.97,0.97,1.2125,1.030625,206
+Abbie Oldman,34.0,Male,82,unknown,Health,High Net Worth,Yes,5,2168,New South Wales,8,212,1.136875,0.82,1.025,1.28125,1.28125,212
+Tabbie Curner,20.0,Male,12,Engineering & Technical Roles,Retail,Mass Customer,No,6,3021,Victoria,6,212,1.136875,0.5,0.5,0.5,0.425,212
+Shane Killen,61.0,Male,28,Marketing & Media,Entertainment,High Net Worth,No,10,2165,New South Wales,8,212,1.136875,0.83,0.83,0.83,0.83,212
+Roberta Goodale,70.0,Female,9,Administrative Roles,Property,Mass Customer,Yes,22,4211,Queensland,7,215,1.12890625,0.45,0.5625,0.5625,0.47812499999999997,215
+Kippy Barabisch,17.0,Male,11,Administrative Roles,Manufacturing,Mass Customer,No,4,2125,New South Wales,11,215,1.12890625,0.47,0.47,0.5874999999999999,0.4993749999999999,215
+Rosalinde Cubuzzi,20.0,Female,50,Management & Leadership Roles,Unknown,Mass Customer,No,5,2444,New South Wales,7,215,1.12890625,1.04,1.04,1.04,0.884,215
+Cami Barnbrook,55.0,Female,8,Healthcare & Therapy,Health,Affluent Customer,Yes,18,4285,Queensland,2,218,1.12625,1.07,1.3375000000000001,1.3375000000000001,1.3375000000000001,218
+Dorian Stollen,37.0,Male,78,Science & Research,Financial Services,Mass Customer,Yes,18,2026,New South Wales,11,219,1.125,0.95,1.1875,1.484375,1.26171875,219
+Hunfredo Hayball,23.0,Male,7,unknown,IT,Affluent Customer,No,3,2227,New South Wales,8,219,1.125,0.44,0.44,0.44,0.44,219
+Giorgi O'Shirine,36.0,Male,68,Administrative Roles,Retail,Mass Customer,Yes,15,3934,Victoria,8,219,1.125,0.43,0.5375,0.5375,0.456875,219
+Kort Disley,38.0,Male,66,IT & Software Roles,Health,Mass Customer,Yes,7,2160,New South Wales,9,219,1.125,0.53,0.6625000000000001,0.8281250000000001,0.7039062500000001,219
+Gretna Thredder,52.0,Female,62,unknown,Unknown,Mass Customer,No,18,2203,New South Wales,11,223,1.115625,1.06,1.06,1.3250000000000002,1.1262500000000002,223
+Tobiah Heinsius,17.0,Male,66,Engineering & Technical Roles,Health,High Net Worth,No,9,2446,New South Wales,8,223,1.115625,0.48,0.48,0.48,0.48,223
+Wallace Newart,40.0,Male,91,unknown,IT,Mass Customer,No,17,4650,Queensland,1,223,1.115625,0.51,0.51,0.6375,0.541875,223
+Hersh Stubbert,17.0,Male,0,IT & Software Roles,Manufacturing,Mass Customer,Yes,15,4115,Queensland,8,226,1.1125,0.88,1.1,1.1,0.935,226
+Hatti Carletti,46.240081383519836,U,35,Administrative Roles,IT,Affluent Customer,Yes,11,2519,New South Wales,9,226,1.1125,0.55,0.6875,0.859375,0.859375,226
+Wyn Saynor,53.0,Male,54,Management & Leadership Roles,Financial Services,High Net Worth,No,8,2099,New South Wales,9,226,1.1125,1.08,1.08,1.35,1.35,226
+Maribeth Stivani,63.0,Female,46,Education & Teaching,Financial Services,Mass Customer,No,7,2430,New South Wales,8,226,1.1125,0.87,0.87,0.87,0.7394999999999999,226
+Abigale Sives,54.0,Female,48,Management & Leadership Roles,Health,Affluent Customer,Yes,14,4207,Queensland,4,230,1.109375,0.71,0.8875,0.8875,0.8875,230
+Gothart Artus,39.0,Male,52,Healthcare & Therapy,Health,Mass Customer,Yes,14,2117,New South Wales,10,231,1.105,0.65,0.8125,1.015625,0.86328125,231
+Danny Bodle,74.0,Male,50,Science & Research,Manufacturing,Mass Customer,Yes,18,2007,New South Wales,9,231,1.105,0.96,1.2,1.5,1.275,231
+Vittorio Boxen,52.0,Male,94,Engineering & Technical Roles,Unknown,Mass Customer,No,14,2148,New South Wales,9,233,1.1,0.79,0.79,0.9875,0.839375,233
+Deborah Petrovsky,74.0,Female,53,Education & Teaching,Property,Mass Customer,No,16,2011,New South Wales,7,233,1.1,0.65,0.65,0.65,0.5525,233
+Agace Hedge,20.0,Female,25,Administrative Roles,Unknown,Mass Customer,Yes,13,3429,Victoria,8,233,1.1,0.55,0.6875,0.6875,0.584375,233
+Rolland Esmead,77.0,Male,41,unknown,Health,Affluent Customer,No,8,2200,New South Wales,8,233,1.1,1.01,1.01,1.01,1.01,233
+Latrena Walklate,74.0,Female,97,Engineering & Technical Roles,Telecommunications,High Net Worth,Yes,13,2281,New South Wales,8,237,1.094375,0.54,0.675,0.84375,0.84375,237
+Mariquilla Springthorpe,78.0,Female,30,Management & Leadership Roles,Unknown,Mass Customer,Yes,8,2224,New South Wales,10,237,1.094375,0.55,0.6875,0.859375,0.73046875,237
+Leticia Danovich,76.0,Female,84,Engineering & Technical Roles,Entertainment,Mass Customer,Yes,15,4307,Queensland,1,237,1.094375,0.65,0.8125,1.015625,0.86328125,237
+Harman Lynds,56.0,Male,4,Education & Teaching,Unknown,Mass Customer,Yes,5,4105,Queensland,8,240,1.09,0.63,0.7875,0.7875,0.6693749999999999,240
+Farra Matyushkin,43.0,Female,18,Management & Leadership Roles,Manufacturing,High Net Worth,Yes,9,3170,Victoria,9,241,1.0875,0.99,1.2375,1.546875,1.546875,241
+Robenia Monks,58.0,Female,94,Healthcare & Therapy,Manufacturing,Mass Customer,No,5,4065,Queensland,9,241,1.0875,0.76,0.76,0.95,0.8075,241
+Roman Eastwood,48.0,Male,57,Education & Teaching,Manufacturing,Affluent Customer,Yes,16,3004,Victoria,4,241,1.0875,0.43,0.5375,0.5375,0.5375,241
+Solomon Bruck,60.0,Male,29,Marketing & Media,Health,Mass Customer,No,12,4556,Queensland,8,244,1.08375,0.61,0.61,0.61,0.5185,244
+Krystyna Airey,67.0,Female,2,Healthcare & Therapy,Unknown,Mass Customer,Yes,19,4006,Queensland,5,244,1.08375,0.63,0.7875,0.7875,0.6693749999999999,244
+Katharine Redbourn,50.0,Female,8,Administrative Roles,Manufacturing,Affluent Customer,Yes,4,3134,Victoria,10,244,1.08375,0.82,1.025,1.28125,1.28125,244
+Cammy Stoneham,54.0,Female,74,Management & Leadership Roles,Financial Services,High Net Worth,No,14,4680,Queensland,3,244,1.08375,0.89,0.89,0.89,0.89,244
+Ellsworth Andrieux,46.0,Male,49,Management & Leadership Roles,Financial Services,Affluent Customer,Yes,10,4036,Queensland,7,248,1.078125,0.79,0.9875,0.9875,0.9875,248
+Federico Leuty,39.0,Male,59,Engineering & Technical Roles,Property,High Net Worth,Yes,11,2380,New South Wales,4,249,1.07578125,1.01,1.2625,1.2625,1.2625,249
+Ferdy Hornung,43.0,Male,57,Administrative Roles,Entertainment,High Net Worth,No,18,4506,Queensland,3,250,1.075,0.69,0.69,0.69,0.69,250
+Sunny Christescu,42.0,Female,90,Management & Leadership Roles,Financial Services,Mass Customer,No,11,2209,New South Wales,10,250,1.075,0.58,0.58,0.725,0.61625,250
+Shadow Yakutin,50.0,Male,85,Engineering & Technical Roles,Health,Affluent Customer,Yes,6,4119,Queensland,2,252,1.073125,1.06,1.3250000000000002,1.6562500000000002,1.6562500000000002,252
+Sharai Priddie,56.0,Female,13,Marketing & Media,Retail,Mass Customer,No,9,2145,New South Wales,9,252,1.073125,0.59,0.59,0.7374999999999999,0.626875,252
+Celeste Fretson,37.0,Female,91,Engineering & Technical Roles,IT,Mass Customer,No,9,2166,New South Wales,9,252,1.073125,0.81,0.81,1.0125000000000002,0.8606250000000001,252
+Lea Ilyinski,20.0,Female,75,Engineering & Technical Roles,Financial Services,High Net Worth,No,12,2026,New South Wales,12,252,1.073125,0.55,0.55,0.6875,0.6875,252
+Dyann Olechnowicz,78.0,Female,17,Engineering & Technical Roles,Manufacturing,Mass Customer,No,16,3031,Victoria,10,252,1.073125,0.55,0.55,0.6875,0.584375,252
+Delly Sunman,58.0,Female,49,Administrative Roles,Retail,Mass Customer,No,15,3206,Victoria,12,252,1.073125,0.55,0.55,0.6875,0.584375,252
+Malvin Ryhorovich,55.0,Male,37,Healthcare & Therapy,Unknown,Mass Customer,No,5,4818,Queensland,3,252,1.073125,0.92,0.92,0.92,0.782,252
+Tanya Hamberston,17.0,Female,45,Engineering & Technical Roles,Unknown,Mass Customer,Yes,9,4113,Queensland,6,259,1.0625,0.53,0.6625000000000001,0.6625000000000001,0.5631250000000001,259
+Kaela Romaines,46.0,Female,41,Engineering & Technical Roles,Manufacturing,High Net Worth,No,19,2155,New South Wales,10,259,1.0625,0.83,0.83,1.0374999999999999,1.0374999999999999,259
+Evonne Bembridge,48.0,Female,9,Administrative Roles,Retail,Mass Customer,Yes,14,3103,Victoria,9,259,1.0625,0.59,0.7374999999999999,0.9218749999999999,0.7835937499999999,259
+Shannen Lewin,26.0,Female,21,Administrative Roles,Argiculture,High Net Worth,No,6,4210,Queensland,6,259,1.0625,0.78,0.78,0.78,0.78,259
+Bogey Attew,25.0,Male,88,Engineering & Technical Roles,IT,Mass Customer,Yes,10,4165,Queensland,9,259,1.0625,0.78,0.9750000000000001,1.21875,1.0359375,259
+Zondra Ringham,70.0,Female,36,Management & Leadership Roles,Financial Services,Mass Customer,Yes,7,4510,Queensland,5,259,1.0625,0.88,1.1,1.1,0.935,259
+Barnebas Apfel,21.0,Male,57,Marketing & Media,Manufacturing,Affluent Customer,Yes,2,4000,Queensland,6,259,1.0625,0.94,1.1749999999999998,1.1749999999999998,1.1749999999999998,259
+Alleen Eaken,79.0,Female,56,unknown,Unknown,Mass Customer,No,10,2089,New South Wales,12,259,1.0625,0.79,0.79,0.9875,0.839375,259
+Gerri Schimann,48.0,Female,81,IT & Software Roles,Property,Mass Customer,Yes,18,2566,New South Wales,8,259,1.0625,0.7,0.875,1.09375,0.9296875,259
+Antonietta Egle,44.0,Female,82,Finance & Accounting,Financial Services,Mass Customer,No,7,3805,Victoria,7,259,1.0625,0.81,0.81,1.0125000000000002,0.8606250000000001,259
+Raff Waycott,66.0,Male,70,Engineering & Technical Roles,Manufacturing,Affluent Customer,Yes,14,3977,Victoria,7,259,1.0625,0.41,0.5125,0.5125,0.5125,259
+Lark Gonet,45.0,Female,89,IT & Software Roles,Health,High Net Worth,No,8,2763,New South Wales,8,259,1.0625,0.66,0.66,0.8250000000000001,0.8250000000000001,259
+Cletis Longley,21.0,Male,84,Engineering & Technical Roles,Manufacturing,High Net Worth,Yes,1,3199,Victoria,7,271,1.06,0.61,0.7625,0.953125,0.953125,271
+Bartram Di Lucia,57.0,Male,70,unknown,Argiculture,Mass Customer,Yes,5,2480,New South Wales,3,271,1.06,0.49,0.6125,0.6125,0.520625,271
+Theresa Cowper,41.0,Female,99,Finance & Accounting,Manufacturing,Mass Customer,No,3,2529,New South Wales,10,271,1.06,1.0,1.0,1.25,1.0625,271
+Philbert Raraty,61.0,Male,48,Administrative Roles,Manufacturing,Mass Customer,No,6,2177,New South Wales,9,274,1.051875,0.79,0.79,0.9875,0.839375,274
+Egon Ortells,41.0,Male,35,Engineering & Technical Roles,Manufacturing,Affluent Customer,No,13,2168,New South Wales,9,274,1.051875,1.07,1.07,1.3375000000000001,1.3375000000000001,274
+Dahlia Shovlar,51.0,Female,90,Science & Research,Unknown,Affluent Customer,Yes,7,3976,Victoria,3,274,1.051875,1.08,1.35,1.6875,1.6875,274
+Timi Duny,64.0,Female,70,Administrative Roles,Telecommunications,High Net Worth,No,6,2092,New South Wales,12,274,1.051875,0.66,0.66,0.8250000000000001,0.8250000000000001,274
+Dominick Asher,55.0,Male,50,Science & Research,Health,Affluent Customer,Yes,5,3804,Victoria,9,278,1.05,0.45,0.5625,0.703125,0.703125,278
+Raye Roo,41.0,Female,64,IT & Software Roles,Financial Services,Mass Customer,Yes,16,3046,Victoria,9,278,1.05,1.08,1.35,1.6875,1.434375,278
+Becka Hacon,52.0,Female,81,Administrative Roles,Financial Services,Affluent Customer,No,17,3791,Victoria,9,278,1.05,0.66,0.66,0.8250000000000001,0.8250000000000001,278
+Cirillo Frossell,49.0,Male,7,Marketing & Media,Unknown,Mass Customer,No,6,2111,New South Wales,12,278,1.05,0.64,0.64,0.8,0.68,278
+Verla Dumingos,46.0,Female,26,Engineering & Technical Roles,Telecommunications,Mass Customer,Yes,10,3021,Victoria,8,282,1.04921875,0.49,0.6125,0.6125,0.520625,282
+Sherrie Godleman,39.0,Female,37,Education & Teaching,Manufacturing,Mass Customer,No,19,3350,Victoria,2,282,1.04921875,0.77,0.77,0.77,0.6545,282
+Dexter Shutle,59.0,Male,81,Healthcare & Therapy,Unknown,Mass Customer,No,17,4005,Queensland,7,284,1.046875,0.43,0.43,0.5375,0.456875,284
+Konstanze Hovie,51.0,Female,88,Healthcare & Therapy,Health,Mass Customer,No,11,4370,Queensland,7,285,1.04125,1.02,1.02,1.275,1.08375,285
+Bink Bentje,60.0,Male,3,Administrative Roles,Financial Services,High Net Worth,Yes,19,2680,New South Wales,3,285,1.04125,0.79,0.9875,0.9875,0.9875,285
+Taber Szymon,70.0,Male,70,Marketing & Media,Argiculture,Affluent Customer,No,13,4659,Queensland,8,287,1.04,0.59,0.59,0.59,0.59,287
+Debbi Dannatt,59.0,Female,2,IT & Software Roles,Unknown,Affluent Customer,No,6,4218,Queensland,10,287,1.04,0.73,0.73,0.9125,0.9125,287
+Giana Staresmeare,41.0,Female,96,Marketing & Media,Retail,Affluent Customer,Yes,9,2770,New South Wales,7,289,1.0375,0.51,0.6375,0.796875,0.796875,289
+Morton Petkens,27.0,Male,50,Administrative Roles,Manufacturing,High Net Worth,Yes,10,3012,Victoria,1,289,1.0375,0.97,1.2125,1.2125,1.2125,289
+Vittoria Whitney,36.0,Female,95,Administrative Roles,Unknown,High Net Worth,No,12,2019,New South Wales,11,291,1.0359375,1.05,1.05,1.3125,1.3125,291
+Paquito Atwood,45.0,Male,15,Engineering & Technical Roles,Manufacturing,Affluent Customer,No,9,3199,Victoria,8,291,1.0359375,0.98,0.98,0.98,0.98,291
+Dimitri Tribbeck,59.0,Male,89,Engineering & Technical Roles,Unknown,Affluent Customer,No,20,3165,Victoria,6,291,1.0359375,1.07,1.07,1.3375000000000001,1.3375000000000001,291
+Shelli Bartholomaus,54.0,Female,88,Education & Teaching,Health,Mass Customer,Yes,6,3082,Victoria,7,291,1.0359375,0.44,0.55,0.6875,0.584375,291
+Kermit Lebond,37.0,Male,36,Finance & Accounting,Financial Services,Mass Customer,No,4,4208,Queensland,8,295,1.03125,0.82,0.82,0.82,0.697,295
+Biddie Gorce,29.0,Female,68,Finance & Accounting,Financial Services,Mass Customer,Yes,5,2795,New South Wales,7,295,1.03125,0.9,1.125,1.125,0.9562499999999999,295
+Rupert Marrow,47.0,Male,73,unknown,Property,High Net Worth,No,19,2760,New South Wales,8,297,1.030625,0.45,0.45,0.45,0.45,297
+Geoff Sitford,52.0,Male,97,Marketing & Media,Financial Services,Mass Customer,Yes,4,2148,New South Wales,8,297,1.030625,1.06,1.3250000000000002,1.6562500000000002,1.4078125000000001,297
+Ange Chitham,26.0,Female,91,unknown,Argiculture,Mass Customer,No,10,2560,New South Wales,8,297,1.030625,0.87,0.87,1.0875,0.924375,297
+Tiphanie Blackader,70.0,Female,59,Administrative Roles,Retail,Mass Customer,No,17,2007,New South Wales,11,297,1.030625,1.05,1.05,1.3125,1.1156249999999999,297
+Zollie Crinidge,29.0,Male,39,IT & Software Roles,Retail,Mass Customer,Yes,10,4019,Queensland,5,297,1.030625,0.57,0.7124999999999999,0.7124999999999999,0.6056249999999999,297
+Daisy Pollen,24.0,Female,97,Management & Leadership Roles,Financial Services,Mass Customer,No,7,3167,Victoria,9,302,1.03,0.9,0.9,1.125,0.9562499999999999,302
+Emelen Bidnall,36.0,Male,79,IT & Software Roles,Health,Affluent Customer,Yes,11,2026,New South Wales,12,302,1.03,0.45,0.5625,0.703125,0.703125,302
+Linette Boman,68.0,Female,56,Marketing & Media,Unknown,Affluent Customer,No,11,2076,New South Wales,11,304,1.025,0.5,0.5,0.625,0.625,304
+Manya Abramovici,62.0,Female,42,Engineering & Technical Roles,Financial Services,High Net Worth,Yes,13,4214,Queensland,8,304,1.025,0.43,0.5375,0.5375,0.5375,304
+Brynna Tivers,43.0,Female,81,Administrative Roles,Financial Services,Mass Customer,No,6,4272,Queensland,7,304,1.025,0.7,0.7,0.875,0.74375,304
+Art Carolan,63.0,Male,1,Administrative Roles,Unknown,Affluent Customer,Yes,11,2570,New South Wales,9,304,1.025,0.61,0.7625,0.953125,0.953125,304
+Alfi Sabbins,58.0,Female,63,unknown,Financial Services,High Net Worth,Yes,18,2344,New South Wales,3,304,1.025,1.04,1.3,1.3,1.3,304
+Loleta Aberdalgy,36.0,Female,45,Healthcare & Therapy,Health,Mass Customer,No,11,2287,New South Wales,6,304,1.025,0.59,0.59,0.59,0.5015,304
+Aldric Birney,46.0,Male,21,unknown,Manufacturing,Mass Customer,Yes,14,2546,New South Wales,6,310,1.02265625,0.82,1.025,1.025,0.8712499999999999,310
+Natividad Balducci,26.0,Female,39,unknown,Property,High Net Worth,Yes,10,3206,Victoria,11,310,1.02265625,0.63,0.7875,0.984375,0.984375,310
+Claudine Dymick,52.0,Female,28,Engineering & Technical Roles,Health,Mass Customer,No,5,3977,Victoria,5,312,1.02,0.56,0.56,0.56,0.47600000000000003,312
+Seamus Cains,28.0,Male,61,Education & Teaching,Manufacturing,High Net Worth,No,7,2305,New South Wales,8,312,1.02,0.52,0.52,0.52,0.52,312
+Guss Karim,49.0,Male,95,Marketing & Media,Manufacturing,Mass Customer,No,7,2227,New South Wales,11,312,1.02,0.87,0.87,1.0875,0.924375,312
+Julietta Setchfield,25.0,Female,73,Administrative Roles,Unknown,High Net Worth,Yes,3,4170,Queensland,8,312,1.02,0.45,0.5625,0.5625,0.5625,312
+Roch Symson,39.0,Female,96,Administrative Roles,Manufacturing,High Net Worth,No,18,3073,Victoria,9,312,1.02,0.43,0.43,0.5375,0.5375,312
+Audry Fann,60.0,Female,3,Healthcare & Therapy,Health,Mass Customer,Yes,15,3029,Victoria,6,312,1.02,0.94,1.1749999999999998,1.1749999999999998,0.9987499999999998,312
+Cecelia Cisar,32.0,Female,20,unknown,Property,Mass Customer,Yes,15,4212,Queensland,7,312,1.02,0.75,0.9375,0.9375,0.796875,312
+Clari Voas,62.0,Female,74,Administrative Roles,Health,Affluent Customer,Yes,14,2127,New South Wales,8,312,1.02,0.85,1.0625,1.0625,1.0625,312
+Zach Hedman,36.0,Male,87,IT & Software Roles,Financial Services,Affluent Customer,Yes,4,2566,New South Wales,9,320,1.015625,0.74,0.925,1.15625,1.15625,320
+Paxon Roomes,41.0,Male,78,Administrative Roles,Unknown,High Net Worth,Yes,7,3021,Victoria,7,320,1.015625,1.06,1.3250000000000002,1.3250000000000002,1.3250000000000002,320
+Parnell Lamprey,40.0,Male,23,Engineering & Technical Roles,Financial Services,High Net Worth,No,12,2165,New South Wales,6,322,1.0125,0.59,0.59,0.59,0.59,322
+Honey Gosdin,36.0,Female,0,Engineering & Technical Roles,Property,Mass Customer,No,17,2582,New South Wales,9,322,1.0125,0.5,0.5,0.625,0.53125,322
+Sonny McCart,25.0,Male,35,Marketing & Media,Manufacturing,High Net Worth,No,9,3020,Victoria,9,324,1.01,0.71,0.71,0.8875,0.8875,324
+Rozamond Turtle,46.240081383519836,U,69,Administrative Roles,IT,Mass Customer,Yes,3,3850,Victoria,3,324,1.01,0.43,0.5375,0.5375,0.456875,324
+Deirdre Burgoine,63.0,Female,14,IT & Software Roles,Health,High Net Worth,No,7,3000,Victoria,1,326,1.009375,0.9,0.9,0.9,0.9,326
+Haleigh  ,65.0,Female,17,Marketing & Media,Financial Services,Mass Customer,Yes,18,4503,Queensland,4,326,1.009375,0.75,0.9375,0.9375,0.796875,326
+Aldridge Poskitt,35.0,Male,84,Management & Leadership Roles,Unknown,Mass Customer,No,12,4161,Queensland,5,326,1.009375,0.54,0.54,0.675,0.57375,326
+Zechariah McReidy,39.0,Male,32,IT & Software Roles,Manufacturing,High Net Worth,No,21,4207,Queensland,6,329,1.0,0.71,0.71,0.71,0.71,329
+Carry Costi,45.0,Female,32,Management & Leadership Roles,Property,Mass Customer,No,11,2800,New South Wales,4,329,1.0,0.52,0.52,0.52,0.442,329
+Alon  ,18.0,Male,17,Finance & Accounting,Unknown,Affluent Customer,No,9,4218,Queensland,3,329,1.0,0.84,0.84,0.84,0.84,329
+Ahmed Pickthorne,58.0,Male,46,Administrative Roles,Unknown,High Net Worth,Yes,15,2147,New South Wales,9,329,1.0,0.96,1.2,1.5,1.5,329
+Nil Shirer,20.0,Male,64,Science & Research,Entertainment,Mass Customer,Yes,7,3013,Victoria,8,329,1.0,0.88,1.1,1.1,0.935,329
+Erhard O'Moylane,39.0,Male,33,Administrative Roles,Retail,Affluent Customer,Yes,9,3630,Victoria,2,334,0.9987499999999998,0.91,1.1375,1.1375,1.1375,334
+Vitia Axtens,72.0,Female,62,Finance & Accounting,Financial Services,Mass Customer,Yes,15,2011,New South Wales,10,334,0.9987499999999998,0.91,1.1375,1.421875,1.20859375,334
+Haskell Moxted,74.0,Male,81,Engineering & Technical Roles,Manufacturing,Mass Customer,No,7,2145,New South Wales,9,334,0.9987499999999998,0.41,0.41,0.5125,0.43562499999999993,334
+Ebony Conrad,18.0,Female,8,Science & Research,Financial Services,Mass Customer,Yes,16,3029,Victoria,7,334,0.9987499999999998,0.89,1.1125,1.1125,0.945625,334
+Lincoln Boler,41.0,Male,53,Engineering & Technical Roles,Unknown,Affluent Customer,No,14,3207,Victoria,8,338,0.99609375,0.73,0.73,0.73,0.73,338
+Vladimir Westmerland,61.0,Male,18,unknown,Manufacturing,Mass Customer,Yes,18,2640,New South Wales,4,338,0.99609375,0.48,0.6,0.6,0.51,338
+Kylynn Drowsfield,42.0,Female,80,Marketing & Media,Unknown,High Net Worth,Yes,7,3059,Victoria,9,338,0.99609375,0.71,0.8875,1.109375,1.109375,338
+Nicole Ruckhard,48.0,Female,93,Administrative Roles,Health,Affluent Customer,Yes,17,4560,Queensland,3,341,0.99,1.09,1.3625,1.703125,1.703125,341
+Celestina Lethardy,49.0,Female,38,IT & Software Roles,IT,Mass Customer,Yes,11,3163,Victoria,10,341,0.99,0.93,1.1625,1.453125,1.23515625,341
+Tannie Petrakov,66.0,Male,84,IT & Software Roles,IT,Affluent Customer,No,10,4078,Queensland,6,341,0.99,0.45,0.45,0.5625,0.5625,341
+Bessy Saladin,78.0,Female,22,Management & Leadership Roles,Manufacturing,Mass Customer,Yes,16,4075,Queensland,10,341,0.99,0.75,0.9375,1.171875,0.99609375,341
+Diego Van den Broek,53.0,Male,17,Management & Leadership Roles,Manufacturing,Affluent Customer,Yes,13,4055,Queensland,7,345,0.988125,0.79,0.9875,0.9875,0.9875,345
+Lucilia Minshall,65.0,Female,71,unknown,IT,Mass Customer,Yes,7,2750,New South Wales,8,345,0.988125,0.56,0.7000000000000001,0.7000000000000001,0.5950000000000001,345
+Cissiee Pollington,76.0,Female,43,Education & Teaching,Property,Mass Customer,Yes,7,2256,New South Wales,9,345,0.988125,0.52,0.65,0.8125,0.6906249999999999,345
+Eddy Sturch,56.0,Male,22,IT & Software Roles,Financial Services,High Net Worth,Yes,17,4158,Queensland,6,345,0.988125,0.75,0.9375,0.9375,0.9375,345
+Caron Kezar,64.0,Female,11,Marketing & Media,Health,Mass Customer,No,5,2835,New South Wales,1,349,0.9875,0.82,0.82,0.82,0.697,349
+Sandor Stirland,36.0,Male,67,IT & Software Roles,Manufacturing,High Net Worth,No,12,3235,Victoria,10,349,0.9875,0.5,0.5,0.625,0.625,349
+Gallagher Bromell,61.0,Male,18,Administrative Roles,Unknown,Mass Customer,No,17,4556,Queensland,8,349,0.9875,1.0,1.0,1.0,0.85,349
+Murial Bulloch,53.0,Female,59,unknown,Financial Services,Mass Customer,No,13,2011,New South Wales,6,349,0.9875,0.92,0.92,0.92,0.782,349
+Delinda Ech,73.0,Female,74,Science & Research,Argiculture,Mass Customer,Yes,17,3101,Victoria,10,349,0.9875,0.54,0.675,0.84375,0.7171875,349
+Hussein Tapenden,64.0,Male,19,Healthcare & Therapy,Health,Affluent Customer,Yes,12,2747,New South Wales,8,349,0.9875,0.45,0.5625,0.5625,0.5625,349
+Giulietta Garbott,15.0,Female,59,IT & Software Roles,Unknown,Affluent Customer,Yes,14,3810,Victoria,5,355,0.984375,0.41,0.5125,0.5125,0.5125,355
+Kaylyn Jakaway,37.0,Female,45,Healthcare & Therapy,Health,Affluent Customer,No,10,2290,New South Wales,8,356,0.9828125,0.58,0.58,0.58,0.58,356
+Brynn Goodyear,73.0,Female,30,Administrative Roles,Health,Mass Customer,Yes,11,3075,Victoria,7,356,0.9828125,0.65,0.8125,0.8125,0.6906249999999999,356
+Otis  ,47.0,Male,59,Engineering & Technical Roles,Manufacturing,Affluent Customer,No,12,2075,New South Wales,11,358,0.98,0.46,0.46,0.5750000000000001,0.5750000000000001,358
+Tamas Swatman,46.240081383519836,U,65,Administrative Roles,Entertainment,Affluent Customer,No,5,4551,Queensland,8,358,0.98,0.95,0.95,0.95,0.95,358
+Pace Clemonts,27.0,Male,99,Administrative Roles,Retail,High Net Worth,No,10,3122,Victoria,7,358,0.98,0.85,0.85,1.0625,1.0625,358
+Tracy Andrejevic,46.240081383519836,U,71,IT & Software Roles,IT,Mass Customer,Yes,11,3030,Victoria,7,361,0.9775,0.62,0.775,0.775,0.65875,361
+Muffin Grigolon,38.0,Male,7,Marketing & Media,Telecommunications,Mass Customer,No,12,2232,New South Wales,10,361,0.9775,0.74,0.74,0.925,0.78625,361
+Allsun Biner,20.0,Female,67,Healthcare & Therapy,Financial Services,Mass Customer,Yes,10,2641,New South Wales,2,361,0.9775,0.95,1.1875,1.1875,1.009375,361
+Kenneth Elleyne,60.0,Male,13,IT & Software Roles,Financial Services,Mass Customer,No,13,3145,Victoria,11,361,0.9775,0.54,0.54,0.675,0.57375,361
+Clotilda Southers,18.0,Female,62,IT & Software Roles,Financial Services,Mass Customer,Yes,15,2323,New South Wales,4,361,0.9775,0.61,0.7625,0.7625,0.648125,361
+Augustus Bourley,36.0,Male,60,unknown,Health,Affluent Customer,No,18,4152,Queensland,10,366,0.9750000000000001,0.78,0.78,0.9750000000000001,0.9750000000000001,366
+Daisi Tinwell,46.0,Female,84,Management & Leadership Roles,Financial Services,Mass Customer,No,11,2777,New South Wales,8,366,0.9750000000000001,1.02,1.02,1.275,1.08375,366
+Gerik Woodroof,58.0,Male,18,Administrative Roles,Financial Services,High Net Worth,Yes,9,3175,Victoria,7,366,0.9750000000000001,0.51,0.6375,0.6375,0.6375,366
+Claresta MacConnulty,60.0,Female,6,Administrative Roles,Unknown,Mass Customer,Yes,20,2026,New South Wales,9,366,0.9750000000000001,0.41,0.5125,0.640625,0.54453125,366
+Arty Fontelles,23.0,Male,50,IT & Software Roles,IT,High Net Worth,No,4,3197,Victoria,4,370,0.97,0.95,0.95,0.95,0.95,370
+Giulia Hazart,39.0,Female,57,IT & Software Roles,Unknown,Mass Customer,No,11,4218,Queensland,11,371,0.96875,0.99,0.99,1.2375,1.0518750000000001,371
+Whit Emloch,54.0,Male,30,Science & Research,Health,Mass Customer,Yes,6,2220,New South Wales,9,372,0.9668749999999999,0.61,0.7625,0.953125,0.81015625,372
+Rowan Summerly,43.0,Male,4,Science & Research,Entertainment,Mass Customer,No,9,2209,New South Wales,10,372,0.9668749999999999,1.02,1.02,1.275,1.08375,372
+Ian Rabat,42.0,Male,54,IT & Software Roles,Financial Services,Affluent Customer,No,11,3204,Victoria,11,372,0.9668749999999999,1.05,1.05,1.3125,1.3125,372
+Agneta McAmish,46.240081383519836,U,66,Engineering & Technical Roles,IT,Mass Customer,No,15,4207,Queensland,6,375,0.96,0.46,0.46,0.46,0.391,375
+Reginald Jermy,57.0,Male,7,Management & Leadership Roles,Unknown,High Net Worth,Yes,20,4128,Queensland,8,375,0.96,0.82,1.025,1.025,1.025,375
+Link Gorini,43.0,Male,60,unknown,IT,High Net Worth,No,10,4600,Queensland,2,375,0.96,0.51,0.51,0.51,0.51,375
+Harriet Brattan,31.0,Female,81,Administrative Roles,Financial Services,High Net Worth,No,2,3579,Victoria,1,378,0.9562499999999999,1.02,1.02,1.275,1.275,378
+Sada Branton,43.0,Female,34,Engineering & Technical Roles,Manufacturing,Affluent Customer,No,14,3199,Victoria,6,378,0.9562499999999999,0.87,0.87,0.87,0.87,378
+Jenelle Mc-Kerley,75.0,Female,40,IT & Software Roles,Financial Services,Mass Customer,Yes,16,4068,Queensland,5,378,0.9562499999999999,0.95,1.1875,1.1875,1.009375,378
+Gabrila Toopin,54.0,Female,7,Marketing & Media,Manufacturing,Mass Customer,No,12,2456,New South Wales,6,378,0.9562499999999999,0.69,0.69,0.69,0.5864999999999999,378
+Almira Mangion,21.0,Female,4,Management & Leadership Roles,Financial Services,Affluent Customer,Yes,2,2230,New South Wales,12,382,0.95,0.4,0.5,0.625,0.625,382
+Arty Strudwick,53.0,Male,85,IT & Software Roles,Health,Mass Customer,Yes,8,2211,New South Wales,10,382,0.95,1.09,1.3625,1.703125,1.4476562499999999,382
+Alexa Dillet,73.0,Female,65,Engineering & Technical Roles,Entertainment,Affluent Customer,No,17,2261,New South Wales,7,382,0.95,0.57,0.57,0.57,0.57,382
+Palmer Heaven,22.0,Male,82,Science & Research,Financial Services,Affluent Customer,Yes,9,3754,Victoria,6,382,0.95,1.02,1.275,1.59375,1.59375,382
+Porter Buckenhill,63.0,Male,46,Administrative Roles,Manufacturing,High Net Worth,Yes,9,4124,Queensland,7,386,0.945625,0.58,0.725,0.725,0.725,386
+Kizzee Kemston,56.0,Female,11,unknown,Health,Mass Customer,No,13,2767,New South Wales,8,386,0.945625,0.41,0.41,0.41,0.3485,386
+Isadora Ducker,44.0,Female,15,Marketing & Media,Unknown,Affluent Customer,Yes,8,3153,Victoria,5,386,0.945625,0.7,0.875,0.875,0.875,386
+Giffie Offill,24.0,Male,51,Engineering & Technical Roles,Telecommunications,Affluent Customer,No,5,4740,Queensland,3,386,0.945625,1.0,1.0,1.0,1.0,386
+Fara Sarath,69.0,Female,75,Healthcare & Therapy,Unknown,Mass Customer,No,22,2168,New South Wales,7,386,0.945625,0.56,0.56,0.56,0.47600000000000003,386
+Carolann Raatz,38.0,Female,25,Engineering & Technical Roles,Unknown,High Net Worth,No,21,3977,Victoria,6,386,0.945625,0.69,0.69,0.69,0.69,386
+Tamar Windmill,78.0,Female,92,Marketing & Media,Manufacturing,Affluent Customer,No,10,2207,New South Wales,10,386,0.945625,0.69,0.69,0.8624999999999999,0.8624999999999999,386
+Kipp Stockport,35.0,Male,36,IT & Software Roles,Retail,Mass Customer,Yes,6,2022,New South Wales,11,386,0.945625,0.43,0.5375,0.671875,0.57109375,386
+Packston Wackett,67.0,Male,10,Engineering & Technical Roles,Financial Services,Mass Customer,No,19,3192,Victoria,9,386,0.945625,0.62,0.62,0.775,0.65875,386
+Hanson Eastes,27.0,Male,74,unknown,Manufacturing,Mass Customer,Yes,5,3056,Victoria,9,395,0.94,1.06,1.3250000000000002,1.6562500000000002,1.4078125000000001,395
+Demetria Bausor,56.0,Female,73,Administrative Roles,Entertainment,Mass Customer,Yes,9,2097,New South Wales,12,396,0.9375,0.42,0.525,0.65625,0.5578124999999999,396
+Lura Fawdrie,15.0,Female,66,Management & Leadership Roles,Health,Mass Customer,Yes,4,4211,Queensland,3,396,0.9375,0.89,1.1125,1.1125,0.945625,396
+Nora Anselm,57.0,Female,84,unknown,Entertainment,High Net Worth,Yes,15,4342,Queensland,5,396,0.9375,0.46,0.5750000000000001,0.7187500000000001,0.7187500000000001,396
+Estevan Eastment,75.0,Male,54,Science & Research,Health,Mass Customer,Yes,21,2019,New South Wales,8,396,0.9375,0.57,0.7124999999999999,0.7124999999999999,0.6056249999999999,396
+Aloysius Glowacz,38.0,Male,72,Finance & Accounting,Financial Services,Affluent Customer,No,18,2232,New South Wales,10,396,0.9375,0.73,0.73,0.9125,0.9125,396
+Bastien Ibbeson,41.0,Male,53,IT & Software Roles,IT,Mass Customer,No,12,2487,New South Wales,5,401,0.935,0.53,0.53,0.53,0.4505,401
+Otha Langworthy,50.0,Female,91,Finance & Accounting,Financial Services,Mass Customer,Yes,13,3130,Victoria,10,401,0.935,0.6,0.75,0.9375,0.796875,401
+Gannie Bargh,62.0,Male,56,IT & Software Roles,Unknown,Mass Customer,Yes,13,3201,Victoria,7,401,0.935,0.76,0.95,0.95,0.8075,401
+Dwayne Doel,39.0,Male,80,Management & Leadership Roles,Financial Services,Affluent Customer,Yes,17,2223,New South Wales,11,401,0.935,1.09,1.3625,1.703125,1.703125,401
+Leese Huckleby,40.0,Female,67,Administrative Roles,Manufacturing,High Net Worth,Yes,16,3777,Victoria,7,405,0.93,0.93,1.1625,1.1625,1.1625,405
+Dodi Kiggel,37.0,Female,5,unknown,Financial Services,Mass Customer,Yes,13,2114,New South Wales,11,405,0.93,0.95,1.1875,1.484375,1.26171875,405
+Kippar Brimilcome,79.0,Male,21,Marketing & Media,Health,Mass Customer,No,19,2089,New South Wales,11,405,0.93,0.49,0.49,0.6125,0.520625,405
+Corinna Beretta,21.0,Female,24,IT & Software Roles,Health,High Net Worth,No,12,3023,Victoria,7,408,0.9296875,0.95,0.95,0.95,0.95,408
+Laurie Odlin,34.0,Female,75,Marketing & Media,Health,High Net Worth,No,10,3194,Victoria,10,409,0.925,0.78,0.78,0.9750000000000001,0.9750000000000001,409
+Mair Erett,60.0,Female,15,Healthcare & Therapy,Unknown,Affluent Customer,No,18,2117,New South Wales,7,409,0.925,0.44,0.44,0.44,0.44,409
+Marcelia Copins,71.0,Female,81,unknown,Unknown,Mass Customer,Yes,21,2259,New South Wales,8,409,0.925,0.48,0.6,0.75,0.6375,409
+Tanner Terlinden,22.0,Male,84,Engineering & Technical Roles,Manufacturing,Mass Customer,No,14,3106,Victoria,11,409,0.925,1.07,1.07,1.3375000000000001,1.136875,409
+Hilliard Dullard,63.0,Male,65,Engineering & Technical Roles,Manufacturing,Mass Customer,No,17,2163,New South Wales,8,409,0.925,0.46,0.46,0.46,0.391,409
+Justinn Haruard,59.0,Female,48,Healthcare & Therapy,Health,High Net Worth,No,11,2035,New South Wales,12,414,0.924375,0.41,0.41,0.5125,0.5125,414
+Wyn Meach,79.0,Male,37,unknown,Manufacturing,Mass Customer,No,9,2765,New South Wales,9,415,0.9218749999999999,0.44,0.44,0.55,0.4675,415
+Art Shardlow,54.0,Male,57,IT & Software Roles,Argiculture,Mass Customer,Yes,15,4350,Queensland,2,415,0.9218749999999999,1.0,1.25,1.25,1.0625,415
+Dennis Varnham,64.0,Male,57,Administrative Roles,Entertainment,Affluent Customer,No,17,3350,Victoria,3,415,0.9218749999999999,0.74,0.74,0.74,0.74,415
+Freddi Litherborough,28.0,Female,46,Engineering & Technical Roles,Financial Services,Mass Customer,No,7,2460,New South Wales,3,418,0.918,1.08,1.08,1.08,0.918,418
+Salomon Perkins,19.0,Male,76,Engineering & Technical Roles,Financial Services,Affluent Customer,Yes,1,2009,New South Wales,10,419,0.91640625,0.54,0.675,0.84375,0.84375,419
+Sherill  ,26.0,Female,33,Administrative Roles,Financial Services,Mass Customer,No,3,2880,New South Wales,1,420,0.91375,0.64,0.64,0.64,0.544,420
+Queenie Learie,69.0,Female,90,unknown,Property,Mass Customer,No,12,2073,New South Wales,11,420,0.91375,0.86,0.86,1.075,0.91375,420
+Etan Prinett,47.0,Male,97,Administrative Roles,Argiculture,Mass Customer,Yes,10,2250,New South Wales,8,420,0.91375,0.5,0.625,0.78125,0.6640625,420
+Donaugh Benedict,26.0,Male,3,IT & Software Roles,Property,Mass Customer,No,12,2233,New South Wales,9,420,0.91375,0.88,0.88,1.1,0.935,420
+Harwell Kleinstein,24.0,Male,87,Marketing & Media,Retail,Affluent Customer,No,15,3818,Victoria,5,420,0.91375,1.09,1.09,1.3625,1.3625,420
+Cheston Hritzko,72.0,Male,70,Engineering & Technical Roles,Manufacturing,Mass Customer,Yes,19,2127,New South Wales,9,420,0.91375,0.43,0.5375,0.671875,0.57109375,420
+Suzy Trounson,70.0,Female,13,Finance & Accounting,Financial Services,Mass Customer,Yes,20,4152,Queensland,9,420,0.91375,1.02,1.275,1.59375,1.3546875,420
+Jobie Runacres,43.0,Female,96,IT & Software Roles,Unknown,Mass Customer,Yes,18,2528,New South Wales,7,427,0.9125,1.05,1.3125,1.640625,1.39453125,427
+Guenna Filisov,48.0,Female,52,Engineering & Technical Roles,Manufacturing,High Net Worth,No,13,2154,New South Wales,9,427,0.9125,1.03,1.03,1.2875,1.2875,427
+Opal Cleare,40.0,Female,6,IT & Software Roles,Property,Affluent Customer,Yes,20,2066,New South Wales,9,429,0.91,0.4,0.5,0.625,0.625,429
+Ottilie Wanless,77.0,Female,51,Science & Research,Unknown,Affluent Customer,No,8,2720,New South Wales,4,430,0.9095,0.78,0.78,0.78,0.78,430
+Kipper Circuit,43.0,Male,23,Administrative Roles,Argiculture,Mass Customer,Yes,4,2140,New South Wales,8,430,0.9095,0.58,0.725,0.725,0.61625,430
+Marilin Frome,42.0,Female,58,Marketing & Media,IT,Mass Customer,Yes,17,2219,New South Wales,9,430,0.9095,0.47,0.5874999999999999,0.7343749999999999,0.6242187499999999,430
+Arel Abramovitz,60.0,Male,72,Healthcare & Therapy,Health,Mass Customer,No,16,4650,Queensland,4,433,0.90625,0.76,0.76,0.76,0.646,433
+Kit Easdon,39.0,Male,61,Management & Leadership Roles,Property,Affluent Customer,No,12,3156,Victoria,8,433,0.90625,0.78,0.78,0.78,0.78,433
+Gregg Aimeric,46.240081383519836,U,52,Finance & Accounting,IT,Mass Customer,No,7,3753,Victoria,5,433,0.90625,0.79,0.79,0.79,0.6715,433
+Skipp Swales,44.0,Male,15,Marketing & Media,Entertainment,High Net Worth,Yes,22,3029,Victoria,7,436,0.903125,0.74,0.925,0.925,0.925,436
+Frederich Glantz,20.0,Male,37,Engineering & Technical Roles,Manufacturing,High Net Worth,Yes,10,2762,New South Wales,8,436,0.903125,0.51,0.6375,0.6375,0.6375,436
+Rodolph Denniss,43.0,Male,28,Science & Research,Property,Affluent Customer,Yes,7,3356,Victoria,2,436,0.903125,0.8,1.0,1.0,1.0,436
+Craggie Dering,65.0,Male,47,Finance & Accounting,Financial Services,Mass Customer,No,7,2125,New South Wales,10,436,0.903125,1.03,1.03,1.2875,1.094375,436
+Johna Bunker,46.240081383519836,U,93,Finance & Accounting,IT,Mass Customer,Yes,14,3065,Victoria,6,436,0.903125,0.6,0.75,0.9375,0.796875,436
+Giralda MacPeake,76.0,Female,59,Science & Research,Entertainment,High Net Worth,Yes,14,2705,New South Wales,1,441,0.901,1.06,1.3250000000000002,1.3250000000000002,1.3250000000000002,441
+Rodney Trethewey,20.0,Male,16,IT & Software Roles,Financial Services,Affluent Customer,No,15,3030,Victoria,8,441,0.901,0.41,0.41,0.41,0.41,441
+Theresina  ,30.0,Female,30,Administrative Roles,Argiculture,Mass Customer,Yes,14,2650,New South Wales,2,441,0.901,0.6,0.75,0.75,0.6375,441
+Gleda Howerd,53.0,Female,59,Management & Leadership Roles,IT,Mass Customer,No,6,2440,New South Wales,2,444,0.9,0.58,0.58,0.58,0.49299999999999994,444
+Melany Ladewig,45.0,Female,76,Science & Research,Financial Services,Mass Customer,Yes,10,4130,Queensland,7,444,0.9,0.57,0.7124999999999999,0.7124999999999999,0.6056249999999999,444
+Claudell Rounsefell,24.0,Male,67,Management & Leadership Roles,Financial Services,Affluent Customer,No,8,4217,Queensland,5,444,0.9,0.89,0.89,0.89,0.89,444
+Garwin Nurden,59.0,Male,54,IT & Software Roles,Property,High Net Worth,Yes,5,3142,Victoria,11,444,0.9,0.51,0.6375,0.796875,0.796875,444
+Bunny Leebetter,51.0,Female,83,Engineering & Technical Roles,Manufacturing,High Net Worth,Yes,8,4301,Queensland,4,444,0.9,0.89,1.1125,1.390625,1.390625,444
+Matias Melloi,40.0,Male,61,Administrative Roles,Retail,Affluent Customer,No,11,2155,New South Wales,10,444,0.9,0.79,0.79,0.9875,0.9875,444
+Sada Dowyer,19.0,Female,47,Administrative Roles,Unknown,High Net Worth,Yes,3,2090,New South Wales,10,450,0.8999999999999999,0.58,0.725,0.90625,0.90625,450
+Anet Roseman,21.0,Female,84,IT & Software Roles,Financial Services,Mass Customer,No,9,3814,Victoria,4,450,0.8999999999999999,0.9,0.9,1.125,0.9562499999999999,450
+Katie Warhurst,26.0,Female,0,Administrative Roles,Retail,High Net Worth,Yes,14,3064,Victoria,5,450,0.8999999999999999,0.61,0.7625,0.7625,0.7625,450
+Celia Bryden,74.0,Female,12,Engineering & Technical Roles,Manufacturing,High Net Worth,No,21,2114,New South Wales,9,450,0.8999999999999999,1.03,1.03,1.2875,1.2875,450
+Stearne Trolley,35.0,Male,42,Engineering & Technical Roles,Financial Services,High Net Worth,No,14,2137,New South Wales,11,450,0.8999999999999999,1.09,1.09,1.3625,1.3625,450
+Tristam Larose,32.0,Male,70,Management & Leadership Roles,Financial Services,Mass Customer,No,17,2137,New South Wales,11,455,0.8925,0.43,0.43,0.5375,0.456875,455
+Laurena  ,56.0,Female,21,Management & Leadership Roles,Unknown,High Net Worth,No,10,3810,Victoria,6,455,0.8925,1.07,1.07,1.07,1.07,455
+Heloise Fairpool,41.0,Female,17,Administrative Roles,Manufacturing,High Net Worth,No,17,4680,Queensland,3,455,0.8925,1.05,1.05,1.05,1.05,455
+Dory Malpass,45.0,Female,19,unknown,Unknown,Affluent Customer,Yes,13,4103,Queensland,8,455,0.8925,0.49,0.6125,0.6125,0.6125,455
+Marcellina Baynton,70.0,Female,60,Engineering & Technical Roles,Financial Services,Mass Customer,No,16,3141,Victoria,10,455,0.8925,0.56,0.56,0.7000000000000001,0.5950000000000001,455
+Gregorius Leal,66.0,Male,7,unknown,Retail,Affluent Customer,Yes,21,2033,New South Wales,12,455,0.8925,0.61,0.7625,0.953125,0.953125,455
+Deana Canton,43.0,Female,67,unknown,Property,Mass Customer,Yes,14,4301,Queensland,3,455,0.8925,0.66,0.8250000000000001,0.8250000000000001,0.70125,455
+Kori Sparsholt,77.0,Female,59,Administrative Roles,Unknown,Mass Customer,Yes,19,2171,New South Wales,9,455,0.8925,0.91,1.1375,1.421875,1.20859375,455
+Lucky Klainman,70.0,Female,24,Engineering & Technical Roles,Retail,Mass Customer,No,8,3758,Victoria,4,455,0.8925,0.55,0.55,0.55,0.4675,455
+Erasmus Olenchenko,52.0,Male,56,Engineering & Technical Roles,Property,Mass Customer,Yes,5,2484,New South Wales,7,464,0.8906249999999999,0.67,0.8375,0.8375,0.711875,464
+Carita Sand,40.0,Female,25,Engineering & Technical Roles,Retail,Mass Customer,No,16,2154,New South Wales,11,464,0.8906249999999999,0.51,0.51,0.6375,0.541875,464
+Lynnett Tipper,24.0,Female,22,Marketing & Media,Health,High Net Worth,Yes,2,3109,Victoria,10,466,0.89,0.5,0.625,0.78125,0.78125,466
+Thorn Stigers,45.0,Male,42,Management & Leadership Roles,Financial Services,Mass Customer,No,19,4115,Queensland,8,466,0.89,0.9,0.9,0.9,0.765,466
+Lela Billing,47.0,Female,38,IT & Software Roles,Unknown,Mass Customer,Yes,18,2571,New South Wales,7,468,0.8898437499999999,0.9,1.125,1.125,0.9562499999999999,468
+Norah Mapis,17.0,Female,75,Administrative Roles,Argiculture,Mass Customer,No,10,2263,New South Wales,9,468,0.8898437499999999,0.87,0.87,1.0875,0.924375,468
+Moina Rosenbaum,16.0,Female,50,Marketing & Media,IT,Mass Customer,No,14,3109,Victoria,10,468,0.8898437499999999,0.44,0.44,0.55,0.4675,468
+Ceciley Harg,27.0,Female,50,Healthcare & Therapy,Retail,Mass Customer,Yes,4,4172,Queensland,7,471,0.8875,0.88,1.1,1.1,0.935,471
+Torry de la Valette Parisot,50.0,Male,95,Management & Leadership Roles,Telecommunications,Mass Customer,Yes,18,3168,Victoria,9,471,0.8875,0.63,0.7875,0.984375,0.83671875,471
+Sigismund Sedger,18.0,Male,9,Finance & Accounting,Manufacturing,Affluent Customer,No,7,2155,New South Wales,10,473,0.884,0.87,0.87,1.0875,1.0875,473
+Irvine Headon,61.0,Male,99,Science & Research,IT,Affluent Customer,Yes,20,2322,New South Wales,5,473,0.884,0.9,1.125,1.40625,1.40625,473
+Laurie  ,38.0,Male,31,Administrative Roles,Entertainment,Mass Customer,Yes,15,2210,New South Wales,10,475,0.8818749999999999,0.85,1.0625,1.328125,1.12890625,475
+Tomkin Bernlin,16.0,Male,7,Science & Research,Health,Affluent Customer,Yes,9,2480,New South Wales,3,475,0.8818749999999999,0.85,1.0625,1.0625,1.0625,475
+Genni Fanstone,45.0,Female,25,Administrative Roles,Entertainment,Mass Customer,No,16,3149,Victoria,10,475,0.8818749999999999,0.82,0.82,1.025,0.8712499999999999,475
+Blondie  ,22.0,Female,43,Finance & Accounting,Financial Services,High Net Worth,No,11,2565,New South Wales,8,478,0.88,0.66,0.66,0.66,0.66,478
+Aloysius Killingsworth,60.0,Male,89,Management & Leadership Roles,Unknown,Mass Customer,No,12,2145,New South Wales,9,478,0.88,0.92,0.92,1.1500000000000001,0.9775,478
+Carola Philler,66.0,Female,73,Healthcare & Therapy,Health,High Net Worth,No,15,2145,New South Wales,7,478,0.88,0.79,0.79,0.79,0.79,478
+Fitzgerald Hellikes,38.0,Male,25,Administrative Roles,Health,Mass Customer,Yes,10,3040,Victoria,7,478,0.88,0.93,1.1625,1.1625,0.988125,478
+Ingmar Okenden,58.0,Male,97,Finance & Accounting,Financial Services,Mass Customer,Yes,8,3216,Victoria,2,478,0.88,0.86,1.075,1.34375,1.1421875,478
+Tina Dunstan,78.0,Female,13,Marketing & Media,Retail,Affluent Customer,No,13,2171,New South Wales,7,483,0.8765625,0.67,0.67,0.67,0.67,483
+Huberto Mollatt,56.0,Male,82,IT & Software Roles,Unknown,Mass Customer,Yes,14,2770,New South Wales,7,483,0.8765625,0.91,1.1375,1.421875,1.20859375,483
+Georgi  ,47.0,Male,29,Administrative Roles,Manufacturing,High Net Worth,No,11,3215,Victoria,4,485,0.8755,0.79,0.79,0.79,0.79,485
+Adolpho Bellerby,73.0,Male,46,Management & Leadership Roles,Financial Services,High Net Worth,Yes,13,4305,Queensland,4,486,0.875,1.01,1.2625,1.2625,1.2625,486
+Kelsey Hatt,51.0,Female,69,Marketing & Media,Financial Services,High Net Worth,No,8,3930,Victoria,6,486,0.875,0.43,0.43,0.43,0.43,486
+Lucien  ,51.0,Male,83,unknown,Financial Services,High Net Worth,Yes,19,4305,Queensland,3,486,0.875,0.64,0.8,1.0,1.0,486
+Ariel McCloid,23.0,Male,4,Administrative Roles,Unknown,High Net Worth,Yes,6,3630,Victoria,1,486,0.875,0.83,1.0374999999999999,1.0374999999999999,1.0374999999999999,486
+Bevvy Openshaw,42.0,Female,68,Science & Research,Unknown,Affluent Customer,Yes,10,2318,New South Wales,3,486,0.875,1.0,1.25,1.25,1.25,486
+Alexina Mabley,42.0,Female,72,IT & Software Roles,Manufacturing,Mass Customer,Yes,10,2573,New South Wales,9,486,0.875,0.8,1.0,1.25,1.0625,486
+Dawn Pyffe,52.0,Female,56,Administrative Roles,Retail,Mass Customer,No,11,3155,Victoria,8,492,0.8712499999999999,0.61,0.61,0.61,0.5185,492
+Claudette Renackowna,21.0,Female,55,Administrative Roles,Manufacturing,Mass Customer,No,2,2148,New South Wales,8,492,0.8712499999999999,0.97,0.97,0.97,0.8245,492
+Elianora Poolton,73.0,Female,15,IT & Software Roles,Unknown,Mass Customer,Yes,21,3134,Victoria,9,494,0.867,1.09,1.3625,1.703125,1.4476562499999999,494
+Park  ,40.0,Male,39,Healthcare & Therapy,IT,Affluent Customer,No,14,4350,Queensland,7,495,0.86328125,0.5,0.5,0.5,0.5,495
+Anthony Lindstrom,20.0,Male,86,Science & Research,Financial Services,Affluent Customer,Yes,10,2205,New South Wales,10,495,0.86328125,0.42,0.525,0.65625,0.65625,495
+Liane Poizer,65.0,Female,59,IT & Software Roles,Property,High Net Worth,No,13,2076,New South Wales,11,495,0.86328125,0.87,0.87,1.0875,1.0875,495
+Romonda Hallt,57.0,Female,69,Administrative Roles,Unknown,Affluent Customer,No,15,2480,New South Wales,4,498,0.8606250000000001,0.75,0.75,0.75,0.75,498
+Sula Thomann,28.0,Female,56,Administrative Roles,Unknown,Mass Customer,No,6,2160,New South Wales,9,498,0.8606250000000001,0.77,0.77,0.9625,0.818125,498
+Renell Earley,63.0,Female,5,Finance & Accounting,Financial Services,Mass Customer,Yes,11,4171,Queensland,5,500,0.86,0.41,0.5125,0.5125,0.43562499999999993,500
+Cliff Philipsson,50.0,Male,82,Engineering & Technical Roles,Argiculture,Mass Customer,No,16,3149,Victoria,10,500,0.86,0.59,0.59,0.7374999999999999,0.626875,500
+Clevey Aisthorpe,41.0,Male,27,IT & Software Roles,Unknown,Mass Customer,Yes,8,2009,New South Wales,9,502,0.8584999999999999,0.43,0.5375,0.671875,0.57109375,502
+Cariotta  ,43.0,Female,10,Administrative Roles,Entertainment,Affluent Customer,Yes,17,2527,New South Wales,7,502,0.8584999999999999,0.62,0.775,0.775,0.775,502
+George Jose,57.0,Male,68,Administrative Roles,Retail,High Net Worth,Yes,20,4680,Queensland,4,504,0.8500000000000001,0.45,0.5625,0.5625,0.5625,504
+Kissiah Foat,42.0,Female,30,Marketing & Media,Unknown,Mass Customer,Yes,19,2281,New South Wales,9,504,0.8500000000000001,0.51,0.6375,0.796875,0.67734375,504
+Milty Brauninger,72.0,Male,13,Administrative Roles,Unknown,High Net Worth,No,11,2640,New South Wales,7,504,0.8500000000000001,0.97,0.97,0.97,0.97,504
+Killian Nettles,37.0,Male,44,Administrative Roles,Unknown,Affluent Customer,No,4,3803,Victoria,7,507,0.85,0.81,0.81,0.81,0.81,507
+Fredia Favelle,43.0,Female,94,Education & Teaching,Unknown,Mass Customer,Yes,19,4014,Queensland,8,507,0.85,0.97,1.2125,1.515625,1.28828125,507
+Katleen Arnoult,41.0,Female,6,Management & Leadership Roles,Manufacturing,Mass Customer,Yes,13,2066,New South Wales,9,507,0.85,0.59,0.7374999999999999,0.9218749999999999,0.7835937499999999,507
+Gaultiero Fibbens,37.0,Male,41,IT & Software Roles,Unknown,Affluent Customer,No,9,2035,New South Wales,11,507,0.85,0.87,0.87,1.0875,1.0875,507
+Inglebert Aspinal,44.0,Male,4,Finance & Accounting,Financial Services,Mass Customer,No,11,2176,New South Wales,8,507,0.85,0.59,0.59,0.59,0.5015,507
+Jammal Devenny,18.0,Male,57,Administrative Roles,Retail,High Net Worth,No,12,3152,Victoria,9,507,0.85,0.93,0.93,1.1625,1.1625,507
+Adriane Richardson,41.0,Female,81,IT & Software Roles,Manufacturing,High Net Worth,No,9,3070,Victoria,8,513,0.8415,0.58,0.58,0.725,0.725,513
+Jodi Lermit,63.0,Female,94,unknown,Health,Mass Customer,Yes,10,4021,Queensland,2,513,0.8415,0.84,1.05,1.3125,1.1156249999999999,513
+Emelia Ackwood,29.0,Female,72,Management & Leadership Roles,Financial Services,Mass Customer,Yes,10,4183,Queensland,9,515,0.839375,0.51,0.6375,0.796875,0.67734375,515
+Andee Huke,46.0,Female,91,unknown,Manufacturing,Mass Customer,No,9,3858,Victoria,2,515,0.839375,0.67,0.67,0.8375,0.711875,515
+Isa Fominov,16.0,Male,75,Administrative Roles,Unknown,Mass Customer,Yes,5,2010,New South Wales,9,515,0.839375,0.58,0.725,0.90625,0.7703125,515
+Zabrina Margram,53.0,Female,87,unknown,Manufacturing,High Net Worth,Yes,11,4053,Queensland,8,515,0.839375,0.59,0.7374999999999999,0.9218749999999999,0.9218749999999999,515
+Maddalena Angood,18.0,Female,79,unknown,Manufacturing,Affluent Customer,No,12,2320,New South Wales,4,515,0.839375,0.85,0.85,0.85,0.85,515
+Sofie Worsfold,63.0,Female,87,Science & Research,Retail,Mass Customer,Yes,9,4125,Queensland,6,520,0.8375,1.09,1.3625,1.703125,1.4476562499999999,520
+Elmira Vasilyev,66.0,Female,33,Engineering & Technical Roles,Manufacturing,High Net Worth,No,12,2007,New South Wales,9,520,0.8375,0.89,0.89,1.1125,1.1125,520
+Free Rowland,61.0,Male,42,unknown,Unknown,Mass Customer,Yes,12,3796,Victoria,8,520,0.8375,0.46,0.5750000000000001,0.5750000000000001,0.48875,520
+Worthington Cohane,26.0,Male,60,Engineering & Technical Roles,Entertainment,High Net Worth,No,2,2000,New South Wales,12,520,0.8375,0.92,0.92,1.1500000000000001,1.1500000000000001,520
+Bailey Bereford,67.0,Male,44,Marketing & Media,Argiculture,Affluent Customer,Yes,11,2444,New South Wales,6,524,0.83671875,0.78,0.9750000000000001,0.9750000000000001,0.9750000000000001,524
+Perry Whitehurst,37.0,Male,79,Engineering & Technical Roles,Manufacturing,High Net Worth,Yes,8,3155,Victoria,7,524,0.83671875,0.59,0.7374999999999999,0.7374999999999999,0.7374999999999999,524
+Antony Tuma,63.0,Male,11,Science & Research,Telecommunications,High Net Worth,Yes,13,3078,Victoria,10,526,0.833,1.01,1.2625,1.578125,1.578125,526
+Corene Hallgate,53.0,Female,26,unknown,Financial Services,Mass Customer,Yes,14,3103,Victoria,12,526,0.833,0.63,0.7875,0.984375,0.83671875,526
+Nico Chadwick,64.0,Male,97,Administrative Roles,Financial Services,Affluent Customer,No,13,3190,Victoria,8,526,0.833,1.07,1.07,1.3375000000000001,1.3375000000000001,526
+Joline Skipperbottom,45.0,Female,59,IT & Software Roles,Unknown,High Net Worth,No,9,2161,New South Wales,9,529,0.83,0.71,0.71,0.8875,0.8875,529
+Ivy Farr,44.0,Female,56,Administrative Roles,IT,High Net Worth,No,19,2120,New South Wales,11,530,0.8287500000000001,0.55,0.55,0.6875,0.6875,530
+Dallas Lavalde,19.0,Female,18,Engineering & Technical Roles,Unknown,Mass Customer,No,12,2323,New South Wales,4,530,0.8287500000000001,0.54,0.54,0.54,0.459,530
+Amabel  ,36.0,Female,71,Engineering & Technical Roles,Financial Services,Mass Customer,Yes,9,2144,New South Wales,6,530,0.8287500000000001,0.79,0.9875,0.9875,0.839375,530
+Hilario McCulloch,31.0,Male,61,Administrative Roles,Retail,Mass Customer,No,8,3051,Victoria,8,530,0.8287500000000001,0.94,0.94,0.94,0.7989999999999999,530
+Jim Haddrell,62.0,Male,55,Education & Teaching,Financial Services,Mass Customer,No,9,2358,New South Wales,3,530,0.8287500000000001,0.83,0.83,0.83,0.7054999999999999,530
+Jacobo Mucklow,65.0,Male,62,IT & Software Roles,Financial Services,High Net Worth,Yes,22,3122,Victoria,8,530,0.8287500000000001,0.74,0.925,0.925,0.925,530
+Gretel Paschke,61.0,Female,10,Marketing & Media,Financial Services,Mass Customer,Yes,17,4074,Queensland,7,536,0.8250000000000001,0.67,0.8375,0.8375,0.711875,536
+Jethro Mertel,39.0,Male,16,IT & Software Roles,Argiculture,Mass Customer,Yes,15,2262,New South Wales,6,536,0.8250000000000001,0.65,0.8125,0.8125,0.6906249999999999,536
+Dwain Hatch,23.0,Male,62,Administrative Roles,Health,Affluent Customer,No,15,3028,Victoria,8,536,0.8250000000000001,0.57,0.57,0.57,0.57,536
+Lucretia D'Agostini,39.0,Female,41,IT & Software Roles,Manufacturing,High Net Worth,No,15,3185,Victoria,7,536,0.8250000000000001,0.69,0.69,0.69,0.69,536
+Claude Bowstead,20.0,Female,37,Administrative Roles,Manufacturing,Mass Customer,No,7,2217,New South Wales,12,536,0.8250000000000001,0.81,0.81,1.0125000000000002,0.8606250000000001,536
+Donn MacGregor,52.0,Male,80,Engineering & Technical Roles,Manufacturing,High Net Worth,No,5,2046,New South Wales,10,536,0.8250000000000001,1.04,1.04,1.3,1.3,536
+Laurel Devennie,41.0,Female,78,Management & Leadership Roles,Manufacturing,Affluent Customer,No,13,4352,Queensland,5,536,0.8250000000000001,0.55,0.55,0.55,0.55,536
+Elvira Darthe,42.0,Female,10,Administrative Roles,Financial Services,Affluent Customer,No,16,2168,New South Wales,9,536,0.8250000000000001,0.55,0.55,0.6875,0.6875,536
+Angie Tansley,67.0,Male,68,Management & Leadership Roles,Manufacturing,Mass Customer,No,8,2444,New South Wales,7,544,0.8245,0.57,0.57,0.57,0.48449999999999993,544
+Terrence Dalligan,19.0,Male,60,Engineering & Technical Roles,Manufacturing,High Net Worth,Yes,2,3200,Victoria,6,544,0.8245,0.84,1.05,1.05,1.05,544
+Katy Crooke,40.0,Female,0,Science & Research,Health,Mass Customer,No,13,2111,New South Wales,12,546,0.8234374999999999,0.73,0.73,0.9125,0.775625,546
+Sammy Borsi,45.0,Female,99,Finance & Accounting,Financial Services,Mass Customer,No,5,2289,New South Wales,7,546,0.8234374999999999,0.45,0.45,0.5625,0.47812499999999997,546
+Morganica Ainsbury,45.0,Female,37,Marketing & Media,Entertainment,High Net Worth,Yes,9,2151,New South Wales,10,546,0.8234374999999999,0.76,0.95,1.1875,1.1875,546
+Nils Champion,33.0,Male,69,IT & Software Roles,Retail,Affluent Customer,No,13,2750,New South Wales,9,549,0.82,0.4,0.4,0.5,0.5,549
+Beverlee Querree,26.0,Female,42,Administrative Roles,Financial Services,High Net Worth,Yes,12,2075,New South Wales,12,549,0.82,0.94,1.1749999999999998,1.4687499999999998,1.4687499999999998,549
+Cami Eitter,39.0,Female,34,Education & Teaching,Manufacturing,High Net Worth,Yes,11,3081,Victoria,9,551,0.818125,0.81,1.0125000000000002,1.2656250000000002,1.2656250000000002,551
+Reiko Degenhardt,41.0,Female,83,Finance & Accounting,Financial Services,High Net Worth,Yes,5,4280,Queensland,6,552,0.816,0.91,1.1375,1.421875,1.421875,552
+Cord Dunsmore,18.0,Male,12,Finance & Accounting,Manufacturing,Mass Customer,Yes,13,4301,Queensland,3,552,0.816,0.94,1.1749999999999998,1.1749999999999998,0.9987499999999998,552
+Gabey Kennicott,59.0,Female,55,IT & Software Roles,Financial Services,Affluent Customer,No,17,2322,New South Wales,6,552,0.816,0.85,0.85,0.85,0.85,552
+Jacqui Devey,22.0,Female,79,IT & Software Roles,Financial Services,High Net Worth,Yes,13,2261,New South Wales,8,555,0.8125,0.41,0.5125,0.5125,0.5125,555
+Byrom Ramas,24.0,Male,23,IT & Software Roles,Manufacturing,High Net Worth,No,12,2528,New South Wales,7,555,0.8125,0.82,0.82,0.82,0.82,555
+Worthington Ahmed,45.0,Male,79,Management & Leadership Roles,Financial Services,High Net Worth,No,13,3335,Victoria,3,555,0.8125,0.91,0.91,0.91,0.91,555
+Chico Dye,23.0,Male,46,Healthcare & Therapy,Manufacturing,High Net Worth,No,13,2526,New South Wales,9,555,0.8125,1.02,1.02,1.275,1.275,555
+Davidde Cockroft,70.0,Male,70,Engineering & Technical Roles,Manufacturing,High Net Worth,No,8,2158,New South Wales,12,555,0.8125,0.74,0.74,0.925,0.925,555
+Charlie Dmych,67.0,Male,60,Administrative Roles,Manufacturing,High Net Worth,No,13,2263,New South Wales,6,555,0.8125,1.04,1.04,1.04,1.04,555
+Donn Chaney,66.0,Male,15,Administrative Roles,Unknown,Mass Customer,No,13,4701,Queensland,3,561,0.81015625,0.88,0.88,0.88,0.748,561
+Kamila Parsonage,63.0,Female,80,unknown,Property,Mass Customer,No,5,4131,Queensland,8,562,0.81,0.98,0.98,0.98,0.833,562
+Barth Sapshed,23.0,Male,4,Administrative Roles,Financial Services,Mass Customer,Yes,13,4520,Queensland,10,563,0.8075,0.68,0.8500000000000001,1.0625,0.903125,563
+Padriac Collacombe,50.0,Male,67,IT & Software Roles,Health,Affluent Customer,No,13,2090,New South Wales,10,563,0.8075,0.59,0.59,0.7374999999999999,0.7374999999999999,563
+Olive Mozzi,62.0,Female,87,Marketing & Media,Retail,Affluent Customer,Yes,20,2567,New South Wales,9,563,0.8075,0.62,0.775,0.96875,0.96875,563
+Benedict Rosas,62.0,Male,73,Finance & Accounting,Financial Services,High Net Worth,Yes,15,2142,New South Wales,6,563,0.8075,0.78,0.9750000000000001,0.9750000000000001,0.9750000000000001,563
+Virginia De Antoni,53.0,Female,17,Administrative Roles,Telecommunications,High Net Worth,Yes,12,2030,New South Wales,10,563,0.8075,1.05,1.3125,1.640625,1.640625,563
+Nicolas O'Donnell,31.0,Male,40,Finance & Accounting,Unknown,Mass Customer,Yes,14,3177,Victoria,7,568,0.8,1.02,1.275,1.275,1.08375,568
+Oswald MacCarlich,26.0,Male,81,Administrative Roles,Entertainment,Mass Customer,No,14,4717,Queensland,1,568,0.8,0.51,0.51,0.6375,0.541875,568
+Ailyn Howgate,16.0,Female,66,Engineering & Technical Roles,Manufacturing,Mass Customer,Yes,2,4213,Queensland,7,568,0.8,0.99,1.2375,1.2375,1.0518750000000001,568
+Karol Salthouse,49.0,Female,53,Administrative Roles,Financial Services,Mass Customer,Yes,18,2570,New South Wales,8,568,0.8,0.79,0.9875,0.9875,0.839375,568
+Esdras Birchett,67.0,Male,81,Administrative Roles,Entertainment,Mass Customer,Yes,21,2258,New South Wales,9,568,0.8,0.62,0.775,0.96875,0.8234374999999999,568
+Wilfrid Gertray,75.0,Male,1,Administrative Roles,Financial Services,Mass Customer,No,16,2766,New South Wales,8,568,0.8,1.07,1.07,1.07,0.9095,568
+Charmain Styles,52.0,Female,49,IT & Software Roles,Property,High Net Worth,Yes,18,3029,Victoria,7,574,0.7989999999999999,0.85,1.0625,1.0625,1.0625,574
+Harlene Nono,46.240081383519836,U,69,Administrative Roles,IT,Mass Customer,No,12,2170,New South Wales,7,575,0.796875,0.99,0.99,0.99,0.8415,575
+Kirsteni Gritskov,19.0,Female,66,unknown,Unknown,Mass Customer,No,4,2560,New South Wales,7,575,0.796875,0.62,0.62,0.62,0.527,575
+Bobby Summersby,74.0,Male,90,Marketing & Media,Financial Services,Affluent Customer,No,7,3350,Victoria,2,575,0.796875,0.75,0.75,0.9375,0.9375,575
+Shepherd Dutchburn,41.0,Male,33,Marketing & Media,Financial Services,High Net Worth,Yes,9,2160,New South Wales,9,575,0.796875,1.09,1.3625,1.703125,1.703125,575
+Berenice Kaesmakers,23.0,Female,64,Marketing & Media,Retail,Mass Customer,No,11,2145,New South Wales,9,575,0.796875,0.4,0.4,0.5,0.425,575
+Jesse Crosio,23.0,Male,75,IT & Software Roles,Unknown,Mass Customer,Yes,13,3133,Victoria,8,575,0.796875,0.47,0.5874999999999999,0.5874999999999999,0.4993749999999999,575
+Cordi Thornton,45.0,Female,47,Engineering & Technical Roles,Telecommunications,Mass Customer,No,11,2028,New South Wales,10,575,0.796875,0.87,0.87,1.0875,0.924375,575
+Debbie Tillman,27.0,Female,3,Administrative Roles,Manufacturing,High Net Worth,Yes,13,4551,Queensland,8,582,0.79,0.74,0.925,0.925,0.925,582
+Judie Pirkis,22.0,Female,2,Administrative Roles,Unknown,Affluent Customer,Yes,4,2111,New South Wales,11,583,0.7875,0.91,1.1375,1.421875,1.421875,583
+Flin Yoskowitz,22.0,Male,9,Healthcare & Therapy,Health,Mass Customer,Yes,11,2574,New South Wales,7,583,0.7875,0.62,0.775,0.775,0.65875,583
+Noel Sturch,66.0,Female,26,Science & Research,Health,Mass Customer,No,10,3585,Victoria,1,583,0.7875,0.96,0.96,0.96,0.816,583
+Letizia Poore,79.0,Female,27,IT & Software Roles,Manufacturing,Affluent Customer,No,15,3677,Victoria,3,583,0.7875,0.92,0.92,0.92,0.92,583
+Raynard  ,21.0,Male,32,Science & Research,Health,Affluent Customer,No,14,4132,Queensland,6,587,0.78625,0.5,0.5,0.5,0.5,587
+Kiley Grunder,23.0,Male,95,Management & Leadership Roles,Financial Services,Affluent Customer,Yes,1,4006,Queensland,8,587,0.78625,0.78,0.9750000000000001,1.21875,1.21875,587
+Ethelred Sissel,43.0,Male,83,IT & Software Roles,Health,High Net Worth,No,18,2539,New South Wales,8,587,0.78625,0.86,0.86,1.075,1.075,587
+Dena Pabst,30.0,Female,39,Marketing & Media,Manufacturing,High Net Worth,Yes,17,3037,Victoria,7,590,0.7835937499999999,0.57,0.7124999999999999,0.7124999999999999,0.7124999999999999,590
+Wyndham Woolford,38.0,Male,1,Engineering & Technical Roles,Manufacturing,Mass Customer,No,10,3977,Victoria,6,591,0.782,0.83,0.83,0.83,0.7054999999999999,591
+Rochette Haddacks,21.0,Female,44,Finance & Accounting,Retail,Affluent Customer,Yes,13,3020,Victoria,8,591,0.782,1.04,1.3,1.3,1.3,591
+Jamal Dudgeon,52.0,Male,83,Engineering & Technical Roles,Financial Services,Mass Customer,No,7,3029,Victoria,5,591,0.782,0.47,0.47,0.5874999999999999,0.4993749999999999,591
+Levin Coxen,62.0,Male,13,Finance & Accounting,Property,Mass Customer,No,20,2753,New South Wales,8,594,0.78125,0.79,0.79,0.79,0.6715,594
+Marinna Kauschke,44.0,Female,21,Marketing & Media,Financial Services,Affluent Customer,Yes,8,3174,Victoria,3,595,0.775625,1.01,1.2625,1.2625,1.2625,595
+Kyle Michie,59.0,Female,6,Healthcare & Therapy,Unknown,Mass Customer,Yes,10,3032,Victoria,8,595,0.775625,0.68,0.8500000000000001,0.8500000000000001,0.7225,595
+Lanie Cobbold,39.0,Male,57,Marketing & Media,Unknown,Mass Customer,Yes,9,2323,New South Wales,5,595,0.775625,0.5,0.625,0.625,0.53125,595
+Gilbert O'Fallone,23.0,Male,29,Administrative Roles,Entertainment,High Net Worth,No,1,2126,New South Wales,11,595,0.775625,0.67,0.67,0.8375,0.8375,595
+Gerianne Kaysor,46.240081383519836,U,15,Administrative Roles,IT,Affluent Customer,No,5,2121,New South Wales,11,599,0.775,0.47,0.47,0.5874999999999999,0.5874999999999999,599
+Esther McOnie,78.0,Female,59,Administrative Roles,Unknown,Mass Customer,No,14,2096,New South Wales,12,599,0.775,0.95,0.95,1.1875,1.009375,599
+Chaim Kingdon,21.0,Male,63,Finance & Accounting,Financial Services,Affluent Customer,Yes,15,2097,New South Wales,9,599,0.775,0.65,0.8125,1.015625,1.015625,599
+Anson Dearnaly,20.0,Male,68,IT & Software Roles,Health,Affluent Customer,Yes,11,2103,New South Wales,11,602,0.7735,0.92,1.1500000000000001,1.4375000000000002,1.4375000000000002,602
+Caitrin Critten,44.0,Female,45,Management & Leadership Roles,Manufacturing,Mass Customer,Yes,10,4113,Queensland,7,603,0.7703125,0.41,0.5125,0.5125,0.43562499999999993,603
+Garreth Minett,56.0,Male,93,Administrative Roles,Unknown,Affluent Customer,Yes,10,3163,Victoria,7,604,0.765,0.43,0.5375,0.671875,0.671875,604
+Rozamond Sommer,51.0,Female,27,Administrative Roles,IT,Affluent Customer,Yes,12,3129,Victoria,10,604,0.765,0.59,0.7374999999999999,0.9218749999999999,0.9218749999999999,604
+Annabell Downer,62.0,Female,33,Finance & Accounting,Unknown,Affluent Customer,No,20,2763,New South Wales,9,606,0.7649999999999999,0.48,0.48,0.6,0.6,606
+Maximilian Geffen,62.0,Male,96,Engineering & Technical Roles,Manufacturing,Mass Customer,Yes,20,2750,New South Wales,8,606,0.7649999999999999,0.5,0.625,0.78125,0.6640625,606
+Ajay Worham,38.0,Female,80,IT & Software Roles,Manufacturing,Mass Customer,Yes,12,2800,New South Wales,6,606,0.7649999999999999,0.57,0.7124999999999999,0.7124999999999999,0.6056249999999999,606
+Jamison Cashin,47.0,Male,70,Management & Leadership Roles,Health,Mass Customer,Yes,5,2477,New South Wales,8,609,0.7625,1.03,1.2875,1.2875,1.094375,609
+Dorian Emery,19.0,Female,94,Education & Teaching,Manufacturing,Mass Customer,Yes,9,2168,New South Wales,8,609,0.7625,1.07,1.3375000000000001,1.6718750000000002,1.42109375,609
+Nicol Swinford,41.0,Male,65,Management & Leadership Roles,Property,High Net Worth,No,16,4157,Queensland,7,609,0.7625,0.85,0.85,0.85,0.85,609
+Agna Cowpe,48.0,Female,88,unknown,Property,Mass Customer,Yes,7,4114,Queensland,3,612,0.7570312499999999,0.64,0.8,1.0,0.85,612
+Nev Prosh,67.0,Male,29,Science & Research,Health,Affluent Customer,Yes,17,2148,New South Wales,8,612,0.7570312499999999,0.52,0.65,0.65,0.65,612
+Lucius Hatchell,66.0,Male,37,Administrative Roles,Retail,Mass Customer,Yes,14,3782,Victoria,8,612,0.7570312499999999,0.82,1.025,1.025,0.8712499999999999,612
+Francisca Pottage,60.0,Female,63,Engineering & Technical Roles,IT,Mass Customer,No,8,2177,New South Wales,9,615,0.7565,0.89,0.89,1.1125,0.945625,615
+Farlie Brookz,54.0,Male,62,Administrative Roles,Health,Mass Customer,Yes,6,2070,New South Wales,12,615,0.7565,0.7,0.875,1.09375,0.9296875,615
+Mariette  ,61.0,Female,47,IT & Software Roles,Property,Affluent Customer,Yes,17,2049,New South Wales,11,617,0.7543749999999999,0.44,0.55,0.6875,0.6875,617
+Beverlee Ungerechts,44.0,Female,49,Engineering & Technical Roles,Manufacturing,Mass Customer,No,8,4020,Queensland,7,617,0.7543749999999999,1.04,1.04,1.04,0.884,617
+Nanni Girodias,59.0,Female,61,unknown,Retail,High Net Worth,No,16,2161,New South Wales,9,617,0.7543749999999999,1.01,1.01,1.2625,1.2625,617
+Delcina Hursey,49.0,Female,22,unknown,Financial Services,Mass Customer,Yes,7,4132,Queensland,4,620,0.75,1.04,1.3,1.3,1.105,620
+Lek Pimblett,62.0,Male,88,Engineering & Technical Roles,Financial Services,Mass Customer,Yes,6,2460,New South Wales,2,620,0.75,0.6,0.75,0.9375,0.796875,620
+Kellyann Adshad,77.0,Female,62,unknown,Unknown,Mass Customer,Yes,22,2161,New South Wales,9,620,0.75,1.09,1.3625,1.703125,1.4476562499999999,620
+Ewell Paulusch,19.0,Male,31,Engineering & Technical Roles,Manufacturing,Mass Customer,Yes,8,4032,Queensland,7,620,0.75,0.66,0.8250000000000001,0.8250000000000001,0.70125,620
+Madison Lars,50.0,Male,11,Healthcare & Therapy,Health,Mass Customer,No,19,4500,Queensland,9,620,0.75,0.65,0.65,0.8125,0.6906249999999999,620
+Ardis Taree,57.0,Female,97,Engineering & Technical Roles,Manufacturing,Affluent Customer,Yes,5,4128,Queensland,9,625,0.748,0.63,0.7875,0.984375,0.984375,625
+Wheeler Godsil,24.0,Male,51,Science & Research,Manufacturing,Affluent Customer,Yes,6,2147,New South Wales,9,626,0.74375,0.79,0.9875,1.234375,1.234375,626
+Marissa O'Scandall,44.0,Female,17,unknown,Unknown,Affluent Customer,Yes,7,3199,Victoria,7,626,0.74375,0.46,0.5750000000000001,0.5750000000000001,0.5750000000000001,626
+Terrel Keynd,56.0,Male,30,Marketing & Media,Manufacturing,Mass Customer,No,9,4221,Queensland,7,626,0.74375,0.54,0.54,0.54,0.459,626
+Augie Swallwell,78.0,Male,42,unknown,Property,Affluent Customer,Yes,13,2400,New South Wales,2,626,0.74375,0.84,1.05,1.05,1.05,626
+Dillon Bannister,72.0,Male,7,Finance & Accounting,Unknown,Mass Customer,No,11,2062,New South Wales,9,626,0.74375,1.03,1.03,1.2875,1.094375,626
+Osbourn Gherardini,30.0,Male,43,unknown,Unknown,High Net Worth,Yes,16,2782,New South Wales,7,626,0.74375,1.08,1.35,1.35,1.35,626
+Lissa Gawn,55.0,Female,86,Administrative Roles,Health,Mass Customer,Yes,17,4503,Queensland,5,632,0.74,0.62,0.775,0.96875,0.8234374999999999,632
+Leisha McConway,42.0,Female,3,Administrative Roles,Financial Services,Mass Customer,Yes,13,3175,Victoria,8,632,0.74,1.09,1.3625,1.3625,1.158125,632
+Kearney Cuddehy,20.0,Male,88,Administrative Roles,Retail,Mass Customer,No,12,4207,Queensland,6,634,0.7394999999999999,0.98,0.98,1.225,1.04125,634
+Shellysheldon Bichard,64.0,Male,96,IT & Software Roles,Financial Services,Mass Customer,Yes,16,4503,Queensland,5,634,0.7394999999999999,0.77,0.9625,1.203125,1.02265625,634
+Reinhard Oscroft,67.0,Male,23,Healthcare & Therapy,Health,High Net Worth,No,18,3690,Victoria,1,634,0.7394999999999999,0.58,0.58,0.58,0.58,634
+Menard Venmore,39.0,Male,97,Administrative Roles,Retail,High Net Worth,No,8,2197,New South Wales,10,637,0.7374999999999999,0.87,0.87,1.0875,1.0875,637
+Andree Breeds,63.0,Female,31,Marketing & Media,Financial Services,Affluent Customer,Yes,11,3152,Victoria,6,637,0.7374999999999999,0.68,0.8500000000000001,0.8500000000000001,0.8500000000000001,637
+Kata Harrop,67.0,Female,70,unknown,Retail,Affluent Customer,Yes,13,2196,New South Wales,10,637,0.7374999999999999,0.77,0.9625,1.203125,1.203125,637
+Pierrette Gummie,51.0,Female,18,Science & Research,Retail,Affluent Customer,No,14,3143,Victoria,8,637,0.7374999999999999,0.61,0.61,0.61,0.61,637
+Nady Withinshaw,49.0,Female,96,IT & Software Roles,Unknown,High Net Worth,No,8,4000,Queensland,7,641,0.7343749999999999,0.74,0.74,0.925,0.925,641
+Demott Mullaly,35.0,Male,42,Administrative Roles,Property,Mass Customer,No,13,2525,New South Wales,8,642,0.7331249999999999,0.61,0.61,0.61,0.5185,642
+Wendye Kleinplatz,21.0,Female,48,Administrative Roles,Manufacturing,Affluent Customer,No,14,4132,Queensland,3,643,0.731,0.92,0.92,0.92,0.92,643
+Irvin Bevans,55.0,Male,82,Administrative Roles,Manufacturing,Mass Customer,No,12,2046,New South Wales,11,644,0.73046875,0.69,0.69,0.8624999999999999,0.7331249999999999,644
+Madella Marquiss,41.0,Female,51,Management & Leadership Roles,Unknown,Affluent Customer,No,18,3175,Victoria,8,644,0.73046875,0.72,0.72,0.72,0.72,644
+Austine Speedy,77.0,Female,38,Engineering & Technical Roles,Argiculture,High Net Worth,Yes,14,2558,New South Wales,8,646,0.73,1.01,1.2625,1.2625,1.2625,646
+Wolf Craft,22.0,Male,93,IT & Software Roles,Retail,Affluent Customer,Yes,5,2148,New South Wales,9,646,0.73,1.06,1.3250000000000002,1.6562500000000002,1.6562500000000002,646
+Aldin Newsome,36.0,Male,24,Finance & Accounting,Financial Services,Mass Customer,No,17,2127,New South Wales,9,648,0.725,1.06,1.06,1.3250000000000002,1.1262500000000002,648
+Sindee Jasik,75.0,Female,18,Marketing & Media,Health,Mass Customer,Yes,15,4030,Queensland,9,648,0.725,1.03,1.2875,1.609375,1.36796875,648
+Truman Arlett,59.0,Male,58,IT & Software Roles,Manufacturing,High Net Worth,Yes,16,2477,New South Wales,5,648,0.725,0.74,0.925,0.925,0.925,648
+Gordon Rewan,30.0,Male,42,Engineering & Technical Roles,Unknown,Mass Customer,No,5,2750,New South Wales,8,651,0.7225,0.76,0.76,0.76,0.646,651
+Israel Brough,41.0,Male,29,unknown,Unknown,Mass Customer,Yes,8,2281,New South Wales,7,651,0.7225,0.53,0.6625000000000001,0.6625000000000001,0.5631250000000001,651
+Leticia Hovenden,20.0,Female,98,Engineering & Technical Roles,Retail,Mass Customer,Yes,1,3178,Victoria,9,653,0.7187500000000001,0.94,1.1749999999999998,1.4687499999999998,1.2484374999999999,653
+Caritta Compston,59.0,Female,86,Engineering & Technical Roles,Manufacturing,Mass Customer,Yes,17,3976,Victoria,5,653,0.7187500000000001,0.98,1.225,1.53125,1.3015625,653
+Annabelle Hanwell,66.0,Female,11,Education & Teaching,Manufacturing,High Net Worth,Yes,15,3083,Victoria,12,655,0.7171875,0.59,0.7374999999999999,0.9218749999999999,0.9218749999999999,655
+Darryl Hovee,73.0,Female,2,Education & Teaching,Financial Services,Mass Customer,Yes,19,2047,New South Wales,12,655,0.7171875,0.43,0.5375,0.671875,0.57109375,655
+Orly Nesbitt,32.0,Female,6,IT & Software Roles,Manufacturing,High Net Worth,Yes,14,3163,Victoria,6,657,0.714,0.73,0.9125,0.9125,0.9125,657
+Margette Gibard,75.0,Female,34,unknown,Manufacturing,Affluent Customer,Yes,9,2011,New South Wales,7,658,0.7124999999999999,0.97,1.2125,1.2125,1.2125,658
+Nicol Bertot,40.0,Female,25,Finance & Accounting,Financial Services,Affluent Customer,Yes,18,3060,Victoria,5,658,0.7124999999999999,0.54,0.675,0.675,0.675,658
+Nobe Trowsdale,49.0,Male,12,Marketing & Media,Financial Services,Mass Customer,No,16,3816,Victoria,3,658,0.7124999999999999,1.06,1.06,1.06,0.901,658
+Stephen Tittershill,26.0,Male,73,Healthcare & Therapy,Financial Services,High Net Worth,No,6,3150,Victoria,11,658,0.7124999999999999,0.42,0.42,0.525,0.525,658
+Giselbert Pickring,58.0,Male,94,Finance & Accounting,Manufacturing,Affluent Customer,Yes,20,2766,New South Wales,8,662,0.711875,0.66,0.8250000000000001,1.03125,1.03125,662
+Shane Diss,37.0,Female,50,unknown,Financial Services,High Net Worth,Yes,16,3198,Victoria,8,662,0.711875,0.54,0.675,0.675,0.675,662
+Lisette Davers,77.0,Female,59,IT & Software Roles,Health,High Net Worth,No,17,2130,New South Wales,11,662,0.711875,0.89,0.89,1.1125,1.1125,662
+Chicky Sinclar,46.240081383519836,U,43,Administrative Roles,IT,High Net Worth,Yes,0,3222,Victoria,4,662,0.711875,0.66,0.8250000000000001,0.8250000000000001,0.8250000000000001,662
+Kippar Whyatt,57.0,Male,13,unknown,Property,Mass Customer,No,10,2259,New South Wales,7,666,0.71,0.52,0.52,0.52,0.442,666
+Xenia Maleck,57.0,Female,41,Management & Leadership Roles,Telecommunications,Mass Customer,No,12,3029,Victoria,7,666,0.71,0.76,0.76,0.76,0.646,666
+Essie Withur,76.0,Female,42,Management & Leadership Roles,Financial Services,High Net Worth,No,19,3444,Victoria,7,668,0.7054999999999999,0.82,0.82,0.82,0.82,668
+Cecil Gant,41.0,Male,52,unknown,Unknown,High Net Worth,Yes,9,2145,New South Wales,8,668,0.7054999999999999,0.75,0.9375,0.9375,0.9375,668
+Lillis Eshmade,43.0,Female,50,Engineering & Technical Roles,Financial Services,Mass Customer,Yes,22,4304,Queensland,2,668,0.7054999999999999,0.73,0.9125,0.9125,0.775625,668
+Ted Izacenko,58.0,Male,3,Science & Research,Entertainment,High Net Worth,No,9,3130,Victoria,10,668,0.7054999999999999,0.46,0.46,0.5750000000000001,0.5750000000000001,668
+Nixie Shoesmith,61.0,Female,45,Marketing & Media,Retail,Affluent Customer,No,12,4516,Queensland,6,672,0.7039062500000001,0.58,0.58,0.58,0.58,672
+Briana Trill,73.0,Female,5,Healthcare & Therapy,Health,High Net Worth,No,11,2137,New South Wales,11,672,0.7039062500000001,0.47,0.47,0.5874999999999999,0.5874999999999999,672
+Cobbie Bruyett,61.0,Male,20,Education & Teaching,Unknown,Mass Customer,Yes,20,2500,New South Wales,8,674,0.703125,0.55,0.6875,0.6875,0.584375,674
+Wrennie Dwelly,77.0,Female,23,Administrative Roles,Manufacturing,Mass Customer,No,18,3020,Victoria,9,674,0.703125,0.96,0.96,1.2,1.02,674
+Sibylla Kibble,55.0,Female,73,Healthcare & Therapy,Health,High Net Worth,No,12,2122,New South Wales,9,676,0.70125,0.45,0.45,0.5625,0.5625,676
+Kariotta Naper,65.0,Female,8,Management & Leadership Roles,Health,Mass Customer,No,21,2756,New South Wales,10,676,0.70125,0.6,0.6,0.75,0.6375,676
+Wylie Huntingdon,51.0,Male,99,Management & Leadership Roles,Financial Services,Mass Customer,No,15,2763,New South Wales,8,676,0.70125,0.6,0.6,0.75,0.6375,676
+Lizbeth Garvan,21.0,Female,36,Engineering & Technical Roles,Health,Mass Customer,No,4,2141,New South Wales,9,676,0.70125,0.87,0.87,1.0875,0.924375,676
+Averil Ackery,47.0,Male,93,Marketing & Media,Retail,Mass Customer,Yes,7,2093,New South Wales,12,676,0.70125,0.46,0.5750000000000001,0.7187500000000001,0.6109375000000001,676
+Myrtie Ostrich,21.0,Female,70,Management & Leadership Roles,Property,Affluent Customer,Yes,9,2251,New South Wales,7,676,0.70125,0.52,0.65,0.65,0.65,676
+Ross Vidgen,70.0,Male,17,Management & Leadership Roles,Retail,Affluent Customer,No,12,4032,Queensland,9,682,0.7000000000000001,0.66,0.66,0.8250000000000001,0.8250000000000001,682
+Sibby Skinner,36.0,Female,25,Finance & Accounting,Manufacturing,Mass Customer,Yes,12,4178,Queensland,7,682,0.7000000000000001,0.44,0.55,0.55,0.4675,682
+Selle Casper,39.0,Female,98,Marketing & Media,Health,Mass Customer,Yes,10,2880,New South Wales,1,684,0.7,1.05,1.3125,1.640625,1.39453125,684
+Andrew Froment,40.0,Male,58,Administrative Roles,Retail,High Net Worth,No,7,3860,Victoria,2,684,0.7,1.1,1.1,1.1,1.1,684
+Maurizia Ritmeyer,37.0,Female,95,Education & Teaching,Entertainment,Mass Customer,Yes,3,2142,New South Wales,6,684,0.7,0.46,0.5750000000000001,0.7187500000000001,0.6109375000000001,684
+Keenan Moriarty,23.0,Male,67,Finance & Accounting,Financial Services,Mass Customer,Yes,2,4075,Queensland,8,684,0.7,0.93,1.1625,1.1625,0.988125,684
+Davide Senten,76.0,Male,22,Administrative Roles,Manufacturing,Mass Customer,No,11,2171,New South Wales,9,688,0.697,0.77,0.77,0.9625,0.818125,688
+Renie Fiveash,25.0,Female,92,Healthcare & Therapy,Health,High Net Worth,No,16,4508,Queensland,4,688,0.697,0.7,0.7,0.875,0.875,688
+Willard Booton,79.0,Male,69,unknown,Health,High Net Worth,Yes,7,2121,New South Wales,9,688,0.697,0.62,0.775,0.96875,0.96875,688
+Debby Balmadier,25.0,Female,53,Administrative Roles,Financial Services,Affluent Customer,Yes,5,3216,Victoria,8,691,0.6906249999999999,0.86,1.075,1.075,1.075,691
+Rockie MacKibbon,39.0,Male,42,unknown,Unknown,Mass Customer,Yes,13,2298,New South Wales,8,691,0.6906249999999999,0.78,0.9750000000000001,0.9750000000000001,0.8287500000000001,691
+Harvey Dwelley,44.0,Male,70,IT & Software Roles,Financial Services,Affluent Customer,No,18,2077,New South Wales,9,691,0.6906249999999999,0.64,0.64,0.8,0.8,691
+Patrice Pariss,63.0,Male,96,Management & Leadership Roles,Financial Services,Mass Customer,No,9,4078,Queensland,5,691,0.6906249999999999,0.69,0.69,0.8624999999999999,0.7331249999999999,691
+Arman Yakubov,40.0,Male,68,Management & Leadership Roles,Property,High Net Worth,Yes,17,2323,New South Wales,4,691,0.6906249999999999,0.94,1.1749999999999998,1.1749999999999998,1.1749999999999998,691
+Gardiner Gypps,26.0,Male,91,Management & Leadership Roles,Retail,Mass Customer,Yes,13,2166,New South Wales,9,691,0.6906249999999999,0.98,1.225,1.53125,1.3015625,691
+Cathleen Le Teve,67.0,Female,75,Administrative Roles,Unknown,High Net Worth,No,18,4211,Queensland,3,691,0.6906249999999999,0.47,0.47,0.47,0.47,691
+Thaddus Joder,60.0,Male,31,unknown,Manufacturing,Mass Customer,No,7,2290,New South Wales,8,698,0.69,0.48,0.48,0.48,0.408,698
+Josepha Clamp,56.0,Female,12,Administrative Roles,Unknown,High Net Worth,No,12,2069,New South Wales,12,698,0.69,1.03,1.03,1.2875,1.2875,698
+Jillane Simion,43.0,Female,8,Management & Leadership Roles,Manufacturing,High Net Worth,No,7,4209,Queensland,3,700,0.6875,1.01,1.01,1.01,1.01,700
+Lynnell Shoesmith,36.0,Female,44,Healthcare & Therapy,Health,High Net Worth,Yes,7,2560,New South Wales,8,700,0.6875,0.76,0.95,0.95,0.95,700
+Mandie MacAdie,43.0,Female,39,Engineering & Technical Roles,Telecommunications,High Net Worth,No,13,2110,New South Wales,11,700,0.6875,1.04,1.04,1.3,1.3,700
+Ferdinand Billie,52.0,Male,97,Engineering & Technical Roles,Manufacturing,Mass Customer,No,6,2759,New South Wales,8,700,0.6875,0.87,0.87,1.0875,0.924375,700
+Suzy Bussens,44.0,Female,44,unknown,Financial Services,Mass Customer,No,13,4102,Queensland,9,700,0.6875,0.96,0.96,1.2,1.02,700
+Emeline Vezey,64.0,Female,37,Healthcare & Therapy,Health,Affluent Customer,Yes,19,3759,Victoria,7,700,0.6875,0.98,1.225,1.225,1.225,700
+Cissiee Baylis,66.0,Female,99,Management & Leadership Roles,Financial Services,High Net Worth,No,16,2230,New South Wales,11,700,0.6875,0.46,0.46,0.5750000000000001,0.5750000000000001,700
+Roldan Raybould,42.0,Male,27,Finance & Accounting,Financial Services,Mass Customer,No,11,3158,Victoria,8,700,0.6875,1.0,1.0,1.0,0.85,700
+Barth Weare,71.0,Male,18,Healthcare & Therapy,Health,Mass Customer,Yes,8,2541,New South Wales,5,708,0.68,0.73,0.9125,0.9125,0.775625,708
+Alta Pithcock,18.0,Female,64,Engineering & Technical Roles,Financial Services,Mass Customer,No,2,2141,New South Wales,7,708,0.68,0.6,0.6,0.6,0.51,708
+Marc Keunemann,45.0,Male,57,Healthcare & Therapy,Health,Affluent Customer,Yes,14,2747,New South Wales,8,708,0.68,0.73,0.9125,0.9125,0.9125,708
+Bertine Smalles,34.0,Female,85,Management & Leadership Roles,Financial Services,Mass Customer,Yes,9,3028,Victoria,8,708,0.68,0.49,0.6125,0.765625,0.65078125,708
+Wilbert O'Loughnan,34.0,Male,14,Administrative Roles,Financial Services,Mass Customer,Yes,6,4055,Queensland,9,708,0.68,0.93,1.1625,1.453125,1.23515625,708
+Seymour Fellibrand,46.0,Male,28,Engineering & Technical Roles,Unknown,Affluent Customer,Yes,18,4650,Queensland,2,708,0.68,0.4,0.5,0.5,0.5,708
+Miran Runchman,42.0,Female,47,Healthcare & Therapy,Retail,Mass Customer,No,17,4304,Queensland,3,708,0.68,0.56,0.56,0.56,0.47600000000000003,708
+Dorotea Fenwick,67.0,Female,74,Healthcare & Therapy,Financial Services,High Net Worth,No,12,2016,New South Wales,11,715,0.67734375,0.68,0.68,0.8500000000000001,0.8500000000000001,715
+Jenny Massy,54.0,Female,82,Administrative Roles,Telecommunications,Mass Customer,Yes,10,2470,New South Wales,2,715,0.67734375,0.93,1.1625,1.453125,1.23515625,715
+Hyman Petrolli,52.0,Male,8,Marketing & Media,Unknown,Affluent Customer,Yes,4,3782,Victoria,7,715,0.67734375,0.93,1.1625,1.1625,1.1625,715
+Beatrix McGivena,51.0,Female,26,Administrative Roles,Health,Mass Customer,Yes,9,4879,Queensland,10,715,0.67734375,0.7,0.875,1.09375,0.9296875,715
+Nalani Hallad,18.0,Female,15,Science & Research,Health,Affluent Customer,Yes,9,3184,Victoria,9,719,0.675,0.9,1.125,1.40625,1.40625,719
+Inglebert Butland,51.0,Male,71,Finance & Accounting,Financial Services,Mass Customer,Yes,7,2114,New South Wales,9,719,0.675,0.58,0.725,0.90625,0.7703125,719
+Brendis Pineaux,39.0,Male,12,Engineering & Technical Roles,Manufacturing,Mass Customer,No,5,2560,New South Wales,4,719,0.675,0.85,0.85,0.85,0.7224999999999999,719
+Jaimie Lancastle,45.0,Male,71,Management & Leadership Roles,Unknown,Mass Customer,Yes,5,2750,New South Wales,8,722,0.6715,0.53,0.6625000000000001,0.6625000000000001,0.5631250000000001,722
+Glendon Malham,52.0,Male,36,IT & Software Roles,Manufacturing,Mass Customer,No,17,3030,Victoria,6,722,0.6715,0.73,0.73,0.73,0.6204999999999999,722
+Morganica Bentke,41.0,Female,40,Administrative Roles,IT,Affluent Customer,Yes,21,3067,Victoria,11,724,0.67,0.47,0.5874999999999999,0.7343749999999999,0.7343749999999999,724
+Calida Schaben,48.0,Female,54,Administrative Roles,Unknown,Mass Customer,Yes,10,2199,New South Wales,9,725,0.6693749999999999,1.05,1.3125,1.640625,1.39453125,725
+Hallsy Voysey,47.0,Male,83,Management & Leadership Roles,Unknown,Mass Customer,No,16,3437,Victoria,9,725,0.6693749999999999,1.06,1.06,1.3250000000000002,1.1262500000000002,725
+Lanny Currall,20.0,Male,37,IT & Software Roles,Unknown,High Net Worth,Yes,9,2209,New South Wales,10,725,0.6693749999999999,0.83,1.0374999999999999,1.2968749999999998,1.2968749999999998,725
+Son Varney,24.0,Male,75,Administrative Roles,Property,Mass Customer,Yes,10,2480,New South Wales,7,725,0.6693749999999999,1.08,1.35,1.35,1.1475,725
+Bartram Caltun,61.0,Male,28,Finance & Accounting,Health,Affluent Customer,Yes,12,2121,New South Wales,11,725,0.6693749999999999,0.54,0.675,0.84375,0.84375,725
+Halette Borsi,56.0,Female,60,Science & Research,Health,Affluent Customer,Yes,16,2128,New South Wales,9,725,0.6693749999999999,0.84,1.05,1.3125,1.3125,725
+Killie Densie,20.0,Male,87,Science & Research,IT,Mass Customer,Yes,11,2042,New South Wales,10,731,0.6640625,0.48,0.6,0.75,0.6375,731
+Mandi Adamsson,25.0,Female,40,IT & Software Roles,Manufacturing,Mass Customer,Yes,5,4165,Queensland,5,731,0.6640625,0.51,0.6375,0.6375,0.541875,731
+Kylila Basezzi,72.0,Female,94,Administrative Roles,Unknown,Mass Customer,Yes,9,4217,Queensland,9,733,0.6625000000000001,0.43,0.5375,0.671875,0.57109375,733
+Yardley Matten,26.0,Male,35,Marketing & Media,Financial Services,Mass Customer,No,15,4408,Queensland,2,733,0.6625000000000001,0.64,0.64,0.64,0.544,733
+Shepperd Leonards,36.0,Male,17,Engineering & Technical Roles,Manufacturing,Mass Customer,Yes,5,2147,New South Wales,9,733,0.6625000000000001,1.08,1.35,1.6875,1.434375,733
+Hamel Curzey,27.0,Male,11,Engineering & Technical Roles,Unknown,Mass Customer,Yes,9,4000,Queensland,7,733,0.6625000000000001,0.63,0.7875,0.7875,0.6693749999999999,733
+Fancie Woofendell,51.0,Female,68,Science & Research,Health,Mass Customer,Yes,6,4212,Queensland,7,733,0.6625000000000001,0.92,1.1500000000000001,1.1500000000000001,0.9775,733
+Zebulen Emtage,54.0,Male,52,Management & Leadership Roles,Unknown,High Net Worth,Yes,17,4352,Queensland,7,733,0.6625000000000001,0.58,0.725,0.725,0.725,733
+Micheil Fleote,42.0,Male,48,Engineering & Technical Roles,Manufacturing,High Net Worth,No,16,2093,New South Wales,9,739,0.66,0.69,0.69,0.8624999999999999,0.8624999999999999,739
+Cecily Faircley,70.0,Female,42,Finance & Accounting,IT,Affluent Customer,Yes,19,4301,Queensland,1,739,0.66,0.95,1.1875,1.1875,1.1875,739
+Glory Chilcott,78.0,Female,49,unknown,Telecommunications,High Net Worth,No,9,4165,Queensland,5,741,0.65875,0.4,0.4,0.4,0.4,741
+Sinclair Wark,43.0,Male,68,Finance & Accounting,Financial Services,Mass Customer,Yes,11,2134,New South Wales,9,741,0.65875,0.87,1.0875,1.359375,1.15546875,741
+Tomaso Horsley,16.0,Male,97,Marketing & Media,Financial Services,Mass Customer,Yes,10,3977,Victoria,6,741,0.65875,0.95,1.1875,1.484375,1.26171875,741
+Gilli Christophers,69.0,Female,70,IT & Software Roles,Property,Affluent Customer,Yes,17,4575,Queensland,9,744,0.65625,0.82,1.025,1.28125,1.28125,744
+Errick Burgin,19.0,Male,87,Education & Teaching,Entertainment,Mass Customer,No,11,2650,New South Wales,2,744,0.65625,0.49,0.49,0.6125,0.520625,744
+Damian Renard,41.0,Male,43,IT & Software Roles,Retail,Affluent Customer,No,8,2155,New South Wales,10,744,0.65625,1.06,1.06,1.3250000000000002,1.3250000000000002,744
+Agnola Batterson,38.0,Female,86,Administrative Roles,Financial Services,Mass Customer,No,7,4305,Queensland,3,747,0.6545,0.68,0.68,0.8500000000000001,0.7225,747
+Riki Wandtke,55.0,Female,25,Science & Research,Entertainment,Mass Customer,Yes,5,4115,Queensland,7,748,0.65078125,0.44,0.55,0.55,0.4675,748
+Mikol Eck,42.0,Male,99,Management & Leadership Roles,Financial Services,Mass Customer,Yes,21,4130,Queensland,9,748,0.65078125,0.96,1.2,1.5,1.275,748
+Phyllis Wibberley,47.0,Female,7,IT & Software Roles,Retail,Affluent Customer,No,11,2066,New South Wales,12,750,0.65,0.67,0.67,0.8375,0.8375,750
+Burt Vasechkin,67.0,Male,33,Marketing & Media,Retail,Mass Customer,Yes,20,3338,Victoria,2,751,0.648125,0.56,0.7000000000000001,0.7000000000000001,0.5950000000000001,751
+Adriana Saundercock,46.240081383519836,U,20,Healthcare & Therapy,IT,High Net Worth,Yes,14,3806,Victoria,7,751,0.648125,0.43,0.5375,0.5375,0.5375,751
+Trudie Phinnessy,57.0,Female,45,unknown,Financial Services,Mass Customer,Yes,15,3030,Victoria,9,751,0.648125,0.41,0.5125,0.640625,0.54453125,751
+Frederigo Cribbott,52.0,Male,35,Marketing & Media,Health,Mass Customer,No,16,2140,New South Wales,8,754,0.646,0.49,0.49,0.49,0.4165,754
+Glenda Eliet,43.0,Female,87,Healthcare & Therapy,Unknown,Mass Customer,No,12,3844,Victoria,7,755,0.64,0.46,0.46,0.5750000000000001,0.48875,755
+Darb  ,48.0,Male,80,Science & Research,Health,Affluent Customer,No,10,4034,Queensland,5,755,0.64,0.63,0.63,0.63,0.63,755
+Cal Van den Velde,21.0,Male,22,Marketing & Media,Financial Services,Affluent Customer,Yes,6,3174,Victoria,6,755,0.64,0.59,0.7374999999999999,0.7374999999999999,0.7374999999999999,755
+Stephani Sidsaff,44.0,Female,32,Engineering & Technical Roles,Financial Services,Mass Customer,Yes,6,2036,New South Wales,11,755,0.64,0.92,1.1500000000000001,1.4375000000000002,1.2218750000000003,755
+Meade Bampton,35.0,Male,69,Healthcare & Therapy,Health,High Net Worth,No,17,2090,New South Wales,7,755,0.64,1.04,1.04,1.04,1.04,755
+Flore Cashen,39.0,Female,79,unknown,Health,High Net Worth,No,17,2640,New South Wales,4,760,0.6375,0.86,0.86,0.86,0.86,760
+Leighton Firbanks,44.0,Male,51,Education & Teaching,Retail,Affluent Customer,No,21,4178,Queensland,3,760,0.6375,0.87,0.87,0.87,0.87,760
+Petr Westman,30.0,Male,5,Healthcare & Therapy,Property,Mass Customer,No,7,4556,Queensland,7,760,0.6375,0.82,0.82,0.82,0.697,760
+Yorgos Dewhurst,67.0,Male,6,IT & Software Roles,Argiculture,Affluent Customer,No,16,4701,Queensland,1,760,0.6375,1.04,1.04,1.04,1.04,760
+Simmonds Bapty,15.0,Male,52,Marketing & Media,Financial Services,Affluent Customer,No,8,2025,New South Wales,12,760,0.6375,0.89,0.89,1.1125,1.1125,760
+Hagen MacCarter,34.0,Male,93,unknown,Entertainment,Affluent Customer,Yes,15,3172,Victoria,9,760,0.6375,0.88,1.1,1.375,1.375,760
+Cazzie Stanwix,57.0,Male,37,Administrative Roles,Manufacturing,High Net Worth,Yes,11,4561,Queensland,7,760,0.6375,0.46,0.5750000000000001,0.5750000000000001,0.5750000000000001,760
+Geoff Gwillym,18.0,Male,89,Healthcare & Therapy,Health,Affluent Customer,No,8,2323,New South Wales,4,760,0.6375,0.55,0.55,0.6875,0.6875,760
+Simonette  ,27.0,Female,4,Management & Leadership Roles,Manufacturing,Affluent Customer,Yes,6,2232,New South Wales,8,760,0.6375,0.65,0.8125,0.8125,0.8125,760
+Deirdre Sturgeon,52.0,Female,11,Management & Leadership Roles,Retail,Mass Customer,Yes,9,2232,New South Wales,10,760,0.6375,0.67,0.8375,1.046875,0.8898437499999999,760
+Andrea Pendle,79.0,Female,86,unknown,Unknown,High Net Worth,Yes,13,4500,Queensland,6,760,0.6375,1.09,1.3625,1.703125,1.703125,760
+Juliann Siemantel,70.0,Female,86,Science & Research,Entertainment,Mass Customer,No,22,3046,Victoria,8,760,0.6375,0.68,0.68,0.8500000000000001,0.7225,760
+Janaye Eade,33.0,Female,23,Engineering & Technical Roles,Health,Affluent Customer,No,4,2420,New South Wales,3,760,0.6375,1.04,1.04,1.04,1.04,760
+Dylan Stranio,64.0,Male,47,Administrative Roles,Manufacturing,High Net Worth,Yes,9,2170,New South Wales,8,773,0.63,0.59,0.7374999999999999,0.7374999999999999,0.7374999999999999,773
+Mel Rochford,28.0,Female,11,Administrative Roles,Retail,Mass Customer,Yes,4,3013,Victoria,9,774,0.626875,0.5,0.625,0.78125,0.6640625,774
+Elvin Trayhorn,24.0,Male,46,Management & Leadership Roles,Financial Services,High Net Worth,No,10,2231,New South Wales,10,774,0.626875,0.48,0.48,0.6,0.6,774
+Dmitri Viant,46.240081383519836,U,62,Administrative Roles,Financial Services,Affluent Customer,No,5,3842,Victoria,1,774,0.626875,0.59,0.59,0.59,0.59,774
+Sonni Milligan,29.0,Female,73,Finance & Accounting,Retail,Mass Customer,Yes,14,3170,Victoria,9,774,0.626875,0.96,1.2,1.5,1.275,774
+Kellina Haygreen,51.0,Female,38,Science & Research,Entertainment,Affluent Customer,No,18,2046,New South Wales,10,778,0.625,0.43,0.43,0.5375,0.5375,778
+Yuma Dennick,45.0,Male,40,unknown,Manufacturing,Mass Customer,Yes,6,2528,New South Wales,8,778,0.625,0.69,0.8624999999999999,0.8624999999999999,0.7331249999999999,778
+Ashleigh  ,21.0,Female,46,Finance & Accounting,Unknown,Mass Customer,Yes,6,3204,Victoria,12,780,0.6242187499999999,0.68,0.8500000000000001,1.0625,0.903125,780
+Therese Brotherhood,36.0,Female,30,Science & Research,Health,Mass Customer,No,10,2042,New South Wales,10,780,0.6242187499999999,0.73,0.73,0.9125,0.775625,780
+Pansie Beccero,53.0,Female,35,Engineering & Technical Roles,Financial Services,Affluent Customer,Yes,10,4818,Queensland,5,782,0.6204999999999999,1.1,1.375,1.375,1.375,782
+Reinaldos Simmig,63.0,Male,55,Healthcare & Therapy,Manufacturing,High Net Worth,No,8,3147,Victoria,10,782,0.6204999999999999,0.98,0.98,1.225,1.225,782
+Calhoun Mussington,25.0,Male,98,Healthcare & Therapy,Health,Mass Customer,No,12,2019,New South Wales,9,782,0.6204999999999999,0.91,0.91,1.1375,0.9668749999999999,782
+Winn Wells,23.0,Male,66,IT & Software Roles,Manufacturing,Affluent Customer,No,9,2230,New South Wales,10,785,0.62,0.78,0.78,0.9750000000000001,0.9750000000000001,785
+Rafi Brettelle,61.0,Male,89,Administrative Roles,Health,High Net Worth,No,6,2166,New South Wales,10,786,0.61625,0.55,0.55,0.6875,0.6875,786
+Fey  ,60.0,Female,48,Science & Research,Health,High Net Worth,Yes,11,3147,Victoria,12,786,0.61625,1.07,1.3375000000000001,1.6718750000000002,1.6718750000000002,786
+Verne Loalday,35.0,Male,1,Administrative Roles,IT,High Net Worth,No,7,2082,New South Wales,10,788,0.6125,0.43,0.43,0.5375,0.5375,788
+Eleonora Wiszniewski,37.0,Female,49,Finance & Accounting,Financial Services,Affluent Customer,No,9,4740,Queensland,2,788,0.6125,0.52,0.52,0.52,0.52,788
+Fayre Brannigan,25.0,Female,32,Engineering & Technical Roles,Manufacturing,Mass Customer,Yes,9,2234,New South Wales,10,788,0.6125,0.87,1.0875,1.359375,1.15546875,788
+Eachelle Noirel,43.0,Female,93,Healthcare & Therapy,Health,Affluent Customer,Yes,11,2292,New South Wales,6,791,0.612,0.51,0.6375,0.796875,0.796875,791
+Carl Troyes,44.0,Male,4,Education & Teaching,Property,Mass Customer,No,7,3109,Victoria,10,791,0.612,0.69,0.69,0.8624999999999999,0.7331249999999999,791
+Cordie Brankley,63.0,Female,79,Science & Research,Entertainment,High Net Worth,No,18,2195,New South Wales,6,793,0.6109375000000001,0.93,0.93,0.93,0.93,793
+Jackie Pays,62.0,Male,21,IT & Software Roles,Health,Mass Customer,No,9,2135,New South Wales,12,794,0.6056249999999999,0.54,0.54,0.675,0.57375,794
+Carroll Schlagman,66.0,Female,61,Healthcare & Therapy,Health,Affluent Customer,No,13,2099,New South Wales,9,795,0.6034999999999999,1.09,1.09,1.3625,1.3625,795
+Frans Idale,48.0,Male,1,Healthcare & Therapy,Manufacturing,Mass Customer,No,10,4350,Queensland,2,795,0.6034999999999999,0.73,0.73,0.73,0.6204999999999999,795
+Amara Clow,51.0,Female,47,Science & Research,Financial Services,Mass Customer,Yes,13,3101,Victoria,12,797,0.6,0.53,0.6625000000000001,0.8281250000000001,0.7039062500000001,797
+Anthony Morison,79.0,Male,7,Administrative Roles,Health,Mass Customer,No,12,2759,New South Wales,9,797,0.6,0.74,0.74,0.925,0.78625,797
+Cherye Stanfield,36.0,Female,0,Science & Research,Manufacturing,Affluent Customer,No,13,2256,New South Wales,9,797,0.6,0.95,0.95,1.1875,1.1875,797
+Ansell Tolhurst,68.0,Male,77,Engineering & Technical Roles,Manufacturing,Affluent Customer,No,22,2232,New South Wales,10,797,0.6,0.96,0.96,1.2,1.2,797
+Erminie Rabidge,35.0,Female,64,unknown,Manufacturing,High Net Worth,No,17,2170,New South Wales,8,801,0.59765625,0.43,0.43,0.43,0.43,801
+Rosene Beckey,43.0,Female,25,Marketing & Media,Health,Mass Customer,Yes,14,2107,New South Wales,11,801,0.59765625,0.86,1.075,1.34375,1.1421875,801
+Darlleen Shalcras,37.0,Female,77,Healthcare & Therapy,Health,Mass Customer,No,11,2010,New South Wales,10,801,0.59765625,1.05,1.05,1.3125,1.1156249999999999,801
+Bryon Goundry,66.0,Male,79,Administrative Roles,Manufacturing,Mass Customer,No,21,4165,Queensland,5,804,0.5950000000000001,0.47,0.47,0.47,0.39949999999999997,804
+Sherwin Minocchi,70.0,Male,71,Administrative Roles,Unknown,Mass Customer,Yes,11,2536,New South Wales,8,804,0.5950000000000001,0.72,0.8999999999999999,0.8999999999999999,0.7649999999999999,804
+Luci Dyter,65.0,Female,12,Engineering & Technical Roles,Manufacturing,High Net Worth,No,20,3981,Victoria,7,804,0.5950000000000001,0.73,0.73,0.73,0.73,804
+Sloan Pudney,53.0,Male,83,Marketing & Media,Financial Services,Affluent Customer,No,16,4557,Queensland,9,804,0.5950000000000001,0.86,0.86,1.075,1.075,804
+Otes Elegood,77.0,Male,67,IT & Software Roles,Financial Services,High Net Worth,No,21,2226,New South Wales,11,808,0.595,0.98,0.98,1.225,1.225,808
+Davie Blay,32.0,Male,94,Finance & Accounting,Financial Services,Mass Customer,No,8,2770,New South Wales,7,808,0.595,0.67,0.67,0.8375,0.711875,808
+Dorolice Osmon,56.0,Female,46,unknown,Financial Services,Affluent Customer,No,15,3046,Victoria,6,810,0.5874999999999999,0.73,0.73,0.73,0.73,810
+Meade McReedy,49.0,Female,94,Healthcare & Therapy,Financial Services,Affluent Customer,Yes,9,2193,New South Wales,10,810,0.5874999999999999,0.86,1.075,1.34375,1.34375,810
+Rikki Chaffey,72.0,Male,69,Engineering & Technical Roles,Manufacturing,Mass Customer,No,20,4127,Queensland,1,810,0.5874999999999999,0.6,0.6,0.6,0.51,810
+Adria Van den Velde,39.0,Female,39,Engineering & Technical Roles,Manufacturing,Affluent Customer,Yes,9,2261,New South Wales,7,810,0.5874999999999999,0.42,0.525,0.525,0.525,810
+Dmitri  ,26.0,Male,72,unknown,Financial Services,High Net Worth,Yes,15,3690,Victoria,4,810,0.5874999999999999,0.51,0.6375,0.6375,0.6375,810
+Maddalena Hencke,65.0,Female,61,Administrative Roles,Unknown,High Net Worth,No,22,4170,Queensland,5,810,0.5874999999999999,0.81,0.81,0.81,0.81,810
+Rand Winchcum,17.0,Male,34,IT & Software Roles,Unknown,Affluent Customer,No,3,2146,New South Wales,7,810,0.5874999999999999,0.44,0.44,0.44,0.44,810
+Rowen Sollas,57.0,Male,38,Healthcare & Therapy,Health,Mass Customer,No,5,4556,Queensland,8,817,0.5864999999999999,0.55,0.55,0.55,0.4675,817
+Boothe Hayselden,77.0,Male,42,IT & Software Roles,Health,Mass Customer,Yes,17,2291,New South Wales,10,817,0.5864999999999999,0.52,0.65,0.8125,0.6906249999999999,817
+Noak Sleany,52.0,Male,1,Finance & Accounting,Financial Services,Affluent Customer,No,17,3121,Victoria,10,817,0.5864999999999999,1.06,1.06,1.3250000000000002,1.3250000000000002,817
+Callean Wass,29.0,Male,65,Engineering & Technical Roles,Financial Services,Affluent Customer,No,14,3073,Victoria,8,820,0.584375,0.42,0.42,0.42,0.42,820
+Keelby Sudlow,29.0,Male,96,Administrative Roles,Manufacturing,High Net Worth,No,12,3163,Victoria,8,820,0.584375,1.08,1.08,1.35,1.35,820
+Rodrique Vernon,39.0,Male,70,Finance & Accounting,Manufacturing,Affluent Customer,No,17,3174,Victoria,8,820,0.584375,0.6,0.6,0.6,0.6,820
+Brod Attrey,51.0,Male,46,Finance & Accounting,Unknown,Mass Customer,Yes,14,2194,New South Wales,8,820,0.584375,1.05,1.3125,1.3125,1.1156249999999999,820
+Manny Mandy,40.0,Male,36,Marketing & Media,Argiculture,Mass Customer,No,16,4280,Queensland,7,820,0.584375,0.55,0.55,0.55,0.4675,820
+Becky Lassen,44.0,Female,11,Marketing & Media,Financial Services,Mass Customer,Yes,7,2251,New South Wales,8,820,0.584375,1.01,1.2625,1.2625,1.0731249999999999,820
+Tessa Heakey,46.0,Female,43,Finance & Accounting,Financial Services,Mass Customer,No,9,3337,Victoria,6,820,0.584375,0.63,0.63,0.63,0.5355,820
+Herbert Henryson,22.0,Male,21,Administrative Roles,Unknown,Mass Customer,No,4,2528,New South Wales,9,820,0.584375,0.41,0.41,0.5125,0.43562499999999993,820
+Cristie Bence,17.0,Female,49,Engineering & Technical Roles,Unknown,High Net Worth,No,9,4122,Queensland,8,828,0.58,0.94,0.94,0.94,0.94,828
+Renate Whyte,54.0,Female,60,Healthcare & Therapy,Health,High Net Worth,Yes,15,2620,New South Wales,7,828,0.58,0.93,1.1625,1.1625,1.1625,828
+Toma Woolforde,25.0,Female,67,Management & Leadership Roles,Financial Services,Mass Customer,Yes,5,2092,New South Wales,12,830,0.5780000000000001,0.77,0.9625,1.203125,1.02265625,830
+Dorie Dunleavy,55.0,Female,24,Healthcare & Therapy,Health,Affluent Customer,No,12,3356,Victoria,4,830,0.5780000000000001,1.03,1.03,1.03,1.03,830
+Ellie Toope,44.0,Female,29,Administrative Roles,Property,High Net Worth,Yes,4,2156,New South Wales,11,832,0.5750000000000001,0.92,1.1500000000000001,1.4375000000000002,1.4375000000000002,832
+Leonora Swetenham,50.0,Female,66,unknown,IT,Mass Customer,Yes,10,2026,New South Wales,10,832,0.5750000000000001,0.78,0.9750000000000001,1.21875,1.0359375,832
+Teodor Mullinder,55.0,Male,56,Engineering & Technical Roles,Manufacturing,High Net Worth,No,11,3216,Victoria,5,832,0.5750000000000001,0.65,0.65,0.65,0.65,832
+Jared Fendlow,54.0,Male,79,Administrative Roles,Financial Services,Mass Customer,No,15,4211,Queensland,7,832,0.5750000000000001,0.73,0.73,0.73,0.6204999999999999,832
+Porty Hansed,46.240081383519836,U,88,Administrative Roles,IT,Mass Customer,No,13,2112,New South Wales,11,832,0.5750000000000001,0.41,0.41,0.5125,0.43562499999999993,832
+Andy Deeming,39.0,Male,79,Administrative Roles,Manufacturing,Affluent Customer,Yes,7,4556,Queensland,8,832,0.5750000000000001,1.01,1.2625,1.2625,1.2625,832
+Monty Thomazin,66.0,Male,7,Engineering & Technical Roles,Unknown,Mass Customer,Yes,13,3105,Victoria,10,838,0.57375,0.57,0.7124999999999999,0.8906249999999999,0.7570312499999999,838
+Briano Janowski,23.0,Male,66,IT & Software Roles,Unknown,Mass Customer,No,7,2066,New South Wales,8,838,0.57375,0.96,0.96,0.96,0.816,838
+Ginger  ,78.0,Male,94,Administrative Roles,Unknown,Mass Customer,No,11,2259,New South Wales,8,840,0.57109375,0.99,0.99,1.2375,1.0518750000000001,840
+Logan Colomb,70.0,Male,74,Administrative Roles,Unknown,Mass Customer,Yes,19,2761,New South Wales,8,840,0.57109375,0.7,0.875,0.875,0.74375,840
+Nichols Devinn,38.0,Male,47,Administrative Roles,Unknown,Affluent Customer,No,11,2071,New South Wales,12,842,0.57,0.82,0.82,1.025,1.025,842
+Catha Davitt,59.0,Female,79,Science & Research,Property,High Net Worth,Yes,6,2567,New South Wales,7,843,0.5695,0.99,1.2375,1.2375,1.2375,843
+Melosa McOwan,16.0,Female,25,Finance & Accounting,Financial Services,Mass Customer,No,12,2211,New South Wales,9,843,0.5695,0.74,0.74,0.925,0.78625,843
+Maris Leete,44.0,Female,21,Engineering & Technical Roles,Retail,Mass Customer,No,7,4300,Queensland,4,845,0.5631250000000001,0.88,0.88,0.88,0.748,845
+Wilburt Padden,23.0,Male,22,Engineering & Technical Roles,Manufacturing,Mass Customer,No,3,2148,New South Wales,5,845,0.5631250000000001,1.1,1.1,1.1,0.935,845
+Rosabelle Godsmark,22.0,Female,60,Administrative Roles,Unknown,Mass Customer,Yes,3,4102,Queensland,8,845,0.5631250000000001,0.5,0.625,0.625,0.53125,845
+Guilbert Bearns,35.0,Male,42,Finance & Accounting,Financial Services,Mass Customer,Yes,5,3226,Victoria,8,845,0.5631250000000001,0.75,0.9375,0.9375,0.796875,845
+Meridith Urwin,20.0,Female,62,Healthcare & Therapy,Health,High Net Worth,Yes,10,2444,New South Wales,7,845,0.5631250000000001,0.8,1.0,1.0,1.0,845
+Leeland  ,60.0,Male,66,Management & Leadership Roles,Telecommunications,High Net Worth,No,12,4122,Queensland,4,845,0.5631250000000001,0.55,0.55,0.55,0.55,845
+Gerta Porrett,58.0,Female,46,Healthcare & Therapy,Health,High Net Worth,No,12,3250,Victoria,2,851,0.5625,0.6,0.6,0.6,0.6,851
+Karrah Howell,61.0,Female,63,Engineering & Technical Roles,Manufacturing,Mass Customer,No,17,2566,New South Wales,9,851,0.5625,0.5,0.5,0.625,0.53125,851
+Alick Baise,19.0,Male,62,Healthcare & Therapy,Health,Mass Customer,Yes,1,2747,New South Wales,8,851,0.5625,0.6,0.75,0.75,0.6375,851
+Casandra Betteridge,75.0,Female,29,Management & Leadership Roles,Financial Services,Affluent Customer,Yes,9,3166,Victoria,10,854,0.561,0.91,1.1375,1.421875,1.421875,854
+Maurine Clee,37.0,Female,45,Engineering & Technical Roles,Property,High Net Worth,Yes,5,2042,New South Wales,10,854,0.561,0.7,0.875,1.09375,1.09375,854
+Darwin Bumpas,39.0,Male,24,Marketing & Media,Health,Affluent Customer,Yes,18,3082,Victoria,7,856,0.56,0.98,1.225,1.225,1.225,856
+Hayes Daveren,64.0,Male,32,Management & Leadership Roles,Manufacturing,Affluent Customer,Yes,11,4350,Queensland,2,856,0.56,0.6,0.75,0.75,0.75,856
+Piper Issacov,78.0,Female,67,Administrative Roles,Health,Affluent Customer,Yes,22,2088,New South Wales,9,856,0.56,0.66,0.8250000000000001,1.03125,1.03125,856
+Markus Pendrey,58.0,Male,88,Healthcare & Therapy,Health,Affluent Customer,Yes,12,2153,New South Wales,10,859,0.5578124999999999,0.94,1.1749999999999998,1.4687499999999998,1.4687499999999998,859
+Sile Zappel,59.0,Female,47,Management & Leadership Roles,IT,High Net Worth,No,15,4018,Queensland,6,859,0.5578124999999999,0.85,0.85,0.85,0.85,859
+Craggy Happel,38.0,Male,37,Administrative Roles,Manufacturing,High Net Worth,Yes,8,3064,Victoria,6,859,0.5578124999999999,0.46,0.5750000000000001,0.5750000000000001,0.5750000000000001,859
+Egor Mariette,37.0,Male,42,Finance & Accounting,Financial Services,Affluent Customer,No,3,3163,Victoria,7,862,0.5525,1.08,1.08,1.08,1.08,862
+Reinald Bembrigg,64.0,Male,54,Finance & Accounting,Financial Services,Affluent Customer,No,10,2770,New South Wales,7,862,0.5525,0.65,0.65,0.65,0.65,862
+Kissie Line,17.0,Female,2,Science & Research,Manufacturing,Affluent Customer,Yes,7,2200,New South Wales,9,862,0.5525,0.89,1.1125,1.390625,1.390625,862
+Quentin Gerleit,27.0,Female,32,Education & Teaching,Manufacturing,Mass Customer,No,4,3806,Victoria,8,865,0.55,0.72,0.72,0.72,0.612,865
+Karoly Burgoine,70.0,Male,57,Marketing & Media,Health,High Net Worth,Yes,21,3012,Victoria,2,865,0.55,0.83,1.0374999999999999,1.0374999999999999,1.0374999999999999,865
+Clarine Piecha,53.0,Female,99,Healthcare & Therapy,Health,High Net Worth,No,14,4151,Queensland,10,865,0.55,1.07,1.07,1.3375000000000001,1.3375000000000001,865
+Mycah Beaston,56.0,Male,11,Science & Research,Unknown,High Net Worth,Yes,12,2221,New South Wales,11,865,0.55,0.63,0.7875,0.984375,0.984375,865
+Clemmie Bartoszewicz,59.0,Female,87,Science & Research,Financial Services,Mass Customer,No,8,3197,Victoria,9,865,0.55,1.1,1.1,1.375,1.16875,865
+Randall Mason,43.0,Male,95,Engineering & Technical Roles,Health,Mass Customer,Yes,12,2570,New South Wales,11,870,0.544,0.88,1.1,1.375,1.16875,870
+Donica Humby,50.0,Female,47,Management & Leadership Roles,Financial Services,Mass Customer,No,4,2101,New South Wales,12,871,0.541875,0.56,0.56,0.7000000000000001,0.5950000000000001,871
+Lotty Loach,56.0,Female,76,Healthcare & Therapy,Health,High Net Worth,Yes,7,2380,New South Wales,3,871,0.541875,0.63,0.7875,0.7875,0.7875,871
+Marie-jeanne Breawood,64.0,Female,37,Healthcare & Therapy,Health,High Net Worth,No,8,2770,New South Wales,6,871,0.541875,0.81,0.81,0.81,0.81,871
+Babara Sissel,43.0,Female,50,unknown,IT,Mass Customer,Yes,21,3169,Victoria,10,871,0.541875,0.44,0.55,0.6875,0.584375,871
+Rodolphe Glenton,43.0,Male,88,IT & Software Roles,Financial Services,Affluent Customer,No,11,3163,Victoria,7,871,0.541875,0.58,0.58,0.725,0.725,871
+Thorvald Duckerin,22.0,Male,58,Engineering & Technical Roles,Manufacturing,Affluent Customer,Yes,1,3021,Victoria,8,871,0.541875,0.43,0.5375,0.5375,0.5375,871
+Paulina Iannuzzelli,61.0,Female,57,Engineering & Technical Roles,Manufacturing,Mass Customer,No,19,2118,New South Wales,11,877,0.54,0.83,0.83,1.0374999999999999,0.8818749999999999,877
+Ricki Padefield,69.0,Male,43,Engineering & Technical Roles,Manufacturing,Affluent Customer,Yes,13,4275,Queensland,9,877,0.54,0.42,0.525,0.65625,0.65625,877
+Lizette McKeaveney,23.0,Female,30,Administrative Roles,Health,High Net Worth,Yes,13,2050,New South Wales,10,879,0.5375,0.41,0.5125,0.640625,0.640625,879
+Muffin Bhar,51.0,Male,44,unknown,Unknown,Affluent Customer,No,19,2448,New South Wales,4,879,0.5375,0.65,0.65,0.65,0.65,879
+Jeno Strafford,76.0,Male,67,Finance & Accounting,Financial Services,High Net Worth,No,7,4170,Queensland,9,879,0.5375,0.52,0.52,0.65,0.65,879
+Brigg Himsworth,44.0,Male,63,unknown,Telecommunications,Mass Customer,Yes,9,4570,Queensland,6,882,0.5355,0.98,1.225,1.225,1.04125,882
+Judi Cazereau,20.0,Female,22,Engineering & Technical Roles,Unknown,Affluent Customer,Yes,13,3851,Victoria,3,883,0.53125,0.79,0.9875,0.9875,0.9875,883
+Shara Bramhill,46.240081383519836,U,24,unknown,IT,Affluent Customer,No,2,2230,New South Wales,10,883,0.53125,0.61,0.61,0.7625,0.7625,883
+Raleigh Pont,53.0,Male,48,Education & Teaching,Entertainment,Mass Customer,No,14,3139,Victoria,7,883,0.53125,1.03,1.03,1.03,0.8755,883
+Zachariah Meininking,79.0,Male,40,Management & Leadership Roles,Financial Services,Affluent Customer,Yes,20,2749,New South Wales,7,883,0.53125,0.69,0.8624999999999999,0.8624999999999999,0.8624999999999999,883
+Lesley Garey,23.0,Male,52,IT & Software Roles,Telecommunications,Mass Customer,No,11,2226,New South Wales,9,883,0.53125,0.51,0.51,0.6375,0.541875,883
+Adriena Giffin,60.0,Female,27,Administrative Roles,Argiculture,Affluent Customer,Yes,5,2259,New South Wales,9,888,0.525,0.47,0.5874999999999999,0.7343749999999999,0.7343749999999999,888
+Antoinette  ,37.0,Female,72,Engineering & Technical Roles,Financial Services,Affluent Customer,No,5,3058,Victoria,9,888,0.525,0.75,0.75,0.9375,0.9375,888
+Carr Hopkynson,46.0,Male,64,unknown,Manufacturing,Affluent Customer,No,16,2318,New South Wales,6,888,0.525,0.87,0.87,0.87,0.87,888
+Shay Briand,61.0,Male,57,Administrative Roles,IT,Mass Customer,Yes,9,3844,Victoria,1,888,0.525,0.98,1.225,1.225,1.04125,888
+Karney Burstow,45.0,Male,51,Engineering & Technical Roles,Property,Mass Customer,Yes,6,2031,New South Wales,12,888,0.525,1.05,1.3125,1.640625,1.39453125,888
+Latrena Yetts,18.0,Female,11,Engineering & Technical Roles,Manufacturing,High Net Worth,Yes,15,2871,New South Wales,3,893,0.520625,0.75,0.9375,0.9375,0.9375,893
+Jesse Alflat,33.0,Male,31,Administrative Roles,Unknown,High Net Worth,No,5,2145,New South Wales,9,893,0.520625,1.09,1.09,1.3625,1.3625,893
+Kelcie Kingaby,17.0,Female,54,IT & Software Roles,IT,Mass Customer,Yes,6,4019,Queensland,4,893,0.520625,0.69,0.8624999999999999,0.8624999999999999,0.7331249999999999,893
+Fabio Commuzzo,56.0,Male,5,Engineering & Technical Roles,Manufacturing,Mass Customer,No,18,3806,Victoria,8,896,0.52,0.59,0.59,0.59,0.5015,896
+Heall Andrioli,76.0,Male,46,Science & Research,IT,Affluent Customer,Yes,7,4133,Queensland,5,896,0.52,0.56,0.7000000000000001,0.7000000000000001,0.7000000000000001,896
+Rickert Brasted,58.0,Male,47,Science & Research,Health,Mass Customer,No,10,2145,New South Wales,9,898,0.5125,0.47,0.47,0.5874999999999999,0.4993749999999999,898
+Hedwig Jayme,65.0,Female,38,Finance & Accounting,Property,Affluent Customer,No,11,2099,New South Wales,10,899,0.51,1.05,1.05,1.3125,1.3125,899
+Penrod Tomasicchio,49.0,Male,5,unknown,Health,High Net Worth,No,19,2318,New South Wales,9,899,0.51,0.41,0.41,0.5125,0.5125,899
+Pancho Edis,47.0,Male,1,Administrative Roles,Unknown,Mass Customer,No,13,3023,Victoria,7,899,0.51,1.05,1.05,1.05,0.8925,899
+Andriana Gosnoll,53.0,Female,53,Engineering & Technical Roles,Manufacturing,Mass Customer,No,8,2291,New South Wales,10,899,0.51,0.85,0.85,1.0625,0.903125,899
+Nilson Wiggam,21.0,Male,48,Administrative Roles,Financial Services,Mass Customer,No,9,3049,Victoria,6,903,0.5015,0.48,0.48,0.48,0.408,903
+Denny Spleving,44.0,Female,84,Management & Leadership Roles,Manufacturing,Affluent Customer,Yes,5,2114,New South Wales,8,904,0.5,0.44,0.55,0.6875,0.6875,904
+Roth Crum,46.240081383519836,U,0,Administrative Roles,IT,Mass Customer,No,2,2450,New South Wales,6,904,0.5,0.85,0.85,0.85,0.7224999999999999,904
+Olia O' Mullan,44.0,Female,77,Marketing & Media,Health,Mass Customer,No,8,2263,New South Wales,7,904,0.5,0.97,0.97,0.97,0.8245,904
+Conway Juarez,50.0,Male,27,IT & Software Roles,Unknown,Affluent Customer,No,17,4814,Queensland,5,904,0.5,0.77,0.77,0.77,0.77,904
+Dru Crellim,54.0,Female,57,unknown,Unknown,Mass Customer,No,12,3030,Victoria,7,904,0.5,0.86,0.86,0.86,0.731,904
+Shaw MacEvilly,17.0,Male,10,Engineering & Technical Roles,Health,Affluent Customer,No,16,2768,New South Wales,9,904,0.5,0.61,0.61,0.7625,0.7625,904
+Brook Eade,60.0,Female,65,Marketing & Media,Retail,Mass Customer,Yes,8,2330,New South Wales,5,904,0.5,0.92,1.1500000000000001,1.1500000000000001,0.9775,904
+Aleece Feige,42.0,Female,49,unknown,Manufacturing,Mass Customer,No,18,2141,New South Wales,10,904,0.5,0.55,0.55,0.6875,0.584375,904
+Dolorita Strutton,26.0,Female,7,Administrative Roles,Manufacturing,Affluent Customer,No,17,3178,Victoria,8,904,0.5,0.66,0.66,0.66,0.66,904
+Harman A'field,57.0,Male,39,Science & Research,Manufacturing,Affluent Customer,Yes,6,4227,Queensland,5,913,0.4993749999999999,0.76,0.95,0.95,0.95,913
+Hildegarde Bamb,56.0,Female,16,Administrative Roles,Unknown,High Net Worth,Yes,10,3910,Victoria,9,913,0.4993749999999999,0.92,1.1500000000000001,1.4375000000000002,1.4375000000000002,913
+Launce Gale,79.0,Male,86,unknown,Unknown,Mass Customer,No,21,2777,New South Wales,9,913,0.4993749999999999,0.95,0.95,1.1875,1.009375,913
+Ilise Clissold,30.0,Female,58,IT & Software Roles,Entertainment,High Net Worth,No,9,2153,New South Wales,10,913,0.4993749999999999,0.97,0.97,1.2125,1.2125,913
+Julita Prene,38.0,Female,14,Engineering & Technical Roles,Manufacturing,High Net Worth,Yes,13,4128,Queensland,2,913,0.4993749999999999,0.68,0.8500000000000001,0.8500000000000001,0.8500000000000001,913
+Ashlen Willbond,33.0,Female,64,IT & Software Roles,Health,High Net Worth,No,16,3934,Victoria,8,913,0.4993749999999999,0.74,0.74,0.74,0.74,913
+Keely Bointon,29.0,Female,71,Healthcare & Therapy,Telecommunications,High Net Worth,No,3,4154,Queensland,9,913,0.4993749999999999,1.07,1.07,1.3375000000000001,1.3375000000000001,913
+Poul Gaskin,67.0,Male,78,Administrative Roles,Telecommunications,High Net Worth,No,17,2643,New South Wales,2,920,0.4929999999999999,0.66,0.66,0.66,0.66,920
+Sheilakathryn Huff,59.0,Female,45,Administrative Roles,Unknown,High Net Worth,Yes,14,2477,New South Wales,6,921,0.49,0.95,1.1875,1.1875,1.1875,921
+Rubia Evetts,27.0,Female,59,Healthcare & Therapy,Health,Mass Customer,No,16,2071,New South Wales,9,921,0.49,0.75,0.75,0.9375,0.796875,921
+Francklin Cross,36.0,Male,51,Education & Teaching,Property,Mass Customer,Yes,3,2231,New South Wales,10,921,0.49,0.89,1.1125,1.390625,1.1820312499999999,921
+Wilone Champley,34.0,Female,22,unknown,Manufacturing,High Net Worth,No,17,2077,New South Wales,10,924,0.48875,0.62,0.62,0.775,0.775,924
+Lezlie Clemits,44.0,Female,2,Management & Leadership Roles,Financial Services,Mass Customer,Yes,15,2155,New South Wales,10,924,0.48875,0.45,0.5625,0.703125,0.59765625,924
+Kathe Oller,58.0,Female,47,Administrative Roles,Manufacturing,Mass Customer,Yes,5,3029,Victoria,4,926,0.4844999999999999,0.98,1.225,1.225,1.04125,926
+Dulce Bradwell,60.0,Female,61,Science & Research,Manufacturing,Mass Customer,No,20,4159,Queensland,9,926,0.4844999999999999,0.56,0.56,0.7000000000000001,0.5950000000000001,926
+Felice Dechelette,19.0,Male,75,Science & Research,Entertainment,High Net Worth,No,3,4051,Queensland,4,928,0.48,0.44,0.44,0.44,0.44,928
+Joane Caldes,39.0,Female,84,Management & Leadership Roles,Financial Services,High Net Worth,Yes,13,2250,New South Wales,7,928,0.48,0.81,1.0125000000000002,1.2656250000000002,1.2656250000000002,928
+Diane Furman,24.0,Female,67,unknown,Manufacturing,Affluent Customer,Yes,13,3013,Victoria,9,930,0.478125,0.54,0.675,0.84375,0.84375,930
+Ogdan Blenkinship,66.0,Male,65,Healthcare & Therapy,Health,Mass Customer,Yes,21,3429,Victoria,5,930,0.478125,0.66,0.8250000000000001,0.8250000000000001,0.70125,930
+Kizzee Agget,41.0,Female,98,Science & Research,Manufacturing,Affluent Customer,No,8,2213,New South Wales,10,930,0.478125,0.47,0.47,0.5874999999999999,0.5874999999999999,930
+Stephi Highton,30.0,Female,30,Engineering & Technical Roles,Telecommunications,Mass Customer,Yes,12,2154,New South Wales,10,930,0.478125,0.7,0.875,1.09375,0.9296875,930
+Martino Scoles,42.0,Male,18,Finance & Accounting,Financial Services,Mass Customer,No,14,3620,Victoria,4,930,0.478125,0.54,0.54,0.54,0.459,930
+Morgen Newport,57.0,Female,5,Administrative Roles,Manufacturing,Mass Customer,No,6,3340,Victoria,4,930,0.478125,1.01,1.01,1.01,0.8584999999999999,930
+Eugenie Brinson,54.0,Female,79,Administrative Roles,Entertainment,Mass Customer,Yes,17,3073,Victoria,6,936,0.476,0.76,0.95,0.95,0.8075,936
+Reinold Natt,53.0,Male,16,IT & Software Roles,Financial Services,High Net Worth,Yes,8,3207,Victoria,8,937,0.47,0.94,1.1749999999999998,1.1749999999999998,1.1749999999999998,937
+Jo Roberts,72.0,Female,41,Administrative Roles,Financial Services,High Net Worth,Yes,11,2440,New South Wales,3,937,0.47,0.76,0.95,0.95,0.95,937
+Jacklin Duchant,77.0,Female,77,Administrative Roles,Argiculture,Mass Customer,No,17,4132,Queensland,4,939,0.4675,0.44,0.44,0.44,0.374,939
+Colas Gabbitas,71.0,Male,98,Science & Research,Retail,High Net Worth,No,20,2166,New South Wales,9,939,0.4675,0.54,0.54,0.675,0.675,939
+Claudetta Ricciardiello,43.0,Female,61,Finance & Accounting,Financial Services,Mass Customer,Yes,21,3181,Victoria,8,939,0.4675,0.89,1.1125,1.1125,0.945625,939
+Angele Cadore,63.0,Female,5,Engineering & Technical Roles,Unknown,Mass Customer,Yes,7,4125,Queensland,7,939,0.4675,0.58,0.725,0.725,0.61625,939
+Cicily Hast,46.0,Female,63,Science & Research,Health,Affluent Customer,Yes,8,2478,New South Wales,3,939,0.4675,0.89,1.1125,1.1125,1.1125,939
+Harland Messenger,43.0,Male,90,Engineering & Technical Roles,Retail,Mass Customer,No,8,3934,Victoria,10,944,0.46,0.48,0.48,0.6,0.51,944
+Sim Constantinou,25.0,Male,91,Administrative Roles,Property,Mass Customer,No,5,2010,New South Wales,9,944,0.46,0.68,0.68,0.8500000000000001,0.7225,944
+Shanon Rolfe,76.0,Female,63,Marketing & Media,Retail,High Net Worth,No,8,2530,New South Wales,7,944,0.46,1.06,1.06,1.06,1.06,944
+Chryste Oddboy,29.0,Female,44,Engineering & Technical Roles,Manufacturing,High Net Worth,Yes,4,2320,New South Wales,9,947,0.459,0.84,1.05,1.3125,1.3125,947
+Edin Patinkin,25.0,Female,35,Marketing & Media,Health,Mass Customer,No,17,3015,Victoria,4,948,0.456875,1.02,1.02,1.02,0.867,948
+Nolly Ivanchikov,23.0,Male,13,Administrative Roles,Manufacturing,High Net Worth,Yes,11,2049,New South Wales,11,948,0.456875,0.77,0.9625,1.203125,1.203125,948
+Michele Pammenter,34.0,Male,23,Education & Teaching,Health,High Net Worth,No,2,3198,Victoria,8,948,0.456875,0.88,0.88,0.88,0.88,948
+Liane Abelevitz,41.0,Female,26,Administrative Roles,Unknown,Mass Customer,No,3,3153,Victoria,7,951,0.4505,0.67,0.67,0.67,0.5695,951
+Philbert Bangs,51.0,Male,67,Science & Research,IT,Mass Customer,Yes,6,4500,Queensland,7,951,0.4505,0.97,1.2125,1.2125,1.030625,951
+Candy  ,40.0,Female,23,unknown,Financial Services,Mass Customer,No,6,3500,Victoria,3,951,0.4505,0.65,0.65,0.65,0.5525,951
+Noami Cokly,55.0,Female,74,unknown,Manufacturing,Mass Customer,Yes,15,2038,New South Wales,11,954,0.45,0.85,1.0625,1.328125,1.12890625,954
+Lyndell Jereatt,23.0,Female,14,Administrative Roles,Unknown,High Net Worth,No,13,2122,New South Wales,12,954,0.45,0.44,0.44,0.55,0.55,954
+Maximilien Bourget,48.0,Male,12,Science & Research,Financial Services,Mass Customer,Yes,6,3337,Victoria,7,956,0.44625,0.9,1.125,1.125,0.9562499999999999,956
+Benedikta Naptin,22.0,Female,59,Administrative Roles,Retail,Mass Customer,Yes,15,2121,New South Wales,11,956,0.44625,0.67,0.8375,1.046875,0.8898437499999999,956
+Rhodie Gaskall,53.0,Female,83,Management & Leadership Roles,Unknown,Mass Customer,Yes,9,4170,Queensland,9,956,0.44625,0.82,1.025,1.28125,1.0890625,956
+Afton Andrassy,19.0,Female,78,IT & Software Roles,Retail,Mass Customer,No,7,3075,Victoria,8,956,0.44625,1.08,1.08,1.08,0.918,956
+Blondell Dibdall,51.0,Female,62,IT & Software Roles,Unknown,Mass Customer,No,4,3048,Victoria,4,960,0.442,0.72,0.72,0.72,0.612,960
+Sonia Dunstall,42.0,Female,0,Finance & Accounting,Financial Services,Mass Customer,No,10,2570,New South Wales,9,960,0.442,1.04,1.04,1.3,1.105,960
+Benedikt Adamou,30.0,Male,15,Administrative Roles,Health,Mass Customer,No,11,3564,Victoria,3,960,0.442,0.61,0.61,0.61,0.5185,960
+Don Spratling,49.0,Male,82,Education & Teaching,Property,Affluent Customer,Yes,7,2760,New South Wales,10,963,0.44,0.85,1.0625,1.328125,1.328125,963
+Moll Ogilby,37.0,Female,25,Administrative Roles,Manufacturing,Mass Customer,Yes,13,4123,Queensland,6,963,0.44,0.86,1.075,1.075,0.91375,963
+Jammie Seldner,42.0,Female,42,Administrative Roles,Health,Mass Customer,Yes,15,2066,New South Wales,10,963,0.44,1.01,1.2625,1.578125,1.34140625,963
+Inglis Pickaver,23.0,Male,33,Engineering & Technical Roles,Telecommunications,Affluent Customer,No,1,2770,New South Wales,8,963,0.44,1.04,1.04,1.04,1.04,963
+Clarabelle Broschek,54.0,Female,6,Engineering & Technical Roles,Manufacturing,Mass Customer,No,18,4035,Queensland,6,967,0.4356249999999999,0.48,0.48,0.48,0.408,967
+Tillie Bisseker,57.0,Female,74,Engineering & Technical Roles,Manufacturing,High Net Worth,No,14,2104,New South Wales,12,967,0.4356249999999999,0.52,0.52,0.65,0.65,967
+Irving Babcock,31.0,Male,60,Healthcare & Therapy,Health,High Net Worth,Yes,15,2705,New South Wales,1,967,0.4356249999999999,1.02,1.275,1.275,1.275,967
+Evered Gludor,66.0,Male,3,Engineering & Technical Roles,Manufacturing,High Net Worth,Yes,15,2168,New South Wales,8,967,0.4356249999999999,0.61,0.7625,0.7625,0.7625,967
+Mavra Finan,50.0,Female,30,Healthcare & Therapy,Property,Affluent Customer,Yes,4,2034,New South Wales,9,967,0.4356249999999999,0.92,1.1500000000000001,1.4375000000000002,1.4375000000000002,967
+Frieda Tavinor,18.0,Female,43,unknown,Unknown,Affluent Customer,No,10,3064,Victoria,6,972,0.43,0.63,0.63,0.63,0.63,972
+Ellwood Budden,19.0,Male,82,unknown,Health,Mass Customer,Yes,11,2192,New South Wales,10,972,0.43,0.85,1.0625,1.328125,1.12890625,972
+Alex Patshull,52.0,Female,37,Engineering & Technical Roles,Retail,Mass Customer,Yes,13,4165,Queensland,5,974,0.425,0.58,0.725,0.725,0.61625,974
+Aundrea Outridge,16.0,Female,77,Engineering & Technical Roles,Financial Services,Affluent Customer,Yes,10,3186,Victoria,12,974,0.425,0.75,0.9375,1.171875,1.171875,974
+Amby Bodega,49.0,Male,63,Administrative Roles,Unknown,Affluent Customer,Yes,17,3810,Victoria,6,974,0.425,0.45,0.5625,0.5625,0.5625,974
+Esme Pilipets,50.0,Male,15,Science & Research,Health,Mass Customer,Yes,5,3228,Victoria,9,977,0.42,0.86,1.075,1.34375,1.1421875,977
+Beverly Domnick,79.0,Female,56,Engineering & Technical Roles,IT,Mass Customer,No,9,2232,New South Wales,10,977,0.42,0.7,0.7,0.875,0.74375,977
+Artemis Swanson,40.0,Male,77,IT & Software Roles,Argiculture,Mass Customer,Yes,13,3810,Victoria,5,979,0.4165,1.1,1.375,1.375,1.16875,979
+Daryle Marginson,31.0,Male,93,Science & Research,Argiculture,Mass Customer,Yes,9,2121,New South Wales,12,979,0.4165,0.58,0.725,0.90625,0.7703125,979
+Tyne Anshell,25.0,Female,71,Engineering & Technical Roles,Unknown,Mass Customer,Yes,3,2560,New South Wales,8,979,0.4165,1.09,1.3625,1.3625,1.158125,979
+Leona Shorrock,66.0,Female,83,Engineering & Technical Roles,Financial Services,Affluent Customer,Yes,22,4720,Queensland,1,979,0.4165,0.67,0.8375,1.046875,1.046875,979
+Bertrando Carass,61.0,Male,45,Marketing & Media,Property,Mass Customer,No,8,2565,New South Wales,5,983,0.41,0.87,0.87,0.87,0.7394999999999999,983
+Augusta Munns,66.0,Female,5,Healthcare & Therapy,Unknown,Mass Customer,No,21,2074,New South Wales,11,983,0.41,0.76,0.76,0.95,0.8075,983
+Pauline Dallosso,46.240081383519836,U,82,IT & Software Roles,IT,Affluent Customer,Yes,0,2050,New South Wales,10,985,0.408,0.82,1.025,1.28125,1.28125,985
+Lauralee Fudge,30.0,Female,83,Science & Research,Health,Mass Customer,No,15,3277,Victoria,4,985,0.408,1.09,1.09,1.3625,1.158125,985
+Consalve Ballay,58.0,Male,41,IT & Software Roles,IT,Mass Customer,Yes,7,2250,New South Wales,8,987,0.4,0.76,0.95,0.95,0.8075,987
+Lolly Prewer,20.0,Female,44,Science & Research,Health,Mass Customer,No,15,2620,New South Wales,7,988,0.3995,0.65,0.65,0.65,0.5525,988
+Vyky Pegg,74.0,Female,64,Healthcare & Therapy,Manufacturing,Mass Customer,Yes,11,2322,New South Wales,7,988,0.3995,0.46,0.5750000000000001,0.5750000000000001,0.48875,988
+Kellen Pawelski,72.0,Female,83,unknown,Manufacturing,High Net Worth,Yes,11,2193,New South Wales,8,988,0.3995,0.48,0.6,0.75,0.75,988
+Jermaine Bagshawe,63.0,Female,60,Administrative Roles,Property,Mass Customer,Yes,9,4209,Queensland,6,988,0.3995,1.0,1.25,1.25,1.0625,988
+Bryan Jachtym,43.0,Male,59,Engineering & Technical Roles,Manufacturing,Mass Customer,Yes,15,3356,Victoria,3,988,0.3995,0.85,1.0625,1.0625,0.903125,988
+Renie Laundon,44.0,Female,32,Administrative Roles,Entertainment,Mass Customer,Yes,8,4118,Queensland,3,993,0.391,0.66,0.8250000000000001,0.8250000000000001,0.70125,993
+Weidar Etheridge,58.0,Male,38,Finance & Accounting,Financial Services,Mass Customer,Yes,6,2422,New South Wales,4,994,0.3825,0.79,0.9875,0.9875,0.839375,994
+Datha Fishburn,27.0,Female,15,Administrative Roles,Retail,Mass Customer,No,3,3079,Victoria,12,994,0.3825,0.51,0.51,0.6375,0.541875,994
+Ferdinand Romanetti,58.0,Male,60,Administrative Roles,Financial Services,Affluent Customer,No,9,2200,New South Wales,7,996,0.374,0.96,0.96,0.96,0.96,996
+Burk Wortley,16.0,Male,22,Marketing & Media,Health,Mass Customer,No,6,2196,New South Wales,10,997,0.357,0.44,0.44,0.55,0.4675,997
+Melloney Temby,63.0,Female,17,Finance & Accounting,Financial Services,Affluent Customer,Yes,15,4702,Queensland,2,997,0.357,0.77,0.9625,0.9625,0.9625,997
+Dickie Cubbini,65.0,Male,30,Finance & Accounting,Financial Services,Mass Customer,Yes,19,4215,Queensland,2,997,0.357,0.69,0.8624999999999999,0.8624999999999999,0.7331249999999999,997
+Sylas Duffill,62.0,Male,56,Administrative Roles,Property,Mass Customer,Yes,14,2010,New South Wales,9,1000,0.34,1.04,1.3,1.625,1.3812499999999999,1000
